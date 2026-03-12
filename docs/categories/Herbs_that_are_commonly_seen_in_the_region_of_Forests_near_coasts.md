@@ -1,0 +1,10 @@
+---
+title: "Category: Herbs that are commonly seen in the region of Forests near coasts"
+---
+
+# Herbs that are commonly seen in the region of Forests near coasts
+
+Pages in this category: **2**
+
+* [Paullinia asiatica](../herbs/Paullinia_asiatica.md)
+* [Toddalia asiatica](../herbs/Toddalia_asiatica.md)

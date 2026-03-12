@@ -1,0 +1,48 @@
+---
+title: "Category: Herbs that are commonly seen in the region of Sub tropical area"
+---
+
+# Herbs that are commonly seen in the region of Sub tropical area
+
+Pages in this category: **40**
+
+* [Abelmoschus esculentus - Bhenda, ಬೆಂಡೆಕಾಯಿ, भिंडी, வெண்டி/பெண் விரல், ലേഡിഫിംഗർ, भेंडी](../herbs/Abelmoschus_esculentus_-_Bhenda,_ಬೆಂಡೆಕಾಯಿ,_भिंडी,_வெண்டி-பெண்_விரல்,_ലേഡിഫിംഗർ,_भेंडी.md)
+* [Abroma augusta - Ulat kambal](../herbs/Abroma_augusta_-_Ulat_kambal.md)
+* [Achyranthes bidentata- Kaadu Uttharaani](../herbs/Achyranthes_bidentata-_Kaadu_Uttharaani.md)
+* [Ageratum conyzoides - Vishamushti](../herbs/Ageratum_conyzoides_-_Vishamushti.md)
+* [Aphanamixis polystachya - Rohithaka](../herbs/Aphanamixis_polystachya_-_Rohithaka.md)
+* [Argemone mexicana - Svarnakshiri](../herbs/Argemone_mexicana_-_Svarnakshiri.md)
+* [Artocarpus heterophyllus - Panasa, Jackfruit](../herbs/Artocarpus_heterophyllus_-_Panasa,_Jackfruit.md)
+* [Asystasia gangetica - Lavana valli](../herbs/Asystasia_gangetica_-_Lavana_valli.md)
+* [Cinnamomum camphora - Karpura](../herbs/Cinnamomum_camphora_-_Karpura.md)
+* [Citrus medica linn - Maatulunga](../herbs/Citrus_medica_linn_-_Maatulunga.md)
+* [Citrus reticulata - Naaranga](../herbs/Citrus_reticulata_-_Naaranga.md)
+* [Cleome viscosa - Tilaparni](../herbs/Cleome_viscosa_-_Tilaparni.md)
+* [Crocus sativus - Kesara](../herbs/Crocus_sativus_-_Kesara.md)
+* [Cucumis sativus - Cucumber, Kantakilata](../herbs/Cucumis_sativus_-_Cucumber,_Kantakilata.md)
+* [Cyanthillium cinereum - Sahadevi](../herbs/Cyanthillium_cinereum_-_Sahadevi.md)
+* [Dalbergia sissoo - Simsapa](../herbs/Dalbergia_sissoo_-_Simsapa.md)
+* [Datura metel - Dhatura](../herbs/Datura_metel_-_Dhatura.md)
+* [Dillenia indica - Bhavya](../herbs/Dillenia_indica_-_Bhavya.md)
+* [Gaultheria fragrantissima - Tailapatra](../herbs/Gaultheria_fragrantissima_-_Tailapatra.md)
+* [Haldina cordifolia - Haridru](../herbs/Haldina_cordifolia_-_Haridru.md)
+* [Heliotropium indicum - Bhurundi](../herbs/Heliotropium_indicum_-_Bhurundi.md)
+* [Hiptage benghalensis - Madhavi lata](../herbs/Hiptage_benghalensis_-_Madhavi_lata.md)
+* [Holoptelea integrifolia - Chirabilva](../herbs/Holoptelea_integrifolia_-_Chirabilva.md)
+* [Indigofera tinctoria - Asita, Nili](../herbs/Indigofera_tinctoria_-_Asita,_Nili.md)
+* [Jasminum sambac - Mallika](../herbs/Jasminum_sambac_-_Mallika.md)
+* [Kigelia pinnata - Sausage tree](../herbs/Kigelia_pinnata_-_Sausage_tree.md)
+* [Lannea coromandelica - Jhingini](../herbs/Lannea_coromandelica_-_Jhingini.md)
+* [Mimosa pudica - Lajjika](../herbs/Mimosa_pudica_-_Lajjika.md)
+* [Mitragyna parvifolia - Bhumikadamba](../herbs/Mitragyna_parvifolia_-_Bhumikadamba.md)
+* [Musa paradisiaca - Rambha](../herbs/Musa_paradisiaca_-_Rambha.md)
+* [Nyctanthes arbor-tristis - Parijata](../herbs/Nyctanthes_arbor-tristis_-_Parijata.md)
+* [Oryza sativa - Dhanya](../herbs/Oryza_sativa_-_Dhanya.md)
+* [Oxalis corniculata - Changeri](../herbs/Oxalis_corniculata_-_Changeri.md)
+* [Paederia foetida - Gandha prasarini](../herbs/Paederia_foetida_-_Gandha_prasarini.md)
+* [Phoenix sylvestris - Kharjura](../herbs/Phoenix_sylvestris_-_Kharjura.md)
+* [Psidium guajava - Peruka](../herbs/Psidium_guajava_-_Peruka.md)
+* [Pterospermum acerifolium - Karnikara](../herbs/Pterospermum_acerifolium_-_Karnikara.md)
+* [Pueraria tuberosa - Vidarikanda](../herbs/Pueraria_tuberosa_-_Vidarikanda.md)
+* [Ruta graveolens - Sitaba](../herbs/Ruta_graveolens_-_Sitaba.md)
+* [Schleichera oleosa - Kosamra](../herbs/Schleichera_oleosa_-_Kosamra.md)

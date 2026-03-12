@@ -1,0 +1,46 @@
+---
+title: "Category: Ayurvedic Herbs known to be helpful to treat Leprosy"
+---
+
+# Ayurvedic Herbs known to be helpful to treat Leprosy
+
+Pages in this category: **38**
+
+* [Abutilon indicum - Atibala](../herbs/Abutilon_indicum_-_Atibala.md)
+* [Alangium salvifolium - Ankola, Sage leaved alangium](../herbs/Alangium_salvifolium_-_Ankola,_Sage_leaved_alangium.md)
+* [Albizia amara - Krishnasirish](../herbs/Albizia_amara_-_Krishnasirish.md)
+* [Ammi majus - Bishop's Weed](../herbs/Ammi_majus_-_Bishop's_Weed.md)
+* [Andrographis paniculata - Kalmegh](../herbs/Andrographis_paniculata_-_Kalmegh.md)
+* [Areca catechu - Pooga](../medicines/Areca_catechu_-_Pooga.md)
+* [Costus speciosus](../herbs/Costus_speciosus.md)
+* [Cryptolepis buchanani](../herbs/Cryptolepis_buchanani.md)
+* [Cyperus rotundus - Mustaka](../herbs/Cyperus_rotundus_-_Mustaka.md)
+* [Dalbergia lanceolaria](../herbs/Dalbergia_lanceolaria.md)
+* [Dalbergia latifolia](../herbs/Dalbergia_latifolia.md)
+* [Diospyros malabarica - Tinduka](../herbs/Diospyros_malabarica_-_Tinduka.md)
+* [Eleusine corocana - Madhulīkā](../herbs/Eleusine_corocana_-_Madhulīkā.md)
+* [Gloriosa superba - Flame lily, Agnimukhi](../herbs/Gloriosa_superba_-_Flame_lily,_Agnimukhi.md)
+* [Gmelina arborea - Gambhari](../herbs/Gmelina_arborea_-_Gambhari.md)
+* [Habenaria intermedia](../herbs/Habenaria_intermedia.md)
+* [Hardwickia binata](../herbs/Hardwickia_binata.md)
+* [Hura crepitans](../herbs/Hura_crepitans.md)
+* [Hydnocarpus kurzii - Chalmogra](../herbs/Hydnocarpus_kurzii_-_Chalmogra.md)
+* [Indigofera aspalathoides](../herbs/Indigofera_aspalathoides.md)
+* [Ipomoea eriocarpa](../herbs/Ipomoea_eriocarpa.md)
+* [Kigelia pinnata - Sausage tree](../herbs/Kigelia_pinnata_-_Sausage_tree.md)
+* [Lantana camara](../herbs/Lantana_camara.md)
+* [Madhuca longifolia - Indian butter tree](../herbs/Madhuca_longifolia_-_Indian_butter_tree.md)
+* [Magnolia champaca - Champaka](../herbs/Magnolia_champaca_-_Champaka.md)
+* [Murdannia nudiflora](../herbs/Murdannia_nudiflora.md)
+* [Mussaenda frondosa](../herbs/Mussaenda_frondosa.md)
+* [Onosma bracteatum](../herbs/Onosma_bracteatum.md)
+* [Operculina turpethum](../herbs/Operculina_turpethum.md)
+* [Pandanus fascicularis - Fragrant Screw Pine](../herbs/Pandanus_fascicularis_-_Fragrant_Screw_Pine.md)
+* [Plumbago indica](../herbs/Plumbago_indica.md)
+* [Schrebera swientenioides](../herbs/Schrebera_swientenioides.md)
+* [Tribulus terrestris - Gokshura](../herbs/Tribulus_terrestris_-_Gokshura.md)
+* [Vachellia nilotica - Gum arabic](../herbs/Vachellia_nilotica_-_Gum_arabic.md)
+* [Ventilago denticulata](../herbs/Ventilago_denticulata.md)
+* [Xanthium strumarium](../herbs/Xanthium_strumarium.md)
+* [Xylia xylocarpa](../herbs/Xylia_xylocarpa.md)
+* [Zingiber zerumbet](../herbs/Zingiber_zerumbet.md)

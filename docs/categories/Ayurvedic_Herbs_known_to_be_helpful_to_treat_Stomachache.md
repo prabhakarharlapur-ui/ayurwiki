@@ -1,0 +1,46 @@
+---
+title: "Category: Ayurvedic Herbs known to be helpful to treat Stomachache"
+---
+
+# Ayurvedic Herbs known to be helpful to treat Stomachache
+
+Pages in this category: **38**
+
+* [Aegle marmelos - Bilva](../herbs/Aegle_marmelos_-_Bilva.md)
+* [Alstonia scholaris - Saptaparna, Doddapala](../herbs/Alstonia_scholaris_-_Saptaparna,_Doddapala.md)
+* [Cajanus cajan - Adhaki, Pegion pea](../herbs/Cajanus_cajan_-_Adhaki,_Pegion_pea.md)
+* [Calotropis procera](../herbs/Calotropis_procera.md)
+* [Cassia tora](../herbs/Cassia_tora.md)
+* [Casuarina equisetifolia](../herbs/Casuarina_equisetifolia.md)
+* [Catunaregam spinosa - Madanaphala](../medicines/Catunaregam_spinosa_-_Madanaphala.md)
+* [Celastrus paniculatus - Jyotishmati](../herbs/Celastrus_paniculatus_-_Jyotishmati.md)
+* [Citrus paradisi](../herbs/Citrus_paradisi.md)
+* [Codonopsis pilosula - Dangshen Bellflower](../herbs/Codonopsis_pilosula_-_Dangshen_Bellflower.md)
+* [Curcuma aromatica - Wild turmeric, Aranyaharidra](../herbs/Curcuma_aromatica_-_Wild_turmeric,_Aranyaharidra.md)
+* [Elettaria cardamomum - Ela, Cardamom](../herbs/Elettaria_cardamomum_-_Ela,_Cardamom.md)
+* [Embelia ribes - Vidanga](../herbs/Embelia_ribes_-_Vidanga.md)
+* [Eryngium foetidum - Culantro](../herbs/Eryngium_foetidum_-_Culantro.md)
+* [Erythroxylum monogynum](../herbs/Erythroxylum_monogynum.md)
+* [Holoptelea integrifolia - Chirabilva](../herbs/Holoptelea_integrifolia_-_Chirabilva.md)
+* [Holostemma adakodien - Arkapushpi, Holostemma](../herbs/Holostemma_adakodien_-_Arkapushpi,_Holostemma.md)
+* [Hydrastis canadensis - Goldenseal](../herbs/Hydrastis_canadensis_-_Goldenseal.md)
+* [Ichnocarpus frutescens - Black creeper](../herbs/Ichnocarpus_frutescens_-_Black_creeper.md)
+* [Jasminum roxburghianum](../herbs/Jasminum_roxburghianum.md)
+* [Kleinhovia hospita - Guest tree](../herbs/Kleinhovia_hospita_-_Guest_tree.md)
+* [Lathyrus sativus - Triputa kalaya](../herbs/Lathyrus_sativus_-_Triputa_kalaya.md)
+* [Lippia alba - Bushy matgrass](../herbs/Lippia_alba_-_Bushy_matgrass.md)
+* [Mitragyna speciosa - Kratom](../herbs/Mitragyna_speciosa_-_Kratom.md)
+* [Moringa oleifera - Drumstick](../herbs/Moringa_oleifera_-_Drumstick.md)
+* [Ophiorrhiza mungos - Indian Snake Root](../herbs/Ophiorrhiza_mungos_-_Indian_Snake_Root.md)
+* [Peucedanum ostruthium - Vietnamese mint](../herbs/Peucedanum_ostruthium_-_Vietnamese_mint.md)
+* [Phyllanthus emblica - Triphala](../herbs/Phyllanthus_emblica_-_Triphala.md)
+* [Piper longum - Pippali](../herbs/Piper_longum_-_Pippali.md)
+* [Rheum rhabarbarum - Rhubarb](../herbs/Rheum_rhabarbarum_-_Rhubarb.md)
+* [Senna tora - Chakramarda](../herbs/Senna_tora_-_Chakramarda.md)
+* [Tanacetum vulgare - Tansy](../herbs/Tanacetum_vulgare_-_Tansy.md)
+* [Terminalia catappa](../herbs/Terminalia_catappa.md)
+* [Trachyspermum ammi - Carom, Ajwain, Ajamoda](../herbs/Trachyspermum_ammi_-_Carom,_Ajwain,_Ajamoda.md)
+* [Woodfordia fruiticosa - Dhaataki](../medicines/Woodfordia_fruiticosa_-_Dhaataki.md)
+* [Ziziphus oenopolia](../herbs/Ziziphus_oenopolia.md)
+* [Ziziphus xylopyra](../herbs/Ziziphus_xylopyra.md)
+* [Ziziphus xylopyrus Willd - Ghoṇṭā](../herbs/Ziziphus_xylopyrus_Willd_-_Ghoṇṭā.md)

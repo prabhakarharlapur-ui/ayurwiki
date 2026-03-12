@@ -1,0 +1,11 @@
+---
+title: "Category: Ayurvedic Herbs known to be helpful to treat Cardiac problems"
+---
+
+# Ayurvedic Herbs known to be helpful to treat Cardiac problems
+
+Pages in this category: **3**
+
+* [Caralluma Adsendens](../herbs/Caralluma_Adsendens.md)
+* [Caralluma Fimbriata](../herbs/Caralluma_Fimbriata.md)
+* [Drimia indica - Kolakanda](../herbs/Drimia_indica_-_Kolakanda.md)

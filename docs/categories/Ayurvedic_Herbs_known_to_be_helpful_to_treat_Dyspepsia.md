@@ -1,0 +1,47 @@
+---
+title: "Category: Ayurvedic Herbs known to be helpful to treat Dyspepsia"
+---
+
+# Ayurvedic Herbs known to be helpful to treat Dyspepsia
+
+Pages in this category: **39**
+
+* [Ageratum conyzoides - Vishamushti](../herbs/Ageratum_conyzoides_-_Vishamushti.md)
+* [Annona Muricata](../medicines/Annona_Muricata.md)
+* [Asparagus racemosus - Shatavari](../herbs/Asparagus_racemosus_-_Shatavari.md)
+* [Cicer arietinum](../herbs/Cicer_arietinum.md)
+* [Cichorium endivia](../herbs/Cichorium_endivia.md)
+* [Citrus maxima - Mallikapuspa](../herbs/Citrus_maxima_-_Mallikapuspa.md)
+* [Citrus reticulata - Naaranga](../herbs/Citrus_reticulata_-_Naaranga.md)
+* [Cleome viscosa - Tilaparni](../herbs/Cleome_viscosa_-_Tilaparni.md)
+* [Cressa cretica](../herbs/Cressa_cretica.md)
+* [Dalbergia lanceolaria](../herbs/Dalbergia_lanceolaria.md)
+* [Drynaria quercifolia](../herbs/Drynaria_quercifolia.md)
+* [Echinops echinatus](../herbs/Echinops_echinatus.md)
+* [Elephantopus scaber](../herbs/Elephantopus_scaber.md)
+* [Embelia ribes - Vidanga](../herbs/Embelia_ribes_-_Vidanga.md)
+* [Euonymus tingens](../herbs/Euonymus_tingens.md)
+* [Gardenia jasminoides - Gandhraj](../herbs/Gardenia_jasminoides_-_Gandhraj.md)
+* [Haematoxylon campechianum](../herbs/Haematoxylon_campechianum.md)
+* [Humulus lupulus - Hops](../herbs/Humulus_lupulus_-_Hops.md)
+* [Jateorhiza palmata](../herbs/Jateorhiza_palmata.md)
+* [Kaempferia galanga - Chandramoolika](../herbs/Kaempferia_galanga_-_Chandramoolika.md)
+* [Kleinhovia hospita - Guest tree](../herbs/Kleinhovia_hospita_-_Guest_tree.md)
+* [Limnophila indica](../herbs/Limnophila_indica.md)
+* [Magnolia champaca - Champaka](../herbs/Magnolia_champaca_-_Champaka.md)
+* [Microcos paniculata](../herbs/Microcos_paniculata.md)
+* [Myrtus communis](../herbs/Myrtus_communis.md)
+* [Picrorhiza scrophulariaeflora](../herbs/Picrorhiza_scrophulariaeflora.md)
+* [Pistacia lentiscus](../herbs/Pistacia_lentiscus.md)
+* [Polygonum hydropiper](../herbs/Polygonum_hydropiper.md)
+* [Pongamia pinnata - Karanjah](../herbs/Pongamia_pinnata_-_Karanjah.md)
+* [Rhododendron arboreum](../herbs/Rhododendron_arboreum.md)
+* [Salix alba - White willow](../herbs/Salix_alba_-_White_willow.md)
+* [Semecarpus anacardium - Agnimukh, Marking nut](../herbs/Semecarpus_anacardium_-_Agnimukh,_Marking_nut.md)
+* [Smilax china - Madhusnuhī](../herbs/Smilax_china_-_Madhusnuhī.md)
+* [Solanum incanum](../herbs/Solanum_incanum.md)
+* [Ventilago denticulata](../herbs/Ventilago_denticulata.md)
+* [Zanthoxylum acanthopodium](../herbs/Zanthoxylum_acanthopodium.md)
+* [Zanthoxylum armatum](../herbs/Zanthoxylum_armatum.md)
+* [Zanthoxylum budrunga](../herbs/Zanthoxylum_budrunga.md)
+* [Zanthoxylum oxyphyllum](../herbs/Zanthoxylum_oxyphyllum.md)

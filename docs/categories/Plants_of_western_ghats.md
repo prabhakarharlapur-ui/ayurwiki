@@ -1,0 +1,46 @@
+---
+title: "Category: Plants of western ghats"
+---
+
+# Plants of western ghats
+
+Pages in this category: **38**
+
+* [Abelmoschus moschatus - Latakasturi](../herbs/Abelmoschus_moschatus_-_Latakasturi.md)
+* [Abutilon persicum - Bettabende](../herbs/Abutilon_persicum_-_Bettabende.md)
+* [Adenanthera pavonina - Ksharaka](../herbs/Adenanthera_pavonina_-_Ksharaka.md)
+* [Aesculus indica - Indian horse chestnut](../herbs/Aesculus_indica_-_Indian_horse_chestnut.md)
+* [Alstonia venenata - Vishagni](../herbs/Alstonia_venenata_-_Vishagni.md)
+* [Anacardium occidentale - Vrikkaphala](../herbs/Anacardium_occidentale_-_Vrikkaphala.md)
+* [Anamirta cocculus - Garalaphala](../herbs/Anamirta_cocculus_-_Garalaphala.md)
+* [Anogeissus latifolia - Dhava](../herbs/Anogeissus_latifolia_-_Dhava.md)
+* [Aphanamixis polystachya - Rohithaka](../herbs/Aphanamixis_polystachya_-_Rohithaka.md)
+* [Balanites roxburghii - Ingudi](../herbs/Balanites_roxburghii_-_Ingudi.md)
+* [Baliospermum montanum - Danti](../herbs/Baliospermum_montanum_-_Danti.md)
+* [Barringtonia acutangula - Samudraphala](../herbs/Barringtonia_acutangula_-_Samudraphala.md)
+* [Biophytum sensitivum - Alambusha](../herbs/Biophytum_sensitivum_-_Alambusha.md)
+* [Borassus flabellifer - Talah](../herbs/Borassus_flabellifer_-_Talah.md)
+* [Bridelia retusa - Ekavira](../herbs/Bridelia_retusa_-_Ekavira.md)
+* [Bridelia stipularis - Ghonta](../herbs/Bridelia_stipularis_-_Ghonta.md)
+* [Canarium strictum - Mandadhupa](../herbs/Canarium_strictum_-_Mandadhupa.md)
+* [Caryota urens - Sritalah](../herbs/Caryota_urens_-_Sritalah.md)
+* [Crinum latifolium - Sudarsana](../herbs/Crinum_latifolium_-_Sudarsana.md)
+* [Cycas circinalis - Hintala](../herbs/Cycas_circinalis_-_Hintala.md)
+* [Dillenia indica - Bhavya](../herbs/Dillenia_indica_-_Bhavya.md)
+* [Dipterocarpus turbinatus - Asvakarna](../herbs/Dipterocarpus_turbinatus_-_Asvakarna.md)
+* [Exacum bicolor - Akshipushpi](../herbs/Exacum_bicolor_-_Akshipushpi.md)
+* [Gaultheria fragrantissima - Tailapatra](../herbs/Gaultheria_fragrantissima_-_Tailapatra.md)
+* [Haldina cordifolia - Haridru](../herbs/Haldina_cordifolia_-_Haridru.md)
+* [Holoptelea integrifolia - Chirabilva](../herbs/Holoptelea_integrifolia_-_Chirabilva.md)
+* [Kalimeris indica](../herbs/Kalimeris_indica.md)
+* [Lannea coromandelica - Jhingini](../herbs/Lannea_coromandelica_-_Jhingini.md)
+* [Macaranga peltata - Uppalige](../herbs/Macaranga_peltata_-_Uppalige.md)
+* [Myristica dactyloides - Jatiphala](../herbs/Myristica_dactyloides_-_Jatiphala.md)
+* [Naravelia zeylanica - Dhanavalli](../herbs/Naravelia_zeylanica_-_Dhanavalli.md)
+* [Paederia foetida - Gandha prasarini](../herbs/Paederia_foetida_-_Gandha_prasarini.md)
+* [Phyllodium pulchellum - Lodhrah](../herbs/Phyllodium_pulchellum_-_Lodhrah.md)
+* [Putranjiva roxburghi - Putranjiva](../herbs/Putranjiva_roxburghi_-_Putranjiva.md)
+* [Schleichera oleosa - Kosamra](../herbs/Schleichera_oleosa_-_Kosamra.md)
+* [Sterculia foetida - Vitkhadirah](../herbs/Sterculia_foetida_-_Vitkhadirah.md)
+* [Thottea siliquosa - Chakrani](../herbs/Thottea_siliquosa_-_Chakrani.md)
+* [Zanthoxylum rhetsa - Asvaghra](../herbs/Zanthoxylum_rhetsa_-_Asvaghra.md)

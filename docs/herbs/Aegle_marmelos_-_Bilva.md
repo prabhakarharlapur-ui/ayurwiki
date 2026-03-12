@@ -1,0 +1,135 @@
+---
+title: "Aegle marmelos - Bilva"
+categories:
+  - "Herbs_with_common_name_in_Hindi"
+  - "Herbs_with_common_name_in_Tamil"
+  - "Herbs_with_common_name_in_Sanskrit"
+  - "Ayurvedic_Herbs_known_to_be_helpful_to_treat_Fever"
+  - "Ayurvedic herbs that don't have seed photos"
+  - "Ayurvedic_Herbs_known_to_be_helpful_to_treat_Diabetes"
+  - "Herbs_with_common_name_in_Malayalam"
+  - "Herbs_with_Leaves_used_in_medicine"
+  - "Rutaceae"
+  - "Herbs_with_common_name_in_Marathi"
+  - "Herbs_with_common_name_in_Kashmiri"
+  - "Ayurvedic_Herbs_known_to_be_helpful_to_treat_Infection_in_intestine"
+  - "Herbs_with_common_name_in_English"
+  - "Herbs_with_common_name_in_Telugu"
+  - "Herbs"
+  - "Ayurvedic_herbs_that_don't_have_seed_photos"
+  - "Herbs_with_common_name_in_Punjabi"
+  - "Ayurvedic_Herbs_known_to_be_helpful_to_treat_Vomiting"
+  - "Ayurvedic_Herbs_known_to_be_helpful_to_treat_Intestinal_worms"
+  - "Index_of_Plants_which_can_be_propagated_by_Seeds"
+  - "Ayurvedic_Herbs_known_to_be_helpful_to_treat_Nasal_bleeding"
+  - "Herbs_with_Seeds_used_in_medicine"
+  - "Ayurvedic_Herbs_known_to_be_helpful_to_treat_Skin_disease"
+  - "Herbs_that_are_commonly_seen_in_the_region_of_Tropical_area"
+  - "Herbs_with_common_name_in_Gujarathi"
+  - "Ayurvedic_Herbs_known_to_be_helpful_to_treat_Stomachache"
+  - "Ayurvedic_Herbs_known_to_be_helpful_to_treat_Cough"
+  - "Habit_-_Tree"
+  - "Herbs_with_common_name_in_Kannada"
+  - "Ayurvedic_Herbs_known_to_be_helpful_to_treat_Diarrhoea"
+  - "Herbs_that_are_commonly_seen_in_the_region_of_Temperate_area"
+date: 2023-02-21
+---
+# Aegle marmelos - Bilva
+
+[TOC]
+
+![*Bilva*](../images/Aegle_marmelos_flower_02.JPG)
+**Bilva** consists of pulp of entire, unripe or half ripe fruits of Aegle marmelos Carr, It is a tree, attaining a height of 12 m growing wild and also cultivated throughout the country, rind of fruit is removed and pulp is bruised and dried.
+## Uses
+Fever, Nasal bleeding, Diarrhoea, Skin disease, Intestinal worms, Cough, Diabetes, Vomiting, Cough, Stomachache, Infection in intestine.
+
+### Food
+Bilva can be used in food. Ripe fruit pulp is eaten raw and also used for making soft drinks and jam
+
+## Parts Used
+Seeds, Leaves, Leaves
+
+## Chemical Composition
+A number of coumarins (including xanthotoxol and alloimperatorin methyl ether), flavonoids (including rutin and marmesin), alkaloids (including alpha-fagarine), sterols and essential oils have been isolated from plant parts. Pectin is an important constituent of the fruit.
+
+## Common names
+| Language | Names |
+| --- | --- |
+| Kannada | Bilva patre |
+| Malayalam | Koovalam |
+| Sanskrit | Shreephala |
+| Tamil | Vilvam |
+| Telugu | Maredu |
+| Hindi | Bela, Sriphal |
+| English | Bengal Quince, Bael fruit |
+| Marathi | Bel, Baela |
+| Gujarati | Bill, Bilum, Bilvaphal |
+| Punjabi | Bil |
+| KS | Bel |
+
+## Properties
+Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
+### Dravya
+### Rasa
+Katu (Pungent), Tikta, Kashaya
+### Guna
+Laghu (Light), Ruksha (Dry)
+### Veerya
+Ushna (heat)
+### Vipaka
+Katu (Pungent)
+### Karma
+Balya, [Deepana](Deepana.md), Grahya, Paacana
+### Prabhava
+### Nutritional components
+Bilva contains the Following nutritional components like Thiamine, Ribofl avin, Vitamin - C, Niacin; Calcium, Phosphorus, Potassium, Sodium Zinc
+
+## Habit
+Tree
+
+## Identification
+### Leaf
+Alternate, Trifoliate, Each leaflet 5-14 x 2–6 cm, ovate with tapering or pointed tip and rounded base, untoothed or with shallow rounded teeth. Young leaves are pale green or pinkish
+
+### Flower
+Bisexual, 1.5 to 2 cm, Pale green or yellowish, The four or five petals of 6–8 mm overlap in the bud and The ovary is bright green with an inconspicuous disc, Flowering season: March-June
+
+### Fruit
+Globose or slightly pear-shaped, The bael fruit typically has a diameter of between 5 and 12  cm, Many, Fruiting on March-June
+
+### Other features
+## List of Ayurvedic medicine in which the herb is used
+* [Bilvādileha](../medicines/Bilvādileha.md)
+* [Citraka Harītakī](../medicines/Citraka_Harītakī.md)
+
+## Where to get the saplings
+## Mode of Propagation
+Seeds
+
+## Cultivation Details
+Development of seedlings is very slow, and need to be in the nursery for at least a year. Bilva's availability period is from March to June
+
+## Commonly seen growing in areas
+Tropical area, Temperate area.
+
+## Photo Gallery
+![Buds](../images/Aegle_marmelos_flowers_03.JPG)
+![Leaves](../images/Aegle_marmelos_03.JPG)
+![Nuts](../images/Aegle_marmelos_(L.)Correa.jpg)
+![Flower](../images/Aegle_marmelos_flower_02.JPG)
+
+## References
+
+## External Links
+* [The ayurevedic pharmacopoea of India](http://www.ayurveda.hu/api/API-Vol-1.pdf)
+* [Bilva on wisdom library](https://www.wisdomlib.org/definition/bilva)
+* [Bilva on citrusvariety education](https://citrusvariety.ucr.edu/citrus/aegle.html)
+
+## References
+
+1. [Constituents](http://gbpihedenvis.nic.in/PDFs/Glossary_Medicinal_Plants_Springer.pdf)
+2. [Morphology](https://en.wikipedia.org/wiki/Aegle_marmelos)
+3. [details](Cultivation)(https://www.nmpb.nic.in/sites/default/files/publications/bael.pdf)
+4. THE AYURVEDIC PHARMACOPOEIA OF INDIA, PART-I, VOLUME-1, page no 35.
+5. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:239
+6. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.18, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune

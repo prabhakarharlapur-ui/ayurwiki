@@ -1,0 +1,45 @@
+---
+title: "Category: Herbs with Fruit used in medicine"
+---
+
+# Herbs with Fruit used in medicine
+
+Pages in this category: **37**
+
+* [Abelmoschus esculentus - Bhenda, ಬೆಂಡೆಕಾಯಿ, भिंडी, வெண்டி/பெண் விரல், ലേഡിഫിംഗർ, भेंडी](../herbs/Abelmoschus_esculentus_-_Bhenda,_ಬೆಂಡೆಕಾಯಿ,_भिंडी,_வெண்டி-பெண்_விரல்,_ലേഡിഫിംഗർ,_भेंडी.md)
+* [Annona Muricata](../medicines/Annona_Muricata.md)
+* [Annona reticulata - Netted Custard Apple](../herbs/Annona_reticulata_-_Netted_Custard_Apple.md)
+* [Artocarpus lacucha](../herbs/Artocarpus_lacucha.md)
+* [Balanites roxburghii - Ingudi](../herbs/Balanites_roxburghii_-_Ingudi.md)
+* [Borassus flabellifer - Talah](../herbs/Borassus_flabellifer_-_Talah.md)
+* [Callicarpa macrophylla](../herbs/Callicarpa_macrophylla.md)
+* [Capparis zeylanica](../herbs/Capparis_zeylanica.md)
+* [Carallia brachiata](../herbs/Carallia_brachiata.md)
+* [Careya arborea - Kubhīkaḥ](../herbs/Careya_arborea_-_Kubhīkaḥ.md)
+* [Carissa carandas](../herbs/Carissa_carandas.md)
+* [Cissus quadrangula](../herbs/Cissus_quadrangula.md)
+* [Citrullus lanatus](../herbs/Citrullus_lanatus.md)
+* [Citrus aurantifolia](../herbs/Citrus_aurantifolia.md)
+* [Citrus medica linn - Maatulunga](../herbs/Citrus_medica_linn_-_Maatulunga.md)
+* [Citrus paradisi](../herbs/Citrus_paradisi.md)
+* [Cucumis sativus - Cucumber, Kantakilata](../herbs/Cucumis_sativus_-_Cucumber,_Kantakilata.md)
+* [Elaeagnus conferta](../herbs/Elaeagnus_conferta.md)
+* [Eugenia uniflora](../herbs/Eugenia_uniflora.md)
+* [Ficus bengalensis - Vatavriksha](../medicines/Ficus_bengalensis_-_Vatavriksha.md)
+* [Ficus racemosa - Udumbara](../medicines/Ficus_racemosa_-_Udumbara.md)
+* [Guazuma ulmifolia](../herbs/Guazuma_ulmifolia.md)
+* [Lepidagathis trinervis](../herbs/Lepidagathis_trinervis.md)
+* [Melochia corchorifolia](../herbs/Melochia_corchorifolia.md)
+* [Morus alba](../herbs/Morus_alba.md)
+* [Morus nigra](../herbs/Morus_nigra.md)
+* [Naringi crenulata](../herbs/Naringi_crenulata.md)
+* [Paullinia asiatica](../herbs/Paullinia_asiatica.md)
+* [Phyla nodiflora - Jalapippalī](../herbs/Phyla_nodiflora_-_Jalapippalī.md)
+* [Phyllanthus emblica - Triphala](../herbs/Phyllanthus_emblica_-_Triphala.md)
+* [Sandoricum indicum](../herbs/Sandoricum_indicum.md)
+* [Scindapsus officinalis](../herbs/Scindapsus_officinalis.md)
+* [Secamone emetica](../medicines/Secamone_emetica.md)
+* [Simarouba glauca](../medicines/Simarouba_glauca.md)
+* [Solanum torvum](../herbs/Solanum_torvum.md)
+* [Thespesia populnea - Kapītana](../herbs/Thespesia_populnea_-_Kapītana.md)
+* [Vitex agnus-castus - Chastetree](../herbs/Vitex_agnus-castus_-_Chastetree.md)

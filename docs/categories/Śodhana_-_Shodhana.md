@@ -1,0 +1,45 @@
+---
+title: "Category: Śodhana - Shodhana"
+---
+
+# Śodhana - Shodhana
+
+Pages in this category: **37**
+
+* [Ahiphena Śodhana](../Ahiphena_Śodhana.md)
+* [Añjana Śodhana](../Añjana_Śodhana.md)
+* [Ballātaka śodhana](../Ballātaka_śodhana.md)
+* [Capala śodhana](../Capala_śodhana.md)
+* [Dattūra śodhana](../Dattūra_śodhana.md)
+* [Gairika śodhana](../Gairika_śodhana.md)
+* [Gandhaka śodhana](../Gandhaka_śodhana.md)
+* [Gaurīpāṣāṇa śodhana](../Gaurīpāṣāṇa_śodhana.md)
+* [Guñjā śodhana](../Guñjā_śodhana.md)
+* [Haritāla Śodhana](../Haritāla_Śodhana.md)
+* [Hingulottha paarada shodhana](../Hingulottha_paarada_shodhana.md)
+* [Hiṇgu Śodhana](../Hiṇgu_Śodhana.md)
+* [Hiṇula Śodhana](../Hiṇula_Śodhana.md)
+* [Jaipāla śodhana](../Jaipāla_śodhana.md)
+* [Kampillaka śodhana](../Kampillaka_śodhana.md)
+* [Karavīramūla śodhana](../Karavīramūla_śodhana.md)
+* [Kaṅkuṣṭha śodhana](../Kaṅkuṣṭha_śodhana.md)
+* [Kharpara śodhana](../Kharpara_śodhana.md)
+* [Kupīlu śodhana](../Kupīlu_śodhana.md)
+* [Kāśīśa śodhana](../Kāśīśa_śodhana.md)
+* [Kṛṣṇasarpa Viṣa śodhana](../Kṛṣṇasarpa_Viṣa_śodhana.md)
+* [Lāṅgalī śodhana](../Lāṅgalī_śodhana.md)
+* [Manaḥśilā śodhana](../Manaḥśilā_śodhana.md)
+* [Mṛddāra śṛṅga śodhana](../Mṛddāra_śṛṅga_śodhana.md)
+* [Narasāra śodhana](../Narasāra_śodhana.md)
+* [Rakta citraka śodhana](../Rakta_citraka_śodhana.md)
+* [Samudraphena śodhana](../Samudraphena_śodhana.md)
+* [Sindūra śodhana](../Sindūra_śodhana.md)
+* [Snuhikshira shodhana](../Snuhikshira_shodhana.md)
+* [Tuttha śodhana](../Tuttha_śodhana.md)
+* [Varaatika shodhana](../Varaatika_shodhana.md)
+* [Vatsanābha śodhana](../Vatsanābha_śodhana.md)
+* [Vijayā śodhana](../Vijayā_śodhana.md)
+* [Vimala śodhana](../Vimala_śodhana.md)
+* [Vṛddhadāraka śodhana](../Vṛddhadāraka_śodhana.md)
+* [Śīlājatu śodhana](../Śīlājatu_śodhana.md)
+* [Ṭaṅkaṇa śodhana](../Ṭaṅkaṇa_śodhana.md)

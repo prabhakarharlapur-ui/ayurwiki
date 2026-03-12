@@ -1,0 +1,48 @@
+---
+title: "Category: Therapeutic use of Formula - Increased frequency and turbidity of urine"
+---
+
+# Therapeutic use of Formula - Increased frequency and turbidity of urine
+
+Pages in this category: **40**
+
+* [Abhayādi modaka](../medicines/Abhayādi_modaka.md)
+* [Amṛtādi Guggulu](../medicines/Amṛtādi_Guggulu.md)
+* [Aṣṭādaśāṅga lauha](../medicines/Aṣṭādaśāṅga_lauha.md)
+* [Brhat somanaatha rasa](../medicines/Brhat_somanaatha_rasa.md)
+* [Candrakalā vaṭī](../medicines/Candrakalā_vaṭī.md)
+* [Durālabhāriṣṭa](../medicines/Durālabhāriṣṭa.md)
+* [Gandhaka miśraṇa](../medicines/Gandhaka_miśraṇa.md)
+* [Gokṣurādi Guggulu](../medicines/Gokṣurādi_Guggulu.md)
+* [Guḍūcyarka](../medicines/Guḍūcyarka.md)
+* [Kāmadudha rasa sādhāraṇa](../medicines/Kāmadudha_rasa_sādhāraṇa.md)
+* [Kāmalāntaka lauha](../medicines/Kāmalāntaka_lauha.md)
+* [Kāmeśvara Modaka](../medicines/Kāmeśvara_Modaka.md)
+* [Kāñcanābhra rasa bṛhat](../medicines/Kāñcanābhra_rasa_bṛhat.md)
+* [Lauha Rasāyana](../medicines/Lauha_Rasāyana.md)
+* [Lavaṅgādi cūrṇa](../medicines/Lavaṅgādi_cūrṇa.md)
+* [Madhumehāri cūrṇa](../medicines/Madhumehāri_cūrṇa.md)
+* [Madhusnuhī Rasaayana](../medicines/Madhusnuhī_Rasaayana.md)
+* [Methī modaka](../medicines/Methī_modaka.md)
+* [Nārāyana cūrṇa](../medicines/Nārāyana_cūrṇa.md)
+* [Prāṇavallabha rasa](../medicines/Prāṇavallabha_rasa.md)
+* [Punarnavārka](../medicines/Punarnavārka.md)
+* [Samaśarkara cūrṇa](../medicines/Samaśarkara_cūrṇa.md)
+* [Saptaviṁśatikta Guggulu](../medicines/Saptaviṁśatikta_Guggulu.md)
+* [Sarveśvara rasa](../medicines/Sarveśvara_rasa.md)
+* [Surendrābhra vaṭī](../medicines/Surendrābhra_vaṭī.md)
+* [Sāmudrādya cūrṇa](../medicines/Sāmudrādya_cūrṇa.md)
+* [Sārivādi vaṭī](../medicines/Sārivādi_vaṭī.md)
+* [Sārivādyāsava](../medicines/Sārivādyāsava.md)
+* [Takrāriṣṭa](../medicines/Takrāriṣṭa.md)
+* [Trikaṭvādi cūrṇa](../medicines/Trikaṭvādi_cūrṇa.md)
+* [Triphalārka](../medicines/Triphalārka.md)
+* [Vasantatilaka rasa](../medicines/Vasantatilaka_rasa.md)
+* [Vedavidyā vati](../medicines/Vedavidyā_vati.md)
+* [Vijayā guṭikā](../medicines/Vijayā_guṭikā.md)
+* [Viḍaṅgāsava](../medicines/Viḍaṅgāsava.md)
+* [Yogarāja rasāyana](../medicines/Yogarāja_rasāyana.md)
+* [Śaṅkara vaṭī](../medicines/Śaṅkara_vaṭī.md)
+* [Śilājatvādi vaṭī](../medicines/Śilājatvādi_vaṭī.md)
+* [Śothakālānala rasa](../medicines/Śothakālānala_rasa.md)
+* [Śūlarāja lauha](../medicines/Śūlarāja_lauha.md)

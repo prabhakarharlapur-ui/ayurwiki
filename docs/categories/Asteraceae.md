@@ -1,0 +1,46 @@
+---
+title: "Category: Asteraceae"
+---
+
+# Asteraceae
+
+Pages in this category: **38**
+
+* [Acanthospermum hispidum - Kadle mullu](../herbs/Acanthospermum_hispidum_-_Kadle_mullu.md)
+* [Achillea millefolium - Biranjasa](../herbs/Achillea_millefolium_-_Biranjasa.md)
+* [Acmella oleracea - Toothache plant](../herbs/Acmella_oleracea_-_Toothache_plant.md)
+* [Ageratum conyzoides - Vishamushti](../herbs/Ageratum_conyzoides_-_Vishamushti.md)
+* [Anacyclus pyrethrum - Akarkara, Pellitory](../herbs/Anacyclus_pyrethrum_-_Akarkara,_Pellitory.md)
+* [Arctium Lappa - Jangli Kuth](../herbs/Arctium_Lappa_-_Jangli_Kuth.md)
+* [Artemisia - Indhana](../herbs/Artemisia_-_Indhana.md)
+* [Artemisia argyi - Nagadaman, Mugwort](../herbs/Artemisia_argyi_-_Nagadaman,_Mugwort.md)
+* [Artemisia douglasiana - Nagadaman](../herbs/Artemisia_douglasiana_-_Nagadaman.md)
+* [Artemisia pallens - Dhavana](../herbs/Artemisia_pallens_-_Dhavana.md)
+* [Ayapana triplinervis - Vishalyakarni](../herbs/Ayapana_triplinervis_-_Vishalyakarni.md)
+* [Blumea balsamifera - Kukundara](../herbs/Blumea_balsamifera_-_Kukundara.md)
+* [Calendula officinalis - Pot Marigold](../herbs/Calendula_officinalis_-_Pot_Marigold.md)
+* [Carthamus tinctorius - Kust](../herbs/Carthamus_tinctorius_-_Kust.md)
+* [Cnicus benedictus - Cnicus](../herbs/Cnicus_benedictus_-_Cnicus.md)
+* [Cyanthillium cinereum - Sahadevi](../herbs/Cyanthillium_cinereum_-_Sahadevi.md)
+* [Doronicum hookeri - Darawnaj](../herbs/Doronicum_hookeri_-_Darawnaj.md)
+* [Doronicum orientale - Leopard's bane](../herbs/Doronicum_orientale_-_Leopard's_bane.md)
+* [Eclipta prostrata - Bhrngaraja](../herbs/Eclipta_prostrata_-_Bhrngaraja.md)
+* [Emilia sonchifolia - Sasasruti](../herbs/Emilia_sonchifolia_-_Sasasruti.md)
+* [Felicia amelloides - Kasni](../herbs/Felicia_amelloides_-_Kasni.md)
+* [Helichrysum petiolare - Silver bush](../herbs/Helichrysum_petiolare_-_Silver_bush.md)
+* [Inula racemosa hook - Paushkara, Elicampane](../herbs/Inula_racemosa_hook_-_Paushkara,_Elicampane.md)
+* [Jacobaea vulgaris - Ragwort](../herbs/Jacobaea_vulgaris_-_Ragwort.md)
+* [Kalimeris indica](../herbs/Kalimeris_indica.md)
+* [Kleinia grandiflora - Large flowered kleinia](../herbs/Kleinia_grandiflora_-_Large_flowered_kleinia.md)
+* [Lactuca serriola - Kahu](../herbs/Lactuca_serriola_-_Kahu.md)
+* [Matricaria recutita - Matricaria chamomilla](../herbs/Matricaria_recutita_-_Matricaria_chamomilla.md)
+* [Matthiola incana](../herbs/Matthiola_incana.md)
+* [Meconopsis aculeata](../herbs/Meconopsis_aculeata.md)
+* [Mikania cordata](../herbs/Mikania_cordata.md)
+* [Pterocaulon sphacelatum](../herbs/Pterocaulon_sphacelatum.md)
+* [Silybum marianum - Milk thistle](../herbs/Silybum_marianum_-_Milk_thistle.md)
+* [Sphaeralcea incana - Gray globemallow](../herbs/Sphaeralcea_incana_-_Gray_globemallow.md)
+* [Tanacetum vulgare - Tansy](../herbs/Tanacetum_vulgare_-_Tansy.md)
+* [Taraxacum officinale - Dugdhapheni](../herbs/Taraxacum_officinale_-_Dugdhapheni.md)
+* [Tridax procumbens - Jayanti](../herbs/Tridax_procumbens_-_Jayanti.md)
+* [Tussilago farfara - Colt's Foot](../herbs/Tussilago_farfara_-_Colt's_Foot.md)

@@ -1,0 +1,10 @@
+---
+title: "Category: Herbs that are commonly seen in the region of Scrub forests"
+---
+
+# Herbs that are commonly seen in the region of Scrub forests
+
+Pages in this category: **2**
+
+* [Dioscorea deltoidea](../herbs/Dioscorea_deltoidea.md)
+* [Dioscorea pentaphylla - Mountain yam](../herbs/Dioscorea_pentaphylla_-_Mountain_yam.md)

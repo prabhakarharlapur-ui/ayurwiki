@@ -1,0 +1,10 @@
+---
+title: "Category: Ayurvedic Herbs known to be helpful to treat Relieves pain"
+---
+
+# Ayurvedic Herbs known to be helpful to treat Relieves pain
+
+Pages in this category: **2**
+
+* [Alpinia officinarum](../herbs/Alpinia_officinarum.md)
+* [Ipomoea obscura - Laskmana, Vachagandha](../herbs/Ipomoea_obscura_-_Laskmana,_Vachagandha.md)

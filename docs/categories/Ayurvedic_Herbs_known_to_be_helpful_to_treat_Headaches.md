@@ -1,0 +1,48 @@
+---
+title: "Category: Ayurvedic Herbs known to be helpful to treat Headaches"
+---
+
+# Ayurvedic Herbs known to be helpful to treat Headaches
+
+Pages in this category: **40**
+
+* [Aconitum heterophyllum - Ativisa, Indian Atees](../herbs/Aconitum_heterophyllum_-_Ativisa,_Indian_Atees.md)
+* [Aesculus indica - Indian horse chestnut](../herbs/Aesculus_indica_-_Indian_horse_chestnut.md)
+* [Agastache scrophulariifolia - Purple giant hyssop](../herbs/Agastache_scrophulariifolia_-_Purple_giant_hyssop.md)
+* [Amaranthus blitum - Livid amaranth](../herbs/Amaranthus_blitum_-_Livid_amaranth.md)
+* [Artemisia douglasiana - Nagadaman](../herbs/Artemisia_douglasiana_-_Nagadaman.md)
+* [Bauhinia racemosa](../herbs/Bauhinia_racemosa.md)
+* [Cichorium endivia](../herbs/Cichorium_endivia.md)
+* [Cinnamomum verum - Darusita](../herbs/Cinnamomum_verum_-_Darusita.md)
+* [Curcuma aromatica - Wild turmeric, Aranyaharidra](../herbs/Curcuma_aromatica_-_Wild_turmeric,_Aranyaharidra.md)
+* [Cyperus articulatus](../herbs/Cyperus_articulatus.md)
+* [Datura stramonium](../herbs/Datura_stramonium.md)
+* [Elaeodendron glaucum](../herbs/Elaeodendron_glaucum.md)
+* [Glycine max](../herbs/Glycine_max.md)
+* [Graptophyllum picum](../herbs/Graptophyllum_picum.md)
+* [Ilex paraguariensis](../herbs/Ilex_paraguariensis.md)
+* [Jatropha gossypifolia - Bellyache bush](../herbs/Jatropha_gossypifolia_-_Bellyache_bush.md)
+* [Kaempferia galanga - Chandramoolika](../herbs/Kaempferia_galanga_-_Chandramoolika.md)
+* [Leucas lavandulaefolia](../herbs/Leucas_lavandulaefolia.md)
+* [Mentha requienii - Corsican mint](../herbs/Mentha_requienii_-_Corsican_mint.md)
+* [Mentha spicata](../herbs/Mentha_spicata.md)
+* [Narcissus tazetta](../herbs/Narcissus_tazetta.md)
+* [Nephelium lappaceum - Rambutan](../herbs/Nephelium_lappaceum_-_Rambutan.md)
+* [Ocimum canum](../herbs/Ocimum_canum.md)
+* [Ocimum gratissimum](../herbs/Ocimum_gratissimum.md)
+* [Passiflora quadrangularis](../herbs/Passiflora_quadrangularis.md)
+* [Persea borbonia - Redbay](../herbs/Persea_borbonia_-_Redbay.md)
+* [Plumbago indica](../herbs/Plumbago_indica.md)
+* [Pogostemon cablin - Patchouli](../herbs/Pogostemon_cablin_-_Patchouli.md)
+* [Polemonium caeruleum - Greek valerian](../herbs/Polemonium_caeruleum_-_Greek_valerian.md)
+* [Premna serratifolia - Ganakasika](../herbs/Premna_serratifolia_-_Ganakasika.md)
+* [Primula vulgaris](../herbs/Primula_vulgaris.md)
+* [Rhododendron arboreum](../herbs/Rhododendron_arboreum.md)
+* [Rhododendron campanulatum](../herbs/Rhododendron_campanulatum.md)
+* [Rosa sericea](../herbs/Rosa_sericea.md)
+* [Rumex nepalensis](../herbs/Rumex_nepalensis.md)
+* [Salix caprea](../herbs/Salix_caprea.md)
+* [Sida rhombifolia - Devabala](../herbs/Sida_rhombifolia_-_Devabala.md)
+* [Symplocarpus foetidus - Skunk cabbage](../herbs/Symplocarpus_foetidus_-_Skunk_cabbage.md)
+* [Verbena officinalis](../herbs/Verbena_officinalis.md)
+* [Vitex leucoxylon](../herbs/Vitex_leucoxylon.md)

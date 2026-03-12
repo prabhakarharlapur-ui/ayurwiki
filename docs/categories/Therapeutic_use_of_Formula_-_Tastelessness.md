@@ -1,0 +1,46 @@
+---
+title: "Category: Therapeutic use of Formula - Tastelessness"
+---
+
+# Therapeutic use of Formula - Tastelessness
+
+Pages in this category: **38**
+
+* [Abhyadi kvatha churna](../medicines/Abhyadi_kvatha_churna.md)
+* [Amṛtāṣṭaka kvātha cūrṇa](../medicines/Amṛtāṣṭaka_kvātha_cūrṇa.md)
+* [Apāmārga Kṣāra](../medicines/Apāmārga_Kṣāra.md)
+* [Aśokāriṣṭa](../medicines/Aśokāriṣṭa.md)
+* [Aṣṭāṇgāvaleha](../medicines/Aṣṭāṇgāvaleha.md)
+* [Chardiripu](../medicines/Chardiripu.md)
+* [Daśamūla Harītakī](../medicines/Daśamūla_Harītakī.md)
+* [Drākṣāsava](../medicines/Drākṣāsava.md)
+* [Ghanacandanādi kvātha cūrna](../medicines/Ghanacandanādi_kvātha_cūrna.md)
+* [Jaṭāmāṃsī Arka](../medicines/Jaṭāmāṃsī_Arka.md)
+* [Jātīphalādya cūrṇa](../medicines/Jātīphalādya_cūrṇa.md)
+* [Jīvanandābhra](../medicines/Jīvanandābhra.md)
+* [Kumāryādi Drava](../medicines/Kumāryādi_Drava.md)
+* [Kāmalāntaka lauha](../medicines/Kāmalāntaka_lauha.md)
+* [Kṛṣṇābījādi cūrṇa](../medicines/Kṛṣṇābījādi_cūrṇa.md)
+* [Lavaṅgādi cūrṇa](../medicines/Lavaṅgādi_cūrṇa.md)
+* [Lōhāsava](../medicines/Lōhāsava.md)
+* [Navakṣāraka cūrṇa](../medicines/Navakṣāraka_cūrṇa.md)
+* [Nārikela Khaṇḍa](../medicines/Nārikela_Khaṇḍa.md)
+* [Patrāṅgāsava](../medicines/Patrāṅgāsava.md)
+* [Pañcatikta Guggulu Ghṛta](../medicines/Pañcatikta_Guggulu_Ghṛta.md)
+* [Pittāntaka rasa](../medicines/Pittāntaka_rasa.md)
+* [Raktapittakulakaṇḍana rasa](../medicines/Raktapittakulakaṇḍana_rasa.md)
+* [Rasābhra maṇḍūra](../medicines/Rasābhra_maṇḍūra.md)
+* [Rohītakāsava](../medicines/Rohītakāsava.md)
+* [Samaśarkara cūrṇa](../medicines/Samaśarkara_cūrṇa.md)
+* [Tryūṣaṇāadi maṇḍūra](../medicines/Tryūṣaṇāadi_maṇḍūra.md)
+* [Vaidyanātha vaṭī](../medicines/Vaidyanātha_vaṭī.md)
+* [Vajravaṭaka maṇḍūra](../medicines/Vajravaṭaka_maṇḍūra.md)
+* [Vaḍavānala cūrṇa](../medicines/Vaḍavānala_cūrṇa.md)
+* [Viśālādi cūrṇa](../medicines/Viśālādi_cūrṇa.md)
+* [Vyoṣādi guṭikā](../medicines/Vyoṣādi_guṭikā.md)
+* [Vyoṣādika cūrṇa](../medicines/Vyoṣādika_cūrṇa.md)
+* [Yogarāja rasāyana](../medicines/Yogarāja_rasāyana.md)
+* [Yogottamā Guṭikā](../medicines/Yogottamā_Guṭikā.md)
+* [Śarkarāsava](../medicines/Śarkarāsava.md)
+* [Śuṇṭhyādi cūrṇa-2](../medicines/Śuṇṭhyādi_cūrṇa-2.md)
+* [Śuṇṭhyādi guṭī](../medicines/Śuṇṭhyādi_guṭī.md)

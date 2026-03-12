@@ -1,0 +1,95 @@
+site_name: Ayurwiki - Ayurveda Knowledge Base
+site_url: https://ayurwiki.org
+site_description: A comprehensive, open knowledge base on Ayurveda — herbs, medicines, practices, yoga, and traditional wisdom.
+site_author: Ayurwiki Contributors
+
+repo_url: https://github.com/AyurWiki/ayurwiki
+repo_name: AyurWiki/ayurwiki
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  custom_dir: overrides
+  language: en
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Noto Sans
+    code: Roboto Mono
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.action.edit
+    - toc.follow
+  icon:
+    repo: fontawesome/brands/github
+    logo: material/leaf
+
+plugins:
+  - search:
+      lang: en
+      separator: '[\s\-\.]+'
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/AyurWiki/ayurwiki
+  generator: false
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Home: index.md
+  - Herbs: herbs/index.md
+  - Medicines: medicines/index.md
+  - Yoga: yoga/index.md
+  - Concepts: concepts/index.md
+  - Physiology: physiology/index.md
+  - Practices: practices/index.md
+  - Traditions: traditions/index.md
+  - Manufacturers: manufacturers/index.md
+  - Institutions: institutions/index.md
+  - Resources: resources/index.md
+  - All Articles: all-articles.md
+  - Categories: categories/index.md
+  - Contributing: contributing.md

@@ -1,0 +1,45 @@
+---
+title: "Category: Ayurvedic Herbs known to be helpful to treat Scabies"
+---
+
+# Ayurvedic Herbs known to be helpful to treat Scabies
+
+Pages in this category: **37**
+
+* [Alternanthera sessilis - Sessile Joyweed](../herbs/Alternanthera_sessilis_-_Sessile_Joyweed.md)
+* [Altingia excelsa - Rasamala](../herbs/Altingia_excelsa_-_Rasamala.md)
+* [Annona Muricata](../medicines/Annona_Muricata.md)
+* [Avicennia officinalis - Indian Mangrove](../herbs/Avicennia_officinalis_-_Indian_Mangrove.md)
+* [Cassia alata](../herbs/Cassia_alata.md)
+* [Croton tiglium](../herbs/Croton_tiglium.md)
+* [Curcuma zedoaria](../herbs/Curcuma_zedoaria.md)
+* [Ficus religiosa - Pippala, Ashvatta](../medicines/Ficus_religiosa_-_Pippala,_Ashvatta.md)
+* [Guizotia abyssinica](../herbs/Guizotia_abyssinica.md)
+* [Gynura pseudo china](../herbs/Gynura_pseudo_china.md)
+* [Helicteres isora - Avartani](../herbs/Helicteres_isora_-_Avartani.md)
+* [Hemidesmus indicus - Ananthamoola](../herbs/Hemidesmus_indicus_-_Ananthamoola.md)
+* [Holarrhena pubescens - Indrayavah, Kutajah](../herbs/Holarrhena_pubescens_-_Indrayavah,_Kutajah.md)
+* [Homonoia riparia](../herbs/Homonoia_riparia.md)
+* [Jatropha curcas - Darvanti](../herbs/Jatropha_curcas_-_Darvanti.md)
+* [Jatropha multifida](../herbs/Jatropha_multifida.md)
+* [Kleinhovia hospita - Guest tree](../herbs/Kleinhovia_hospita_-_Guest_tree.md)
+* [Lantana camara](../herbs/Lantana_camara.md)
+* [Leucas lavandulaefolia](../herbs/Leucas_lavandulaefolia.md)
+* [Leucas martinicensis](../herbs/Leucas_martinicensis.md)
+* [Liquidambar orientalis](../herbs/Liquidambar_orientalis.md)
+* [Lygodium flexuosum](../herbs/Lygodium_flexuosum.md)
+* [Manihot esculenta](../herbs/Manihot_esculenta.md)
+* [Pandanus fascicularis - Fragrant Screw Pine](../herbs/Pandanus_fascicularis_-_Fragrant_Screw_Pine.md)
+* [Persea americana - Avacado](../herbs/Persea_americana_-_Avacado.md)
+* [Phyllunthus fraternus](../herbs/Phyllunthus_fraternus.md)
+* [Pimpinella anisum - Shatapushpa](../herbs/Pimpinella_anisum_-_Shatapushpa.md)
+* [Pisonia aculeata](../herbs/Pisonia_aculeata.md)
+* [Plumeria rubra](../herbs/Plumeria_rubra.md)
+* [Pongamia pinnata - Karanjah](../herbs/Pongamia_pinnata_-_Karanjah.md)
+* [Prosopis chilensis](../herbs/Prosopis_chilensis.md)
+* [Santalum album - Anindita](../herbs/Santalum_album_-_Anindita.md)
+* [Santalum album - Sandal Wood, Chandana](../herbs/Santalum_album_-_Sandal_Wood,_Chandana.md)
+* [Secamone emetica](../medicines/Secamone_emetica.md)
+* [Strychnos nux-vomica - Kapilu](../herbs/Strychnos_nux-vomica_-_Kapilu.md)
+* [Trichodesma zeylanicum](../herbs/Trichodesma_zeylanicum.md)
+* [Ziziphus nummularia - Balakapriya](../herbs/Ziziphus_nummularia_-_Balakapriya.md)

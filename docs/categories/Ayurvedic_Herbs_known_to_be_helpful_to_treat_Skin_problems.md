@@ -1,0 +1,46 @@
+---
+title: "Category: Ayurvedic Herbs known to be helpful to treat Skin problems"
+---
+
+# Ayurvedic Herbs known to be helpful to treat Skin problems
+
+Pages in this category: **38**
+
+* [Abelmoschus esculentus - Bhenda, ಬೆಂಡೆಕಾಯಿ, भिंडी, வெண்டி/பெண் விரல், ലേഡിഫിംഗർ, भेंडी](../herbs/Abelmoschus_esculentus_-_Bhenda,_ಬೆಂಡೆಕಾಯಿ,_भिंडी,_வெண்டி-பெண்_விரல்,_ലേഡിഫിംഗർ,_भेंडी.md)
+* [Acacia nilotica - Aaavartaki](../herbs/Acacia_nilotica_-_Aaavartaki.md)
+* [Achillea millefolium - Biranjasa](../herbs/Achillea_millefolium_-_Biranjasa.md)
+* [Calotropis procera](../herbs/Calotropis_procera.md)
+* [Clerodendrum indicum - Bharangi, Tubeflower](../herbs/Clerodendrum_indicum_-_Bharangi,_Tubeflower.md)
+* [Clerodendrum infortunatum](../herbs/Clerodendrum_infortunatum.md)
+* [Clitoria ternatea](../herbs/Clitoria_ternatea.md)
+* [Crotalaria pallida](../herbs/Crotalaria_pallida.md)
+* [Curculigo orchioides - Black Musli](../herbs/Curculigo_orchioides_-_Black_Musli.md)
+* [Desmodium triflorum](../herbs/Desmodium_triflorum.md)
+* [Galium aparine](../herbs/Galium_aparine.md)
+* [Garcinia indica - Vrikshamia](../herbs/Garcinia_indica_-_Vrikshamia.md)
+* [Hibiscus mutabilis](../herbs/Hibiscus_mutabilis.md)
+* [Jasminum sambac - Mallika](../herbs/Jasminum_sambac_-_Mallika.md)
+* [Juncus effusus](../herbs/Juncus_effusus.md)
+* [Juniperus virginiana](../herbs/Juniperus_virginiana.md)
+* [Macaranga peltata - Uppalige](../herbs/Macaranga_peltata_-_Uppalige.md)
+* [Murraya koenigii - Girinimba](../herbs/Murraya_koenigii_-_Girinimba.md)
+* [Myristica dactyloides - Jatiphala](../herbs/Myristica_dactyloides_-_Jatiphala.md)
+* [Myrtus](../herbs/Myrtus.md)
+* [Nephelium lappaceum - Rambutan](../herbs/Nephelium_lappaceum_-_Rambutan.md)
+* [Pedilanthus tithymaloides](../herbs/Pedilanthus_tithymaloides.md)
+* [Persicaria odorata - Vietnamese Coriander](../herbs/Persicaria_odorata_-_Vietnamese_Coriander.md)
+* [Phyllunthus fraternus](../herbs/Phyllunthus_fraternus.md)
+* [Pogostemon cablin - Patchouli](../herbs/Pogostemon_cablin_-_Patchouli.md)
+* [Polygonum hydropiper](../herbs/Polygonum_hydropiper.md)
+* [Portulaca quadrifida](../herbs/Portulaca_quadrifida.md)
+* [Rumex crispus](../herbs/Rumex_crispus.md)
+* [Rumex maritimus](../herbs/Rumex_maritimus.md)
+* [Sagittaria trifolia](../herbs/Sagittaria_trifolia.md)
+* [Smilax ornata - Sarsaparilla](../herbs/Smilax_ornata_-_Sarsaparilla.md)
+* [Smilax zeylanica - Ushaba](../herbs/Smilax_zeylanica_-_Ushaba.md)
+* [Solanum incanum](../herbs/Solanum_incanum.md)
+* [Strychnos nux-vomica - Kapilu](../herbs/Strychnos_nux-vomica_-_Kapilu.md)
+* [Trifolium pratense](../herbs/Trifolium_pratense.md)
+* [Turnera subulata - White buttercup](../herbs/Turnera_subulata_-_White_buttercup.md)
+* [Ulmus wallichiana](../herbs/Ulmus_wallichiana.md)
+* [Veronica officinalis - Paul's betony](../herbs/Veronica_officinalis_-_Paul's_betony.md)

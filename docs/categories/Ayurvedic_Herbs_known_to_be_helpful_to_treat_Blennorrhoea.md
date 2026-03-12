@@ -1,0 +1,10 @@
+---
+title: "Category: Ayurvedic Herbs known to be helpful to treat Blennorrhoea"
+---
+
+# Ayurvedic Herbs known to be helpful to treat Blennorrhoea
+
+Pages in this category: **2**
+
+* [Hygrophila auriculata](../herbs/Hygrophila_auriculata.md)
+* [Pandanus tectorius - Ketaka](../herbs/Pandanus_tectorius_-_Ketaka.md)
