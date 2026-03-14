@@ -6,6 +6,8 @@ title: Home
 
 **Ayurwiki** is an open knowledge base dedicated to documenting Ayurveda — the herbs, medicines, practices, yoga, and traditional wisdom that form one of the world's oldest systems of holistic health.
 
+!!! success "Awarded **Gold** under the \"Award for Excellence in Information Technology in AYUSH sector - 2019\""
+
 ## Explore
 
 <div class="grid cards" markdown>
