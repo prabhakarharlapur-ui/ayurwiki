@@ -66,10 +66,10 @@
 /* Sidebar stat cards */
 .sidebar-stats {
   display: grid !important;
-  grid-template-columns: 1fr 1fr 1fr;
-  gap: 3px;
-  padding: 0.4rem 0.6rem;
-  margin-bottom: 0.4rem;
+  grid-template-columns: 1fr 1fr;
+  gap: 6px;
+  padding: 0.6rem 0.8rem;
+  margin-bottom: 0.6rem;
   border-bottom: 1px solid #e0e0e0;
 }
 .sidebar-stats a.stat-card {
@@ -77,34 +77,37 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background: #f8f9fa;
-  border: 1px solid #e0e0e0;
-  border-radius: 2px;
-  padding: 4px 2px;
+  background: linear-gradient(135deg, #f8f9fa 0%, #eef1f5 100%);
+  border: 1px solid #d0d7de;
+  border-radius: 6px;
+  padding: 10px 6px 8px;
   text-decoration: none !important;
   color: inherit !important;
-  transition: border-color 0.15s, box-shadow 0.15s;
+  transition: all 0.2s ease;
 }
 .sidebar-stats a.stat-card:hover {
   border-color: #0645ad;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+  background: linear-gradient(135deg, #eef3ff 0%, #e0e8f5 100%);
+  box-shadow: 0 2px 6px rgba(6,69,173,0.12);
   text-decoration: none !important;
+  transform: translateY(-1px);
 }
 .sidebar-stats .stat-number {
   display: block;
-  font-size: 0.7rem !important;
-  font-weight: 700;
+  font-size: 1.05rem !important;
+  font-weight: 800;
   color: #0645ad !important;
-  line-height: 1.2;
+  line-height: 1;
 }
 .sidebar-stats .stat-label {
   display: block;
-  font-size: 0.5rem !important;
-  color: #666 !important;
+  font-size: 0.55rem !important;
+  color: #57606a !important;
   text-transform: uppercase;
-  letter-spacing: 0.02em;
-  margin-top: 0;
-  line-height: 1.2;
+  letter-spacing: 0.05em;
+  margin-top: 3px;
+  line-height: 1;
+  font-weight: 600;
 }
 /* Hide stat cards on mobile / when sidebar is hidden */
 @media screen and (max-width: 76.1875em) {
