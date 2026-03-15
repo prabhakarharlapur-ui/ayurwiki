@@ -64,45 +64,53 @@
 }
 
 /* Sidebar stat cards */
-.md-sidebar .sidebar-stats {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 4px;
+.sidebar-stats {
+  display: grid !important;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 3px;
   padding: 0.4rem 0.6rem;
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.4rem;
   border-bottom: 1px solid #e0e0e0;
 }
-.md-sidebar .sidebar-stats a.stat-card {
-  display: flex;
+.sidebar-stats a.stat-card {
+  display: flex !important;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   background: #f8f9fa;
   border: 1px solid #e0e0e0;
-  border-radius: 3px;
-  padding: 6px 4px;
+  border-radius: 2px;
+  padding: 4px 2px;
   text-decoration: none !important;
-  color: inherit;
+  color: inherit !important;
   transition: border-color 0.15s, box-shadow 0.15s;
 }
-.md-sidebar .sidebar-stats a.stat-card:hover {
+.sidebar-stats a.stat-card:hover {
   border-color: #0645ad;
   box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+  text-decoration: none !important;
 }
-.md-sidebar .sidebar-stats .stat-number {
+.sidebar-stats .stat-number {
   display: block;
-  font-size: 0.85rem;
+  font-size: 0.7rem !important;
   font-weight: 700;
-  color: #0645ad;
+  color: #0645ad !important;
   line-height: 1.2;
 }
-.md-sidebar .sidebar-stats .stat-label {
+.sidebar-stats .stat-label {
   display: block;
-  font-size: 0.6rem;
-  color: #666;
+  font-size: 0.5rem !important;
+  color: #666 !important;
   text-transform: uppercase;
-  letter-spacing: 0.03em;
-  margin-top: 1px;
+  letter-spacing: 0.02em;
+  margin-top: 0;
+  line-height: 1.2;
+}
+/* Hide stat cards on mobile / when sidebar is hidden */
+@media screen and (max-width: 76.1875em) {
+  .sidebar-stats {
+    display: none !important;
+  }
 }
 
 /* Award banner */
