@@ -28,7 +28,7 @@
 
   function handleAuthCallback() {
     var hash = window.location.hash;
-    if (!hash || hash.indexOf('token=') === -1) return;
+    if (!hash || hash.indexOf('token=') === -1) return false;
 
     var params = new URLSearchParams(hash.substring(1));
     var token = params.get('token');
@@ -37,7 +37,7 @@
     if (error) {
       alert('Login failed: ' + error);
       history.replaceState(null, '', window.location.pathname + window.location.search);
-      return;
+      return false;
     }
 
     if (token) {
@@ -48,7 +48,9 @@
         avatar_url: params.get('avatar_url') || ''
       });
       history.replaceState(null, '', window.location.pathname + window.location.search);
+      return true;
     }
+    return false;
   }
 
   // --- Get article path from current URL ---
@@ -284,12 +286,16 @@
   // --- Init ---
 
   function init() {
-    handleAuthCallback();
+    var justLoggedIn = handleAuthCallback();
     // Wait for page content to load (MkDocs instant navigation)
     if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', addEditButton);
+      document.addEventListener('DOMContentLoaded', function () {
+        addEditButton();
+        if (justLoggedIn) openModal();
+      });
     } else {
       addEditButton();
+      if (justLoggedIn) openModal();
     }
   }
 
