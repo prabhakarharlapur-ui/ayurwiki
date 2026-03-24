@@ -112,6 +112,14 @@ Development of seedlings is very slow, and need to be in the nursery for at leas
 ## Commonly seen growing in areas
 Tropical area, Temperate area.
 
+## Significance in Hindu Texts
+
+The Bilva tree holds deep sacred significance in Hinduism.[^hindu-texts] Jagadguru Sri Adi Shankaracharya composed the powerful chant *Sri Shiva Bilvashtakam*, which speaks of the glory of offering bilva leaves to Lord Shiva. According to the Bilvashtakam, the Bel tree grew from the breast of Lakshmi. Its ternate leaves, known as *Tripatra* or *Shiva Dhruma*, signify the holy Trinity of Brahma, Vishnu and Mahesh, as well as the three eyes of Shiva.
+
+The Shiva Purana (1.22.22) considers Bilva to be the symbol of Lord Shiva, adored even by the gods. The Purana further says that all places of pilgrimage dwell at the base of the Bilva tree. According to the Skanda Purana (6.247.21), Parvati is stationed in the Bilva tree. In another chapter (Skanda Purana 6.1.250.1-19), it is mentioned that this tree originated from Bhavani's own body, from a drop of her sweat. The Goddess is believed to reside in the tree in all her forms: as Girija in the roots, Maheshwari in the trunk, Dakshayani in the branches, Parvati in the leaves, Katyayani in the fruit, and Gauri in the flowers.
+
+The Atharvaveda (20.136.15) states: "A great person is good and benevolent like Bilva tree to all." The Bilva is one of the five sacred trees of the *Panchvati* (along with Banyan, Peepal, Aonla, and Ashoka). In Surpala's Vriksha Ayurveda (1:10), it is said: "If one properly grows bilva, which pleases Lord Shiva, the goddess of riches resides permanently, passed on to the sons and grandsons."
+
 ## Photo Gallery
 ![Buds](../images/Aegle_marmelos_flowers_03.JPG)
 ![Leaves](../images/Aegle_marmelos_03.JPG)
@@ -119,6 +127,8 @@ Tropical area, Temperate area.
 ![Flower](../images/Aegle_marmelos_flower_02.JPG)
 
 ## References
+
+[^hindu-texts]: Susheel Kumar Sharma, "Plant-World in Hindu Consciousness"
 
 ## External Links
 * [The ayurevedic pharmacopoea of India](http://www.ayurveda.hu/api/API-Vol-1.pdf)

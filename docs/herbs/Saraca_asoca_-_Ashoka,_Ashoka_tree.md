@@ -107,6 +107,14 @@ Land preparation and fertilizer application Pits of size 45 cm × 45 cm × 45 cm
 ## Commonly seen growing in areas
 Tropical area, Subtropical area, Himalayas
 
+## Significance in Hindu Texts
+
+The Ashoka tree is one of the five sacred trees of the *Panchvati* in Hindu tradition, alongside the Banyan, Peepal, Bilva, and Indian Gooseberry (Amalaki).[^hindu-texts] Its Sanskrit name *Ashoka* means "without sorrow," and the tree is associated with love and devotion.
+
+In the Ramayana, Sita was held in the *Ashoka Vatika* (grove of Ashoka trees) by Ravana in Lanka. The Ashoka tree is considered evergreen and auspicious, and its presence is believed to bring joy and remove grief. It holds importance not only in Hinduism but also in Buddhism and Jainism — Queen Mayadevi is said to have given birth to Gautama Buddha under an Ashoka tree.
+
+The Varah Purana describes the importance of planting and maintaining trees, including the Ashoka, and the spiritual merit (*punya*) that accrues from such acts. The tree is traditionally planted near temples and is revered for both its sacred associations and its extensive medicinal properties, particularly in the treatment of women's health conditions.
+
 ## Photo Gallery
 ![](../images/A_so_ka_(in_Tibetan)_(2209868058).jpg)
 ![](../images/Anganapriya_(Oriya-_ଅଙ୍ଗନାପ୍ରିଯ)_(6781533842).jpg)
@@ -116,6 +124,8 @@ Tropical area, Subtropical area, Himalayas
 ![](../images/Ashok_(Nepali-_अशोक)_(6781532428).jpg)
 
 ## References
+
+[^hindu-texts]: Susheel Kumar Sharma, "Plant-World in Hindu Consciousness"
 
 ## External Links
 * [Saraca asoca on arjournals.org](http://www.arjournals.org/index.php/ijpm/article/view/455)

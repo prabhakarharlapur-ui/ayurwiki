@@ -101,6 +101,16 @@ Seeds are collected from June to August. It should be collected from 5 to 6 year
 ## Commonly seen growing in areas
 Tall grasslands, Meadows, Borders of forests and fields.
 
+## Significance in Hindu Texts
+
+The Neem tree (*Pichumanda* in Sanskrit) is regarded as an abode of goddess Durga and Maha Kali in Hindu tradition.[^hindu-texts] It is closely associated with the Ugadi festival in South India, where neem leaves mixed with jaggery are eaten to symbolize the bitter and sweet aspects of life.
+
+Neem is connected with snake worship, as it is believed to confer immunity from snake and scorpion poison. It plays a role in Hindu mourning rituals: after the cremation of a dead body, people in the funeral procession chew neem leaves, and water is sprinkled over them with a branch of the tree. At childbirth, a branch of the neem tree is often placed at the door of the mother's chamber. The neem twig is widely used as a natural tooth-brush and mouth-freshener.
+
+According to the Skanda Purana (6.252.49): "By planting one peepal, one neem, one banyan, ten tamarind, three kapittha, bilva, and amalaka, and five mango trees, one never visits hell." A similar prescription appears in the Varah Purana (172.36) and the Vrukshayurveda (22-23).
+
+The resilience of the neem tree was demonstrated when it survived the devastating locust attack in Nigeria in 1958, and again when neem trees remained unaffected by the lethal methyl isocyanate gas during the Bhopal gas tragedy in 1984.
+
 ## Photo Gallery
 ![Young leaves](../images/Starr_050518-1620_Azadirachta_indica.jpg)
 ![Stem](../images/A_crow_at_ALC.JPG)
@@ -111,6 +121,8 @@ Tall grasslands, Meadows, Borders of forests and fields.
 ![Fruits](../images/Unripe_Neem_fruits.jpg)
 
 ## References
+
+[^hindu-texts]: Susheel Kumar Sharma, "Plant-World in Hindu Consciousness"
 
 ## External Links
 * [Azadirachta indica uses, benefits, side effects](https://herbpathy.com/Uses-and-Benefits-of-Azadirachta-Indica-Cid1177)

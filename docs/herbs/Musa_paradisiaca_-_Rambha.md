@@ -94,6 +94,14 @@ The propagation is through shoots from the rhizomes, since most of the seeds spe
 ## Commonly seen growing in areas
 Tropical area, Sub tropical area
 
+## Significance in Hindu Texts
+
+The Banana plant (*Kadali* in Sanskrit) holds special religious significance in Hinduism.[^hindu-texts] It is worshipped every Thursday and is considered auspicious for religious ceremonies. The plant and its leaves are widely used in Hindu worship, and banana leaves serve as plates for sacred meals and festival offerings.
+
+During the Durga Puja festival in Bengal, the *Kola Bou* (Banana Bride) ceremony is performed. A banana plant is draped in a white sari with a red border and is consecrated as a companion of goddess Durga, representing the deity Nabapatrika. This ritual reflects the deep connection between plant life and divine feminine energy in Hindu consciousness.
+
+In tribal and folk traditions, the banana and mango trees feature in wedding ceremonies. A folk song describes: "The bride will be married to the Mahua tree, the groom will be married to the Mango." The banana's generous nature — providing fruit, leaves, stem, and fiber — makes it a symbol of selfless giving in Hindu culture.
+
 ## Photo Gallery
 ![Leaves](../images/Musa_paradissiana_Edible_Banana_ბანანი.JPG)
 ![Flowers](../images/Plantain_flower_(5363130511).jpg)
@@ -103,6 +111,8 @@ Tropical area, Sub tropical area
 ![Cut stem](../images/Starr_060615-8173_Musa_sp..jpg)
 
 ## References
+
+[^hindu-texts]: Susheel Kumar Sharma, "Plant-World in Hindu Consciousness"
 
 ## External Links
 * [Musa paradisiaca on  theferns.info](http://tropical.theferns.info/viewtropical.php?id=Musa+x+paradisiaca)

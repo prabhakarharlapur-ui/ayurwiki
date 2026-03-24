@@ -102,12 +102,24 @@ A plant of the moist to wet, lowland tropics, where it is found at elevations up
 ## Commonly seen growing in areas
 Tropical area, Subtropical area, Warm fields.
 
+## Significance in Hindu Texts
+
+Tulsi is an integral part of the religious and cultural fabric of India.[^hindu-texts] Every part of the plant — leaves, flowers, fruits, roots, twigs, skin, and stem — is considered holy, sacred, and pure (*paavan*), as is even the soil around it (Padma Purana 6.23.2). It is perhaps the only plant eulogized in seven chapters of the Padma Purana.
+
+The Tulsi plant is regarded as the holiest of all plants. It is believed that Brahma resides in its branches, and all Hindu pilgrimages reside in its roots. According to the Skanda Purana (6.247.21), goddess Lakshmi is present in Tulasi. Vaishnava devotees use its wood to make neck beads and *japa mala* (chanting beads). A Tulsi plant is considered essential in the courtyard of every Hindu family and is worshipped morning and evening. As stated in the Vrukshayurveda (9): "A person is honored in Vaikuntha for as many thousand years as the days they reside in a house where Tulsi is grown."
+
+Tulsi Pujan Diwas, also known as Tulsi Vivah Day, is celebrated on Dev Uthani Ekadashi — the eleventh day of the bright fortnight of Kartik month. This festival marks the ceremonial union of Lord Vishnu with Tulsi. The Tulsi plant is covered with a red chunari, decorated with bangles and other adornments as a bride.
+
+Ayurvedic texts describe four types of Tulsi: Rama/Sri/Lakshmi (Green Leaf), Krishna/Shyama (Purple Leaf), Vana (Wild Leaf), and Kapoor (Heavy Flowered). Tulsi has been used in India for around 5000 years and is acclaimed for its anti-microbial, anti-cancer, cardiovascular, anti-inflammatory, and hepatoprotective properties.
+
 ## Photo Gallery
 ![](../images/Ocimum_tenuiflorum1.jpg)
 ![](../images/Ocimum_tenuiflorum2.jpg)
 ![](../images/_Ocimum_tenuiflorum_inflorescence_closeup.jpg)
 
 ## References
+
+[^hindu-texts]: Susheel Kumar Sharma, "Plant-World in Hindu Consciousness"
 
 ## External Links
 * [Ten health benefits of Tulsi, the magical herb](http://indianexpress.com/article/lifestyle/health/ten-health-benefits-of-tulsi-the-magical-herb/)

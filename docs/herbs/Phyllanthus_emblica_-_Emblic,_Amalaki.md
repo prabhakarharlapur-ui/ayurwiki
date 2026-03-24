@@ -114,6 +114,14 @@ The light and medium heavy soils except prely sandy soil is ideal for amla culti
 ## Commonly seen growing in areas
 Trophical area, Hill slop.
 
+## Significance in Hindu Texts
+
+The Indian Gooseberry (*Amalaka* in Sanskrit) holds an important place in Hindu tradition and is one of the five sacred trees of the *Panchvati*, along with the Banyan, Peepal, Bilva, and Ashoka.[^hindu-texts] It is worshipped on Amalaka Ekadashi, a festival dedicated to the tree.
+
+According to the Skanda Purana (6.252.49): "By planting one peepal, one neem, one banyan, ten tamarind trees, the group of three — kapittha, bilva, and amalaka — and five mango trees, one never visits hell." The Vrukshayurveda (22-23) repeats this prescription. The Padma Purana also contains chapters glorifying *Dhatri* (another name for Amalaki), describing its greatness alongside Tulsi (Padma Purana 6.105.1-29 and 7.24.1-45).
+
+In the Agni Purana (chapters 140-141), the Amalaki is listed among key medicinal herbs recognized since Vedic times. It is considered one of the most important *Rasayana* (rejuvenating) herbs in Ayurveda, rich in Vitamin C, and is a primary ingredient in the renowned formulation Triphala.
+
 ## Photo Gallery
 ![Leaves](../images/Amlaki_(Assamese-_আম্লখি)_(4937857397).jpg)
 ![Leaves](../images/Indian_Gooseberry_-_നെല്ലി_03.JPG)
@@ -122,6 +130,8 @@ Trophical area, Hill slop.
 ![Bark of the Indian goosebery](../images/Indian_gooseberry_bark.jpg)
 
 ## References
+
+[^hindu-texts]: Susheel Kumar Sharma, "Plant-World in Hindu Consciousness"
 
 ## External Links
 * [Phyllanthus emblica on herbpathy.com](https://herbpathy.com/Uses-and-Benefits-of-Indian-Gooseberry-Cid617)

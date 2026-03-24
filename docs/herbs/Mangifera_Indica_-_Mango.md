@@ -102,6 +102,14 @@ The optimal climate for growing mango ranges from the monsoon tropics to the fro
 ## Commonly seen growing in areas
 Humid tropical forests, Open and secondary formations.
 
+## Significance in Hindu Texts
+
+The Mango tree is known as a *Kalpavriksha* (wish-fulfilling tree) in Hindu tradition and is associated with Lord Shiva and goddess Lakshmi.[^hindu-texts] Mango leaves are considered auspicious and are used in wedding decorations and religious ceremonies across India.
+
+According to the Skanda Purana (6.252.49): "By planting one peepal, one neem, one banyan, ten tamarind trees, the group of three — kapittha, bilva, and amalaka — and five mango trees, one never visits hell." A similar verse in the Varah Purana (172.36) prescribes planting five mango trees as among the acts that prevent one from going to hell. The Vrukshayurveda (22-23) also repeats this teaching.
+
+In the Mahabharata, trees including the mango are praised for their selfless service: "Just see how these great souls, whose lives are entirely for the benefit of others, bear wind, rain, heat and frost, yet protect us from them" (Bhagavata Purana 10.22.32-34). The mango also features in tribal wedding traditions, where the groom is married to the mango tree.
+
 ## Photo Gallery
 ![Fruits](../images/Mangga_indramayu_071007-0327_rwg.jpg)
 ![Flower](../images/Mamidi_(Telugu-_మామిడి)_(5400564788).jpg)
@@ -110,6 +118,8 @@ Humid tropical forests, Open and secondary formations.
 ![Stem](../images/2016_Singapur,_Ogrody_botaniczne_(036).jpg)
 
 ## References
+
+[^hindu-texts]: Susheel Kumar Sharma, "Plant-World in Hindu Consciousness"
 
 ## External Links
 * [Mangifera Indica on ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5452255/)

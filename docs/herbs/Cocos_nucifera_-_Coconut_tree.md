@@ -93,6 +93,12 @@ Coconuts grow well in lowland tropical regions as far as 26° north and south of
 ## Commonly seen growing in areas
 Tropical seashores, Alluvial plains, Borders of forests and fields.
 
+## Significance in Hindu Texts
+
+The Coconut tree is described as a *Kalpavriksha* (wish-fulfilling tree) in Hindu tradition, because every part of the tree is useful — from the trunk and leaves to the fruit, husk, shell, water, and oil.[^hindu-texts] Breaking a coconut is one of the most common rituals in Hindu worship, symbolizing the breaking of the ego and offering one's inner self to the divine.
+
+The coconut is an essential offering (*naivedya*) in Hindu temples and ceremonies. It is offered during prayers, inaugurations, and auspicious occasions. In the Vishnu Purana, the legend of the churning of the ocean (*Samudra Manthan*) mentions the emergence of *Kalpavriksha*, with which the coconut tree is associated. The three marks on the coconut shell are sometimes interpreted as representing the three eyes of Lord Shiva.
+
 ## Photo Gallery
 ![[Fairchild Tropical Botanic Garden]([Fairchild_Tropical_Botanic_Garden.md), [USA](USA.md)](images/Cocos_nucifera_-_Fairchild_Tropical_Botanic_Garden.jpg)
 ![Leaves](../images/Coconut_tree_(2094056434).jpg)
@@ -102,6 +108,8 @@ Tropical seashores, Alluvial plains, Borders of forests and fields.
 ![Fruits with husk removed](../images/Kokosovi_orehi,16.06.24.jpg)
 
 ## References
+
+[^hindu-texts]: Susheel Kumar Sharma, "Plant-World in Hindu Consciousness"
 
 ## External Links
 * [Cocos nucifera on missouri botanical garden](http://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=276638)
