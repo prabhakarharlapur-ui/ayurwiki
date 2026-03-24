@@ -8,6 +8,7 @@ Recent content updates to Ayurwiki.
 
 | Article | Section | Change | Date |
 | --- | --- | --- | --- |
+| [Contributors](credits.md) | General | Add per-page contributor credits and global contributors page | 24 Mar 2026 |
 | [Abrus precatorius - Gunja](herbs/Abrus_precatorius_-_Gunja.md) | Herbs | Additions and citations | 24 Mar 2026 |
 | [Abutilon indicum - Atibala](herbs/Abutilon_indicum_-_Atibala.md) | Herbs | Additions and citations | 24 Mar 2026 |
 | [Acacia farnesiana - Vitkhadira](herbs/Acacia_farnesiana_-_Vitkhadira.md) | Herbs | Additions and citations | 24 Mar 2026 |
