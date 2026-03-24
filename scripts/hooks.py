@@ -7,9 +7,27 @@ from datetime import datetime
 
 DOCS_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "docs")
 OUTPUT = os.path.join(DOCS_DIR, "recent-changes.md")
-MAX_ENTRIES = 100
+MAX_ENTRIES = 500
 # Skip commits that touched more than this many docs files (bulk imports)
 BULK_THRESHOLD = 200
+
+# Rewrite verbose commit messages to shorter display labels
+MESSAGE_REWRITES = {
+    "Enrich 79 herb pages from Karnataka Medicinal Plants book": "Additions and citations",
+    "Add Vrksayurveda of Surapala references to 70 herb pages": "Additions and citations",
+    "Add NE Indian tribal medicine references to 14 herb pages": "Additions and citations",
+    "Add Hindu text significance sections to 8 herb pages": "New section added",
+}
+
+
+def _rewrite_message(msg):
+    """Rewrite a commit message for display, using MESSAGE_REWRITES or truncation."""
+    if msg in MESSAGE_REWRITES:
+        return MESSAGE_REWRITES[msg]
+    # Truncate long messages
+    if len(msg) > 70:
+        return msg[:67] + "..."
+    return msg
 
 
 def _get_title_from_file(filepath):
@@ -130,7 +148,7 @@ def _generate_recent_changes():
                 category = _categorize_file(filepath)
                 entries.append({
                     "link": link,
-                    "message": commit["message"],
+                    "message": _rewrite_message(commit["message"]),
                     "date": commit["date"],
                     "category": category,
                 })

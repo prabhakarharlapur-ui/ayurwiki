@@ -194,3 +194,55 @@
 .md-typeset table:not([class]) td:last-child {
   white-space: nowrap;
 }
+
+/* Recent Changes pagination */
+.rc-info {
+  font-size: 0.8rem;
+  color: #72777d;
+  margin-bottom: 0.5em;
+}
+.rc-pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  margin-top: 1em;
+  flex-wrap: wrap;
+}
+.rc-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 32px;
+  height: 32px;
+  padding: 0 10px;
+  border: 1px solid #a2a9b1;
+  border-radius: 3px;
+  background: #fff;
+  color: #0645ad;
+  font-size: 0.8rem;
+  cursor: pointer;
+  transition: background 0.15s, border-color 0.15s;
+}
+.rc-btn:hover:not(.rc-disabled):not(.rc-active) {
+  background: #eaf3ff;
+  border-color: #0645ad;
+}
+.rc-btn.rc-active {
+  background: #0645ad;
+  color: #fff;
+  border-color: #0645ad;
+  font-weight: 600;
+  cursor: default;
+}
+.rc-btn.rc-disabled {
+  color: #a2a9b1;
+  border-color: #c8ccd1;
+  cursor: default;
+  background: #f8f9fa;
+}
+.rc-ellipsis {
+  padding: 0 4px;
+  color: #72777d;
+  font-size: 0.85rem;
+}
