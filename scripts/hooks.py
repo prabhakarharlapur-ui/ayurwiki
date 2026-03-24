@@ -1,12 +1,20 @@
-"""MkDocs hooks — generates recent-changes.md from git history."""
+"""MkDocs hooks — recent changes, credits page, and per-page contributor credits."""
 
+from html import escape as esc
+import json
 import os
 import subprocess
+from collections import defaultdict
 from datetime import datetime
 
 
-DOCS_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "docs")
-OUTPUT = os.path.join(DOCS_DIR, "recent-changes.md")
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+ROOT_DIR = os.path.dirname(SCRIPT_DIR)
+DOCS_DIR = os.path.join(ROOT_DIR, "docs")
+RC_OUTPUT = os.path.join(DOCS_DIR, "recent-changes.md")
+CONTRIBUTORS_JSON = os.path.join(ROOT_DIR, "data", "contributors.json")
+CREDITS_OUTPUT = os.path.join(DOCS_DIR, "credits.md")
+
 MAX_ENTRIES = 500
 # Skip commits that touched more than this many docs files (bulk imports)
 BULK_THRESHOLD = 200
@@ -19,6 +27,15 @@ MESSAGE_REWRITES = {
     "Add Hindu text significance sections to 8 herb pages": "New section added",
 }
 
+# Map git author names to MediaWiki usernames for merging
+GIT_AUTHOR_MAP = {
+    "Hari Prasad Nadig": "HPNadig",
+}
+
+
+# ============================================================
+# Recent Changes (existing functionality)
+# ============================================================
 
 def _rewrite_message(msg):
     """Rewrite a commit message for display, using MESSAGE_REWRITES or truncation."""
@@ -87,7 +104,7 @@ def _categorize_file(filepath):
 
 def _generate_recent_changes():
     """Generate recent-changes.md from git log."""
-    repo_dir = os.path.dirname(DOCS_DIR)
+    repo_dir = ROOT_DIR
 
     try:
         result = subprocess.run(
@@ -195,10 +212,357 @@ def _generate_recent_changes():
 
     lines.append("")
 
-    with open(OUTPUT, "w", encoding="utf-8") as f:
+    with open(RC_OUTPUT, "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
 
 
+# ============================================================
+# Credits System
+# ============================================================
+
+_credits_data = {}  # Populated in on_config, consumed by on_page_content
+
+# Pages that should not show contributor credits
+_SKIP_CREDITS = {
+    "index.md", "recent-changes.md", "credits.md", "contributing.md",
+    "privacy.md", "all-articles.md",
+}
+
+
+def _load_credits():
+    """Load contributor data from MediaWiki JSON export and merge git history."""
+    data = {"pages": {}, "users": {}}
+
+    if os.path.exists(CONTRIBUTORS_JSON):
+        with open(CONTRIBUTORS_JSON, "r", encoding="utf-8") as f:
+            data = json.load(f)
+
+    _merge_git_history(data)
+    return data
+
+
+def _merge_git_history(data):
+    """Parse git log and merge commit authors into contributor data."""
+    try:
+        result = subprocess.run(
+            ["git", "log", "--format=COMMIT|%an|%ai|%s",
+             "--name-only", "--", "docs/"],
+            capture_output=True, text=True, cwd=ROOT_DIR,
+        )
+        if result.returncode != 0:
+            return
+    except FileNotFoundError:
+        return
+
+    # Parse commits
+    commits = []
+    current = None
+    files = []
+
+    for line in result.stdout.strip().split("\n"):
+        line = line.strip()
+        if not line:
+            continue
+        if line.startswith("COMMIT|"):
+            if current and files:
+                commits.append((current, files))
+            parts = line.split("|", 3)
+            if len(parts) == 4:
+                current = {
+                    "author": GIT_AUTHOR_MAP.get(parts[1], parts[1]),
+                    "date": parts[2][:10],
+                    "message": parts[3],
+                }
+                files = []
+        elif current and line.startswith("docs/") and line.endswith(".md"):
+            files.append(line[5:])  # strip "docs/"
+
+    if current and files:
+        commits.append((current, files))
+
+    # Merge into contributor data
+    for commit, commit_files in commits:
+        if len(commit_files) > BULK_THRESHOLD:
+            continue  # Skip bulk imports
+
+        author = commit["author"]
+        date = commit["date"]
+        summary = _rewrite_message(commit["message"])
+
+        for md_path in commit_files:
+            if md_path not in data["pages"]:
+                data["pages"][md_path] = {"contributors": []}
+
+            page = data["pages"][md_path]
+            # Find existing contributor for this page
+            existing = None
+            for c in page["contributors"]:
+                if c["name"] == author:
+                    existing = c
+                    break
+
+            edit_entry = {
+                "date": date,
+                "summary": summary[:100],
+                "delta": 0,
+                "source": "git",
+            }
+
+            if existing:
+                existing["edit_count"] += 1
+                if date > (existing.get("last_edit") or ""):
+                    existing["last_edit"] = date
+                if not existing.get("first_edit") or date < existing["first_edit"]:
+                    existing["first_edit"] = date
+                existing.setdefault("edits", []).append(edit_entry)
+            else:
+                page["contributors"].append({
+                    "name": author,
+                    "real_name": "",
+                    "registered": True,
+                    "edit_count": 1,
+                    "first_edit": date,
+                    "last_edit": date,
+                    "bytes_added": 0,
+                    "bytes_removed": 0,
+                    "edits": [edit_entry],
+                })
+
+        # Update user summary
+        if author not in data["users"]:
+            data["users"][author] = {
+                "real_name": "",
+                "total_edits": 0,
+                "total_bytes_added": 0,
+                "total_bytes_removed": 0,
+                "pages_count": 0,
+            }
+        data["users"][author]["total_edits"] += 1
+
+    # Update pages_count: use max of original (includes sub-threshold pages)
+    # and recalculated (includes new git-contributed pages)
+    user_pages = defaultdict(set)
+    for md_path, page in data["pages"].items():
+        for c in page.get("contributors", []):
+            user_pages[c["name"]].add(md_path)
+    for name, pages in user_pages.items():
+        if name in data["users"]:
+            original = data["users"][name].get("pages_count", 0)
+            data["users"][name]["pages_count"] = max(original, len(pages))
+
+    # Re-sort users by total edits
+    data["users"] = dict(sorted(
+        data["users"].items(), key=lambda x: -x[1]["total_edits"]
+    ))
+
+    # Re-sort contributors within each page by edit count
+    for page in data["pages"].values():
+        page.get("contributors", []).sort(key=lambda c: -c["edit_count"])
+
+
+def _fmt(n):
+    """Format number with comma separators."""
+    return f"{n:,}" if n >= 1000 else str(n)
+
+
+def _build_credits_html(page_data):
+    """Build HTML for the per-page contributor credits section."""
+    contributors = page_data.get("contributors", [])
+    anon = page_data.get("anonymous", {})
+    anon_edits = anon.get("edit_count", 0)
+
+    if not contributors and not anon_edits:
+        return ""
+
+    total_edits = sum(c["edit_count"] for c in contributors) + anon_edits
+    n_named = len(contributors)
+
+    parts = []
+    if n_named:
+        parts.append(f"{n_named} contributor{'s' if n_named != 1 else ''}")
+    if anon_edits:
+        parts.append("anonymous editors")
+
+    h = ['<div class="aw-credits">']
+    h.append(
+        f'<p class="aw-credits-info">'
+        f'{total_edits} edit{"s" if total_edits != 1 else ""}'
+        f' from {" and ".join(parts)}.'
+        f'</p>'
+    )
+
+    for c in contributors:
+        name = esc(c.get("real_name") or c["name"])
+        edits = c["edit_count"]
+        added = c.get("bytes_added", 0)
+        removed = c.get("bytes_removed", 0)
+        first = c.get("first_edit", "")
+        last = c.get("last_edit", "")
+
+        if first and last:
+            fy, ly = first[:4], last[:4]
+            period = fy if fy == ly else f"{fy}\u2013{ly}"
+        else:
+            period = ""
+
+        # Build meta line
+        meta = f'{edits} edit{"s" if edits != 1 else ""}'
+        if added or removed:
+            meta += (
+                f' \u00b7 <span class="aw-plus">+{_fmt(added)}</span>'
+                f' / <span class="aw-minus">\u2212{_fmt(removed)}</span> bytes'
+            )
+        if period:
+            meta += f" \u00b7 {period}"
+
+        h.append('<details class="aw-contrib">')
+        h.append(
+            f'<summary><strong>{name}</strong>'
+            f' <span class="aw-contrib-meta">{meta}</span></summary>'
+        )
+
+        edits_list = c.get("edits", [])
+        if edits_list:
+            recent = list(reversed(edits_list))[:20]
+            h.append('<table class="aw-edit-log">')
+            h.append(
+                "<thead><tr><th>Date</th><th>Summary</th><th>Change</th></tr></thead>"
+            )
+            h.append("<tbody>")
+            for e in recent:
+                d = esc(e.get("date", ""))
+                s = esc(e.get("summary", "")) or "<em>minor edit</em>"
+                delta = e.get("delta", 0)
+                source = e.get("source", "")
+                if source == "git":
+                    delta_cell = '<span class="aw-git-tag">git</span>'
+                elif delta > 0:
+                    delta_cell = f'<span class="aw-plus">+{delta}</span>'
+                elif delta < 0:
+                    delta_cell = f'<span class="aw-minus">{delta}</span>'
+                else:
+                    delta_cell = "0"
+                h.append(
+                    f"<tr><td>{d}</td><td>{s}</td><td>{delta_cell}</td></tr>"
+                )
+            if len(edits_list) > 20:
+                h.append(
+                    f'<tr><td colspan="3"><em>\u2026 and {len(edits_list) - 20}'
+                    f" earlier edit{'s' if len(edits_list) - 20 != 1 else ''}"
+                    f"</em></td></tr>"
+                )
+            h.append("</tbody></table>")
+
+        h.append("</details>")
+
+    # Anonymous contributors row
+    if anon_edits:
+        a_add = anon.get("bytes_added", 0)
+        a_rem = anon.get("bytes_removed", 0)
+        h.append(
+            f'<div class="aw-anon-row">Anonymous contributors \u00b7 '
+            f'{anon_edits} edit{"s" if anon_edits != 1 else ""}'
+            f' \u00b7 <span class="aw-plus">+{_fmt(a_add)}</span>'
+            f' / <span class="aw-minus">\u2212{_fmt(a_rem)}</span> bytes</div>'
+        )
+
+    h.append("</div>")
+    return "\n".join(h)
+
+
+def _generate_credits_page():
+    """Generate the global credits.md page."""
+    users = _credits_data.get("users", {})
+    if not users:
+        return
+
+    total_edits = sum(u["total_edits"] for u in users.values())
+
+    md = [
+        "---",
+        "title: Contributors",
+        "---",
+        "",
+        "# Contributors",
+        "",
+        "Ayurwiki was built by a dedicated community of contributors on the original",
+        "MediaWiki site. This page recognizes everyone who helped create and improve",
+        "the knowledge base.",
+        "",
+        f"**{len(users)} contributors** made a total of"
+        f" **{total_edits:,} edits** across the wiki.",
+        "",
+        "| Contributor | Total Edits | Pages Edited | Added | Removed |",
+        "| --- | ---: | ---: | ---: | ---: |",
+    ]
+
+    for name, u in users.items():
+        display = esc(u.get("real_name") or name)
+        if u.get("real_name") and u["real_name"] != name:
+            display = f"{esc(u['real_name'])} ({esc(name)})"
+        md.append(
+            f"| {display}"
+            f" | {u['total_edits']:,}"
+            f" | {u['pages_count']:,}"
+            f" | +{u['total_bytes_added']:,}"
+            f" | \u2212{u['total_bytes_removed']:,} |"
+        )
+
+    md.append("")
+
+    with open(CREDITS_OUTPUT, "w", encoding="utf-8") as f:
+        f.write("\n".join(md))
+
+
+# ============================================================
+# MkDocs Hooks
+# ============================================================
+
+def on_config(config, **kwargs):
+    """Load and merge contributor data (runs once per build)."""
+    global _credits_data
+    _credits_data = _load_credits()
+    return config
+
+
 def on_pre_build(config, **kwargs):
-    """MkDocs hook: generate recent-changes.md before build."""
+    """Generate recent-changes.md and credits.md before build."""
     _generate_recent_changes()
+    if _credits_data:
+        _generate_credits_page()
+
+
+def on_page_content(html, page, config, files, **kwargs):
+    """Wrap page content and contributor credits in a tab interface."""
+    src = page.file.src_path
+    basename = os.path.basename(src)
+
+    # Skip meta pages and section indexes
+    if basename in _SKIP_CREDITS or basename == "index.md":
+        return html
+
+    page_data = _credits_data.get("pages", {}).get(src)
+    if not page_data:
+        return html
+
+    credits_html = _build_credits_html(page_data)
+    if not credits_html:
+        return html
+
+    # Count contributors for tab label
+    n = len(page_data.get("contributors", []))
+    anon = page_data.get("anonymous", {}).get("edit_count", 0)
+    if anon:
+        n += 1  # count anonymous as one entry
+
+    return (
+        '<div class="aw-tabs">'
+        '<div class="aw-tab-bar">'
+        '<button class="aw-tab active" data-tab="article">Article</button>'
+        f'<button class="aw-tab" data-tab="contributors">'
+        f'Contributors ({n})</button>'
+        '</div>'
+        f'<div class="aw-tab-pane active" data-tab="article">{html}</div>'
+        f'<div class="aw-tab-pane" data-tab="contributors">{credits_html}</div>'
+        '</div>'
+    )

@@ -73,6 +73,7 @@ extra_css:
 extra_javascript:
   - javascripts/edit-modal.js
   - javascripts/pagination.js
+  - javascripts/content-tabs.js
 
 nav:
   - Home: index.md
@@ -94,4 +95,5 @@ nav:
     - Recent Changes: recent-changes.md
   - About:
     - Contributing: contributing.md
+    - Contributors: credits.md
     - Privacy Policy: privacy.md

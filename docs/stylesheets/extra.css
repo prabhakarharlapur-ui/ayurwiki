@@ -246,3 +246,138 @@
   color: #72777d;
   font-size: 0.85rem;
 }
+
+/* ---- Content tabs (Article / Contributors) ---- */
+.aw-tab-bar {
+  float: right;
+  display: flex;
+  gap: 0;
+  margin: 4px 0 0 12px;
+}
+.aw-tab {
+  background: #f8f9fa;
+  border: 1px solid #c8ccd1;
+  border-radius: 3px;
+  padding: 4px 12px;
+  font-size: 0.7rem;
+  color: #0645ad;
+  cursor: pointer;
+  transition: background 0.15s, border-color 0.15s;
+  margin-left: 4px;
+}
+.aw-tab:hover:not(.active) {
+  background: #eaf3ff;
+  border-color: #0645ad;
+}
+.aw-tab.active {
+  background: #0645ad;
+  border-color: #0645ad;
+  color: #fff;
+  font-weight: 600;
+  cursor: default;
+}
+.aw-tab-pane {
+  display: none;
+}
+.aw-tab-pane.active {
+  display: block;
+}
+
+/* ---- Contributor credits (inside tab pane) ---- */
+.aw-credits {
+  padding-top: 0.8em;
+}
+.aw-credits-info {
+  font-size: 0.7rem;
+  color: #72777d;
+  margin-bottom: 0.6em;
+}
+.aw-contrib {
+  border: 1px solid #e0e0e0;
+  border-radius: 3px;
+  margin-bottom: 3px;
+  background: #fafafa;
+}
+.aw-contrib summary {
+  display: flex;
+  align-items: baseline;
+  gap: 6px;
+  padding: 4px 8px;
+  cursor: pointer;
+  font-size: 0.73rem;
+  list-style: none;
+}
+.aw-contrib summary::-webkit-details-marker { display: none; }
+.aw-contrib summary::before {
+  content: "\25B6";
+  font-size: 0.5rem;
+  color: #a2a9b1;
+  transition: transform 0.15s;
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+.aw-contrib[open] summary::before {
+  transform: rotate(90deg);
+}
+.aw-contrib summary strong {
+  color: #333;
+  font-size: 0.73rem;
+}
+.aw-contrib-meta {
+  color: #72777d;
+  font-size: 0.65rem;
+  white-space: nowrap;
+}
+/* Edit history table */
+.aw-edit-log {
+  width: 100%;
+  font-size: 0.65rem;
+  border-collapse: collapse;
+  margin: 0;
+}
+.aw-edit-log th {
+  background: #eaecf0;
+  color: #555;
+  font-weight: 600;
+  text-align: left;
+  padding: 3px 6px;
+  border-bottom: 1px solid #c8ccd1;
+  font-size: 0.63rem;
+}
+.aw-edit-log td {
+  padding: 2px 6px;
+  border-bottom: 1px solid #eaecf0;
+  color: #333;
+}
+.aw-edit-log td:first-child {
+  white-space: nowrap;
+  color: #72777d;
+  width: 75px;
+}
+.aw-edit-log td:last-child {
+  white-space: nowrap;
+  text-align: right;
+  width: 45px;
+}
+/* +/- byte delta colors */
+.aw-plus { color: #006400; }
+.aw-minus { color: #8b0000; }
+/* Git tag badge */
+.aw-git-tag {
+  display: inline-block;
+  background: #eaecf0;
+  color: #57606a;
+  font-size: 0.55rem;
+  padding: 1px 4px;
+  border-radius: 3px;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+}
+/* Anonymous contributors row */
+.aw-anon-row {
+  font-size: 0.68rem;
+  color: #72777d;
+  padding: 4px 8px;
+  border-top: 1px solid #e0e0e0;
+  margin-top: 3px;
+}
