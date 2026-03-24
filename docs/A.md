@@ -6,4 +6,4 @@ date: 2018-09-29
 ---
 # A
 
-In Ayurveda **A** means Negative particle meaning 'non', as in non-violence.
+Glossary Page for articles starting with A.
