@@ -169,3 +169,8 @@
 .md-typeset .toc a:hover {
   text-decoration: underline;
 }
+
+/* Recent changes table — compact rows */
+.md-typeset table:not([class]) td:last-child {
+  white-space: nowrap;
+}

@@ -33,6 +33,9 @@ theme:
     repo: fontawesome/brands/github
     logo: material/leaf
 
+hooks:
+  - scripts/hooks.py
+
 plugins:
   - search:
       lang: en
@@ -72,17 +75,22 @@ extra_javascript:
 
 nav:
   - Home: index.md
-  - Herbs: herbs/index.md
-  - Medicines: medicines/index.md
-  - Yoga: yoga/index.md
-  - Concepts: concepts/index.md
-  - Physiology: physiology/index.md
-  - Practices: practices/index.md
-  - Traditions: traditions/index.md
-  - Manufacturers: manufacturers/index.md
-  - Institutions: institutions/index.md
-  - Resources: resources/index.md
-  - All Articles: all-articles.md
-  - Categories: categories/index.md
-  - Contributing: contributing.md
-  - Privacy Policy: privacy.md
+  - Knowledge Base:
+    - Herbs: herbs/index.md
+    - Medicines: medicines/index.md
+    - Yoga: yoga/index.md
+    - Concepts: concepts/index.md
+    - Physiology: physiology/index.md
+    - Practices: practices/index.md
+    - Traditions: traditions/index.md
+  - Directory:
+    - Manufacturers: manufacturers/index.md
+    - Institutions: institutions/index.md
+    - Resources: resources/index.md
+  - Browse:
+    - All Articles: all-articles.md
+    - Categories: categories/index.md
+    - Recent Changes: recent-changes.md
+  - About:
+    - Contributing: contributing.md
+    - Privacy Policy: privacy.md
