@@ -122,7 +122,8 @@ Subtropical area, Indoors in a heated greenhouse, Warm shady humid place.
 2. [morphology](Leaf)(http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:796556-1)
 3. [preparations](Ayurvedic)(https://easyayurveda.com/2014/12/26/cardamom-uses-research-home-remedies-side-effects/)
 4. [details](Cultivation)(https://www.indiaagronet.com/indiaagronet/crop%20info/Cardamom.htm)
-5. ”Karnataka Medicinal Plants Volume - 2” by Dr.M. R. Gurudeva, Page No.125, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 115.**
+   Cardamom seeds are used as a digestive aid and carminative. The essential oil has antimicrobial and antifungal properties. Used in Ayurvedic eye-drop preparations and for treating vaginitis and cervicitis. Has anti-hepatotoxic activity and is used in formulations like Kamilari for liver protection. Seeds powdered and used in various Ayurvedic formulations. Essential oil used in herbal eye drops preparation. Sahacharadi thaila preparation with cardamom used for oligospermia.
 6. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, p. 39.**
    Listed among seed-tuber propagated plants in the plant classification system.
    > *As cited in: Vrksayurveda of Surapala, Section 6*

@@ -129,7 +129,8 @@ Along ditches, Wet areas, Marshy and open areas.
 2. Kappatagudda - A Repertoire of  Medicianal Plants of Gadag by Yashpal Kshirasagar and Sonal Vrishni, Page No. 121
 3. [to cultivate centella](How)(http://homeguides.sfgate.com/cultivate-centella-asiatica-21681.html)
 4. [names](Common)(https://sites.google.com/site/indiannamesofplants/via-species/c/centella-asiatica)
-5. Karnataka Medicinal Plants Volume - 2 by Dr.M. R. Gurudeva, Page No. 147
+5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 139.**
+   A well-known brain tonic used to improve memory, learning, and cognitive function. Has immunostimulant activity, wound healing properties, and anti-ulcer effects. Used in treatment of epilepsy, schizophrenia, and as a psychotropic drug. The plant extract shows anti-filarial, antiulcer, and adaptogen.
 6. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.45, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune
 7. **Ningombam, Sanjeev Kumar and Hazarika, Rituparna. "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes." *The International Journal of Bharatiya Knowledge System, Vol. 1, pp. 67-78*, 2024, p. 71.**
    Recognized among Northeast Indian tribes for wound healing, anti-inflammatory, and cognitive-enhancing properties. Applied for skin conditions, memory improvement, and anxiety reduction.

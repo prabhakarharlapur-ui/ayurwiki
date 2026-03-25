@@ -114,4 +114,5 @@ Waste places in lowland, Cultivated fields in lowland, Moist open places
 1. [Chemistry](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3249903/)
 2. [description](Plant)(https://www.cabi.org/isc/datasheet/21355)
 3. [details](Cultivation)(https://www.pfaf.org/USER/Plant.aspx?LatinName=Euphorbia+hirta)
-4. Karnataka Medicinal Plants Volume - 2” by Dr.M. R. Gurudeva, Page No.223, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 223.**
+   The plant is extensively used for treating bronchial asthma and respiratory disorders. The latex has antidiarrhoeal and anti-amoebic properties. It is used externally for treating skin diseases including warts, and has demonstrated antibacterial, anti-inflammatory, and antifertility activities in ph. Whole plant decoction; fresh plant juice taken internally; latex applied on warts externally.

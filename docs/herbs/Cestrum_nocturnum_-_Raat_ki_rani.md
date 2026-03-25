@@ -106,4 +106,5 @@ Tropics, Subtropics, Hedge plant.
 
 1. [INVESTIGATION](CHEMICAL)(http://shodhganga.inflibnet.ac.in/bitstream/10603/167074/9/09_chapter%202.pdf)
 2. [details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Cestrum+nocturnum)
-3. "Karnataka Medicinal Plants Volume - 2" by Dr.M. R. Gurudeva, Page No.606, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+3. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 605.**
+   In Mexico and other countries, the plant's leaves are used as a traditional anti-epileptic remedy. The aqueous extract of Cestrum nocturnum leaves shows insecticidal activity against cockroaches (Periplaneta americana). The plant also contains saponins with pharmacological activity. Leaf extract used externally; all plant parts used in various traditional preparations.

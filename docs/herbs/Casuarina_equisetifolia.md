@@ -94,6 +94,6 @@ Found on sand dunes, Inland to lower hills.
 ## References
 
 1. [Chemistry]
-2. Karnataka Medicinal Plants Volume - 2 by Dr.M. R. Gurudeva, Page No. 695
+2. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 695.**
+   The bark and leaves are used medicinally. The bark decoction is given for diarrhoea and dysentery. The plant is traditionally used for treating stomach ailments and has astringent properties. Preparations from the bark are used as a tonic and for general debility.
 3. [Cultivation](http://www.tropical.theferns.info/viewtropical.php?id=Casuarina+equisetifolia)
-4. "Karnataka Medicinal Plants Volume - 2" by Dr.M. R. Gurudeva, Page No.699, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.

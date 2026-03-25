@@ -109,6 +109,6 @@ Hotter parts, Deciduous forests of the Malaysian archipelago, Northern Australia
 1. [medicines](Bimbima)(https://www.bimbima.com/ayurveda/ayurvedic-herb-bhallataka-semecarpus-anacardium/331/)
 2. [plants](Trophical)(http://tropical.theferns.info/viewtropical.php?id=Semecarpus+anacardium)
 3. [ayurveda](Planet)(http://www.planetayurveda.com/library/bhallataka-semecarpus-anacardium)
-4. Karnataka Medicinal Plants Volume - 2 by Dr.M. R. Gurudeva, Page No. 256, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 257.**
+   The marking nut is a key drug in Ayurveda (Bhallataka) used extensively in treating rheumatoid arthritis. The nut milk extract has demonstrated hepatoprotective, anticancer, and antioxidant properties. It is also used for treating skin diseases including leucoderma and vitiligo, and has shown nemati. Nut processed carefully to remove toxic resin before use; oil applied externally for skin conditions; Bhallataka preparations used in Ayurvedic formulations for arthritis treatment.
 5. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.134, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune
-6. "Karnataka Medicinal Plants Volume - 2" by Dr.M. R. Gurudeva, Page No.267, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.

@@ -93,4 +93,5 @@ Wastelands, Roadsides.
 2. [Morphology]
 3. [Cultivation]
 4. Indian Medicinal Plants by C.P.Khare
-5. Karnataka Medicinal Plants Volume - 2” by Dr.M. R. Gurudeva, Page No.411, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 411.**
+   Portulaca quadrifida is used in folk medicine for treating erysipelas (skin inflammation), leucorrhoea, and prickly heat. The plant has cooling properties and is applied as a paste for skin conditions. It also has contraceptive effects as demonstrated in animal studies on reproductive organs. Fresh . Plant paste applied externally for erysipelas and prickly heat. 100 mL fresh juice taken for 7-8 days for skin conditions. 5 grams powder taken with buttermilk for 15-20 days for leucorrhoea.

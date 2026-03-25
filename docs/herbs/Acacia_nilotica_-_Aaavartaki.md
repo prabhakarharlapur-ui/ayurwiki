@@ -124,5 +124,5 @@ Wild forest area, Dry arid area, Agricultural land
 1. [constituents](Chemical)(http://www.yourarticlelibrary.com/biology/carbohydrates/acacia-sources-constituents-and-uses/49562)
 2. [Morphology](http://www.efloraofgandhinagar.in/tree/acacia-nilotica)
 3. [details](Cultivation)(https://hort.purdue.edu/newcrop/duke_energy/Acacia_nilotica.html)
-4. "Karnataka Medicinal Plants Volume - 2" by Dr.M. R. Gurudeva, Page No.318, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
-5. Karnataka Medicinal Plants Volume - 2 by Dr.M. R. Gurudeva, Page No. 314
+4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 313.**
+   Acacia nilotica bark is astringent and used for diarrhea, dysentery, and wound healing. The gum (Acacia gum) is used as a demulcent and for treating sore throats. The pods and bark decoction is gargled for dental problems and used for skin diseases. It has antimicrobial and anti-inflammatory propert. Bark decoction for gargling; gum dissolved in water; pod powder applied externally.

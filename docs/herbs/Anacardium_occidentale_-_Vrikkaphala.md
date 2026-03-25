@@ -123,4 +123,5 @@ Tropical area, Coastal area.
 3. [details](Cultivation)(https://pfaf.org/USER/Plant.aspx?LatinName=Anacardium+occidentale)
 4. [DESCRIPTION](BOTANIC)(http://keralaplants.in/)
 5. [names](Vernaculer)(http://envis.frlht.org/index.php/bot_search)
-6. "Karnataka Medicinal Plants Volume - 2" by Dr.M. R. Gurudeva, Page No.276, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru
+6. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 273.**
+   The cashew nut shell liquid (CNSL) has antimicrobial, molluscicidal, and anti-inflammatory properties. Bark decoction is used for treating diarrhea and dysentery. Leaf extracts have shown anti-inflammatory and analgesic activity, and the plant is also used for treating anthelmintic conditions and sk. Bark decoction prepared and taken internally; leaf extract applied externally; cashew nut shell oil used topically for warts and corns.

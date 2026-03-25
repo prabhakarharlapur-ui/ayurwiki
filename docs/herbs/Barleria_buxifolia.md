@@ -81,4 +81,5 @@ Fruiting from August to March
 1. [Chemistry]
 2. [Morphology]
 3. [Cultivation]
-4. Karnataka Medicinal Plants Volume - 2 by Dr.M. R. Gurudeva, Page No. 256
+4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 255.**
+   The plant leaf paste is applied on boils and abscesses to reduce swelling and promote healing. The root decoction is used for treating toothache and gum problems. The plant also has anti-inflammatory properties and is used in folk medicine for treating joint pain. Leaf paste mixed with quarter portion each of lime juice and turmeric, applied externally for 4-5 days; root decoction used as gargle for dental problems 2-3 days.

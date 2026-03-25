@@ -108,4 +108,5 @@ Rocky places, Woods, Thickets.
 3. [names](Common)(https://www.flowersofindia.net/catalog/slides/Fringed%20Rue.html)
 4. [Cultivation](http://temperate.theferns.info/plant/Ruta+chalepensis)
 5. Indian Medicinal Plants by C.P.Khare
-6. "Karnataka Medicinal Plants Volume - 2" by Dr.M. R. Gurudeva, Page No.346, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+6. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 381.**
+   Ruta chalepensis (Common Rue) is used for treating skin conditions including vitiligo (leucoderma). It has antifertility, contraceptive, and abortifacient properties. The plant has anti-inflammatory, antinociceptive, molluscicidal, and antithrombotic effects. It is used topically for phytophotoderma. Leaf paste applied externally. Leaf decoction taken internally for various conditions. Caution advised due to phototoxic properties.

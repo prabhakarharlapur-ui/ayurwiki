@@ -100,4 +100,5 @@ Himalayas, Cultivated fields, Dry stony wastelands, Black cotton soil.
 1. [ayurveda](Easy)(https://easyayurveda.com/2017/02/01/trichodesma-indicum/)
 2. [Morphology](https://indiabiodiversity.org/species/show/33327)
 3. [plants](Trophical)(http://tropical.theferns.info/viewtropical.php?id=Trichodesma+indicum)
-4. ”Karnataka Medicinal Plants Volume - 2” by Dr.M. R. Gurudeva, Page No.49, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 49.**
+   Used as a remedy for skin diseases and inflammation. The whole plant decoction with 5 grams of powder is applied to skin ailments for 2 days. Also useful for treating boils and swellings when applied externally. Decoction of leaves is applied to affected areas. Leaf paste is used externally for skin conditions. Root powder (5 gm) mixed with buttermilk is taken internally.

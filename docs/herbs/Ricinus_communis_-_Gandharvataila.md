@@ -122,7 +122,8 @@ Roadsides, Vacant plots, Wastelands.
 2. [details](Cultivation)(https://indiabiodiversity.org/species/show/230990)
 3. [preparations](Ayurvedic)(https://easyayurveda.com/2014/12/12/castor-benefits-use-research-side-effects/)
 4. [details](Cultivation)(https://keyserver.lucidcentral.org/weeds/data/media/Html/ricinus_communis.htm)
-5. Karnataka Medicinal Plants Volume - 2 by Dr.M. R. Gurudeva, Page No. 746
+5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 739.**
+   Castor oil (from seeds) is a well-known purgative and is used for constipation, rheumatic pain, and skin conditions. The leaves have anti-inflammatory activity and are applied as a poultice for swellings and inflammations. The plant has hepatoprotective activity, larvicidal properties, and the oil s. Castor oil: 5-10 ml taken orally as purgative. Leaf poultice applied externally for joint pain and swellings. Root bark decoction used for rheumatic conditions.
 6. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 30, 44, 92.**
    Listed among restricted campus trees not suitable for planting in residential compounds. In horticultural wonders, castor seeds treated with pig fat (kokara vasa) and sown in suitable land reportedly produce fruits resembling karkati (a type of melon/cucumber) rather than typical castor fruits.
    > *As cited in: Vrksayurveda of Surapala, Verses 239; Sections 3, 7, 19*

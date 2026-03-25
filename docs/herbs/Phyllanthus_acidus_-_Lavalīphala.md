@@ -117,4 +117,5 @@ Coastal forest, Dry limestone woodlands.
 1. The Ayuredic Pharmacopoeia of India Part-1, Volume-5, Page no-14
 2. [Morphology](https://indiabiodiversity.org/species/show/266545)
 3. [detail](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Phyllanthus+acidus)
-4. Karnataka Medicinal Plants Volume - 2” by Dr.M. R. Gurudeva, Page No.211, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 209.**
+   The fruits are used to treat blood purification disorders and have antifungal properties. The fruit and bark decoction is used for treating skin diseases and as a remedy for digestive problems. The plant also has hepatoprotective and anti-inflammatory activities. Fruit consumed directly 5-10 at a time; bark decoction prepared with water for skin disorders; paste applied on affected areas for 4-8 days.

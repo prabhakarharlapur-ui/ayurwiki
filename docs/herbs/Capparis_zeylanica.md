@@ -108,6 +108,7 @@ Hedges, Brushwood, Savannahs, Forest borders.
 
 1. [constituents](Chemical)(https://www.researchgate.net/publication/311927324_PHYTOCHEMISTRY_AND_PHARMACOLOGICAL_ACTIVITIES_OF_CAPPARIS_ZEYLANICA_AN_OVERVIEW)
 2. [Morphology]
-3. ”Karnataka Medicinal Plants Volume - 2” by Dr.M. R. Gurudeva, Page No.61, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+3. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 61.**
+   Root and bark decoctions are used for treating skin diseases and rheumatic conditions. The plant has antimicrobial and anti-inflammatory properties. Used traditionally for treating boils, swellings, and as a counter-irritant when applied externally. Root bark decoction given 3-4 times daily. Fresh root bark paste applied externally for skin conditions. Bark powder (1/4 spoon) mixed with warm water for internal use 2-3 times daily.
 4. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Capparis+zeylanica)
 5. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.37, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune

@@ -123,4 +123,5 @@ Temperate area, Cultivated areas, Himalayas region.
 2. [Morphology](https://indiabiodiversity.org/species/show/15644)
 3. [preparations](Ayurvedic)(https://easyayurveda.com/2015/02/28/michelia-champaca-uses-research-side-effects/)
 4. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Magnolia+champaca)
-5. "Karnataka Medicinal Plants Volume - 2" by Dr.M. R. Gurudeva, Page No.715, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 713.**
+   Champaca flowers and bark possess antifertility activity and have been shown to induce resorption of implants and prevent pregnancy in animal studies. The flower oil is used in perfumery and aromatherapy. The bark decoction is used for treating fever, and the root bark is used as an emmenagogue. The. Bark decoction used for fever; flowers used in oil preparations; root bark extract taken for 2-3 weeks for menstrual regulation. Flower oil (Etaerio of Follicles) used for respiratory conditions.

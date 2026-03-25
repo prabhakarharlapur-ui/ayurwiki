@@ -102,4 +102,5 @@ Wet to dry thickets, In waste ground.
 2. Kappatagudda - A Repertoire of  Medicianal Plants of Gadag by Yashpal Kshirasagar and Sonal Vrishni, Page No. 324
 3. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Rauvolfia+tetraphylla)
 4. Indian Medicinal Plants by C.P.Khare
-5. Karnataka Medicinal Plants Volume - 2 by Dr.M. R. Gurudeva, Page No. 409
+5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 407.**
+   Rauwolfia tetraphylla roots contain reserpine and related alkaloids with antihypertensive properties. The root extract is used for treating hypertension (high blood pressure) and as a sedative. It has antifungal activity against Trichosporium vesiculosum, Macrophomina khaseolina, and Aspergillus fla. Root paste applied externally on insect stings and wounds. Root preparations used for hypertension under medical supervision.

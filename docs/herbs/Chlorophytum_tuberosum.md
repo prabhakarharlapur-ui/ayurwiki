@@ -95,4 +95,5 @@ In open areas of deciduous forests.
 1. [constituents](Chemical)
 2. [Morphology]
 3. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.50, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune
-4. "Karnataka Medicinal Plants Volume - 2" by Dr.M. R. Gurudeva, Page No.442, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 441.**
+   Chlorophytum tuberosum tubers are used as a galactagogue (to increase breast milk production) and as a general tonic. The tuber preparations are used for treating leucorrhoea and as a rejuvenating herb. The tuber paste or decoction is used as a nutritive supplement. 50 mL tuber decoction taken for 40 days to improve tissue strength. Tuber powder mixed with milk and sugar taken daily for leucorrhoea (1 spoon powder, 1 spoon sugar with milk).

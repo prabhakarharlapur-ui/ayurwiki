@@ -91,4 +91,5 @@ Garlic was originally a plant of warm temperate areas with a distinct cold seaso
 1. [Chemistry]
 2. [fruiting season is ](Morphology)
 3. [details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Allium+sativum)
-4. "Karnataka Medicinal Plants Volume - 2" by Dr.M. R. Gurudeva, Page No.497, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 483.**
+   Garlic is one of the most extensively studied medicinal plants. It has proven hypoglycemic, hypotensive, hypocholesterolemic, antiatherosclerotic, and antithrombotic activities. It is used for treating cardiovascular diseases, hypertension, diabetes, infections, and has strong antibacterial, antivir. Raw garlic cloves 2-3 taken daily for cardiovascular health. Garlic oil drops for ear infections. Garlic paste applied externally for wounds and skin infections.

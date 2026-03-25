@@ -104,7 +104,8 @@ River banks, Edges of lakes, Extending into woodland, Grassland, Waste places.
 ## References
 
 1. [Chemistry]
-2. Karnataka Medicinal Plants Volume - 2 by Dr.M. R. Gurudeva, Page No. 245
+2. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 245.**
+   The plant is used in treating skin disorders and the seeds have been studied for their pyrrolizidine alkaloid content. The dried seed pods make a rattling sound, giving the plant its Kannada name. The whole plant is used as a green manure and has soil-enriching nitrogen-fixing properties. Plant paste applied externally; seed decoction used after careful preparation due to alkaloid content.
 3. [Morphology]
 4. Useful tropical plants by tropical.theferns.info website
 5. Indian Medicinal Plants by C.P.Khare

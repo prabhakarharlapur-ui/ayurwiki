@@ -114,4 +114,5 @@ Damp, Deciduous forests.
 1. Article - Chemical Composition and Biological Activities of Essential Oils of Curcuma Species by Aromatic Plant Research Center, 230 N 1200 E, Suite 102, Lehi, UT 84043, USA.
 2. Vikaspedia
 3. Useful tropical plant by The ferns.information
-4. ”Karnataka Medicinal Plants Volume - 2” by Dr.M. R. Gurudeva, Page No.177, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 173.**
+   The rhizome is used for its hepatoprotective activity, protecting against liver injury. It has anti-eosinophilia effects and is used in treating gastrointestinal disorders. The plant also shows antifungal activity and cytotoxic properties against certain cancer cell lines. Rhizome powder 10 grams boiled in water, decoction taken 2-3 times; also used as paste for external application.

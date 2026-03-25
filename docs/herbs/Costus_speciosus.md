@@ -109,4 +109,5 @@ Disturbed moist to wet thickets, Roadside banks at elevations.
 1. [constituents](Chemical)(https://www.easyayurveda.com/2017/07/19/costus-speciosus-crepe-ginger-kebuka/)
 2. [Morphology]
 3. [Cultivation]
-4. "Karnataka Medicinal Plants Volume - 2" by Dr.M. R. Gurudeva, Page No.303, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 299.**
+   The rhizome of Costus speciosus contains diosgenin and is used in traditional medicine. It has anti-inflammatory, antifertility, and antispasmodic properties. Studies have shown effects on uterine musculature, and it is used in treatment of various conditions including inflammation and reproductive . Rhizome decoction and extract preparations are used medicinally.

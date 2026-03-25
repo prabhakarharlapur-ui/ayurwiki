@@ -108,4 +108,5 @@ Rocky savannah.
 3. [Cultivation]
 4. Indian Medicinal Plants by C.P.Khare
 5. Journal article - Chemical constituents of wild onion Urginea indica Kunth Liliaceae by M.N. Shiva Kameshwari, Department of Botany, Bangalore University.
-6. Karnataka Medicinal Plants Volume - 2” by Dr.M. R. Gurudeva, Page No.183, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+6. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 183.**
+   The bulb is used in the management of congestive cardiac failure as an Ayurvedic drug. The paste of the bulb is applied externally for treating warts and corns. It also has diuretic properties and is used in traditional medicine for dropsy and related conditions. Bulb paste applied externally on warts; also prepared as decoction for internal use.

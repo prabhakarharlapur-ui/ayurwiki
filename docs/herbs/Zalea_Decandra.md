@@ -91,4 +91,5 @@ Pods, 7.5 x 2 cm, Fruiting from December to April
 1. ["chemistry"]
 2. [Morphology](http://www.worldagroforestry.org/treedb2/AFTPDFS/Acacia_senegal.PDF)
 3. [ "Cultivation"]
-4. "Karnataka Medicinal Plants Volume - 2" by Dr.M. R. Gurudeva, Page No.465, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 463.**
+   The plant is used for treating orchitis (swelling of testicles) and urinary disorders. The leaf poultice is applied externally for boils and abscesses. The root decoction is used as an antidote for alcoholic intoxication. Leaf paste applied externally for 1-2 days for abscesses. Root decoction with 2 cups of water boiled to half, for orchitis treatment 5 grams daily. Application continued for 15-20 days.

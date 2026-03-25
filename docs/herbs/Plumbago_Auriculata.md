@@ -84,4 +84,5 @@ Tropical and Sub-tropical regions of South Africa, It is commonly found around S
 1. [Chemistry]
 2. Kappatagudda - A Repertoire of  Medicianal Plants of Gadag by Yashpal Kshirasagar and Sonal Vrishni, Page No. 219
 3. [Cultivation]
-4. "Karnataka Medicinal Plants Volume - 2" by Dr.M. R. Gurudeva, Page No.428, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 433.**
+   Plumbago auriculata (Blue Plumbago) root is used in folk medicine for treating warts. The root paste mixed with aromatic oil is applied on warts, and with regular daily application, the warts gradually diminish and fall off. The plant is closely related to Plumbago zeylanica (white chitramula) which. Root paste mixed with aromatic oil applied daily on warts until they fall off.

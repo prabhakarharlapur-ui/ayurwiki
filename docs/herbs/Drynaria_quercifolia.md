@@ -84,7 +84,8 @@ An epiphyte, Found growing on tree trunks, Cliff faces in tropical forests.
 
 ## References
 
-1. Karnataka Medicinal Plants Volume - 2 by Dr.M. R. Gurudeva, Page No. 738
+1. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 737.**
+   The rhizome is used to treat jaundice by grinding it with fresh Hanumana hastha rhizome and taking 5-10 grams of the juice with buttermilk for 20 ml dose, once daily for 3 sessions over 4 days. It is also used for treating fractures and bone disorders by applying the rhizome paste externally for 3-4.
 2. [Chemistry]
 3. [Morphology]
 4. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Drynaria%20quercifolia)

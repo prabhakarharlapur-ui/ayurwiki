@@ -108,4 +108,5 @@ Open areas, Damp area, Waste places, Rice fields.
 1. Pharmacognostical and Pharmacological Evaluation of Ammannia baccifera by Riddhi Vavaiya
 2. [Morphology](https://indiabiodiversity.org/species/show/265011)
 3. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Mucuna%20poggei)
-4. Karnataka Medicinal Plants Volume - 2 by Dr.M. R. Gurudeva, Page No. 168
+4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 165.**
+   Used for treating ringworm (dermatophytosis) and herpes skin infections. Has antiurolithic (kidney stone dissolving) activity and antibacterial properties. The leaf paste is applied externally on skin infections and the plant is used in traditional Pashanabedha formulations for kidney stones.

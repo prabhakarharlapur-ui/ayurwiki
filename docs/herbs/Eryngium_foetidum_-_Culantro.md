@@ -112,4 +112,5 @@ Meadows, Waste places, Along roadsides, Forest edges, Lowland area.
 
 1. [Composition](Chemical)(http://gernot-katzers-spice-pages.com/engl/Eryn_foe.html)
 2. [Details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Eryngium+foetidum)
-3. Karnataka Medicinal Plants Volume - 2” by Dr.M. R. Gurudeva, Page No.193, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+3. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 191.**
+   The plant paste is used externally to treat joint inflammation and arthritis. A decoction of the root and leaves combined with other herbs is used to reduce fever and treat digestive disorders. The plant has demonstrated anti-inflammatory and analgesic properties in pharmacological studies. Half teaspoon of paste mixed with appropriate vehicle; root and leaf decoction taken 1 part with honey, 1 part daily for 6 days for recovery.

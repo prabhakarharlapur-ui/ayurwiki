@@ -105,4 +105,5 @@ Tropical area.
 1. [Uses](http://dhaarrii.blogspot.com/2009/09/cycas-circinalis.html)
 2. [description](Botanic)(http://www.nbrienvis.nic.in/WriteReadData/CMS/Cycas%20circinalis.pdf)
 3. [names](Vernacular)(http://envis.frlht.org/bot_search)
-4. "Karnataka Medicinal Plants Volume - 2" by Dr.M. R. Gurudeva, Page No.594, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 591.**
+   The plant has nematicidal properties against Meloidogyne incognita. The seed and pith are used traditionally for treating ulcers, boils, and wounds. The Ayurvedic preparations from this plant are used for blood disorders, skin diseases, and as a general tonic.

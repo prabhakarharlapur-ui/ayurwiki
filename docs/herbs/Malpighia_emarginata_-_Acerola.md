@@ -101,4 +101,5 @@ Subtropical area, Meadows, Borders of forests and fields.
 1. [Phytochemistry](https://www.ayurtimes.com/acerola-barbados-cherry-malpighia-emarginata/)
 2. [description](Plant)(https://www.ayurtimes.com/acerola-barbados-cherry-malpighia-emarginata/)
 3. [Details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Malpighia+emarginata)
-4. "Karnataka Medicinal Plants Volume - 2" by Dr.M. R. Gurudeva, Page No.456, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 455.**
+   The fruit is extremely rich in Vitamin C and is used to treat scurvy and general debility. The fruit juice is used for liver disorders and as an astringent. It is also used for diarrhea and dysentery. Fresh fruit juice taken 10-20 drops with water for stomach ailments. Fruit paste applied externally for skin conditions; decoction of 6 fruits taken 2-3 times daily.

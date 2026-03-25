@@ -92,4 +92,5 @@ Pods, 7.5 x 2 cm, Fruiting from February to May
 1. ["chemistry"]
 2. [Morphology](http://www.worldagroforestry.org/treedb2/AFTPDFS/Acacia_senegal.PDF)
 3. [ "Cultivation"]
-4. "Karnataka Medicinal Plants Volume - 2" by Dr.M. R. Gurudeva, Page No.465, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 473.**
+   The leaves are used in traditional medicine for treating skin diseases and wounds. The plant contains securinine alkaloid which has CNS stimulant properties. The leaf paste is applied to treat scabies and other skin infections. Leaf paste applied externally for skin conditions. Fresh leaf juice 3 drops instilled in ear for 2 days for earache. Bark decoction used as wash for wounds.

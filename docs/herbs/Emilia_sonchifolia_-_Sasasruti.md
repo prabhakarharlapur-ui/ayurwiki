@@ -104,4 +104,5 @@ Tropical area
 2. [description](Botanic)(http://keralaplants.in/)
 3. [names](Vernacular)(http://envis.frlht.org/bot_search)
 4. [details](Cultivation)(https://pfaf.org/user/Plant.aspx?LatinName=Emilia+sonchifolia)
-5. ”Karnataka Medicinal Plants Volume - 2” by Dr.M. R. Gurudeva, Page No.80, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 83.**
+   The plant has antioxidant and anti-inflammatory properties. It shows in vitro cytotoxic and antitumor activity. The fresh juice is applied on wounds for quick healing and used to treat eye inflammations. Also useful for treating diarrhea and dysentery. Fresh plant juice (half cup) taken internally 2 times with equal amount of water, 3-4 times daily for quick recovery. Leaf juice applied on filter paper and used as poultice for wounds.

@@ -105,6 +105,7 @@ Disturbed dry bushland, Grasslands, Cultivated areas.
 
 1. [constituents](Chemical)(http://globalresearchonline.net/journalcontents/v48-2/11.pdf)
 2. Kappatagudda - A Repertoire of  Medicianal Plants of Gadag by Yashpal Kshirasagar and Sonal Vrishni, Page No. 376
-3. Karnataka Medicinal Plants Volume - 2 by Dr.M. R. Gurudeva, Page No. 241
+3. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 241.**
+   The plant is used for wound healing - hence the Kannada name 'Gayamari Gida' (wound-healing plant). The root and leaf paste is applied on cuts, wounds and boils to promote healing. It is also used for treating snake bites and scorpion stings in folk medicine. Root and leaf paste applied externally on wounds; juice extracted and administered for snake bites.
 4. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Trichodesma+zeylanicum)
 5. Indian Medicinal Plants by C.P.Khare

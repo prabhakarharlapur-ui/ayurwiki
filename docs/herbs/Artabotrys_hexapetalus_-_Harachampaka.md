@@ -108,4 +108,5 @@ Tropical area, Sub Tropical area, Gardens
 1. [description](Botanic)(http://keralaplants.in/flowering-plants-kerala-dvd.asp)
 2. [names](Vernacular)(http://envis.frlht.org/bot_search)
 3. [details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Artabotrys+hexapetalus)
-4. "Karnataka Medicinal Plants Volume - 2" by Dr.M. R. Gurudeva, Page No.545, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 541.**
+   The plant has antifertility properties - leaf extracts show anti-estrogenic activity affecting the oestrous cycle in rats. The leaves also have antifungal and neuropharmacological activities. The essential oil from leaves shows antimicrobial properties against fungi and bacteria. Leaf extract used in traditional preparations. Fresh leaves ground with water for topical application. Specific dosages referenced in research contexts (25-300 mg/kg in animal studies).

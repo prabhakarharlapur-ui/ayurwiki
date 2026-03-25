@@ -142,4 +142,5 @@ Moist and wet places, Irrigated fields, Borders of water, Bank of channels.
 3. [names](Common)(https://sites.google.com/site/indiannamesofplants/via-species/b/bacopa-monnieri)
 4. [details](Cultivation)(http://agritech.tnau.ac.in/horticulture/horti_medicinal%20crops_brahmi.html)
 5. [monnier on vikaspedia.in](Bacopa)(https://vikaspedia.in/agriculture/crop-production/package-of-practices/medicinal-and-aromatic-plants/bacopa-monnieri)
-6. "Karnataka Medicinal Plants Volume - 2" by Dr.M. R. Gurudeva, Page No.428, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+6. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 421.**
+   Bacopa monnieri (Brahmi) is one of the most important nootropic (brain tonic) herbs in Ayurveda. It is extensively used for improving memory, learning, and cognitive function, especially in mentally retarded children and elderly with memory loss. It has anti-anxiety, anti-inflammatory, anticonvulsan. Brahmi ghrita and Brahmi rasayana are classical Ayurvedic preparations. Fresh juice or powder preparations used for cognitive enhancement.

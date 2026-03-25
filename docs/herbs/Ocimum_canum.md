@@ -94,4 +94,5 @@ It flourishes in conditions of lot of sun, well drained soils and access to heat
 2. Kappatagudda - A Repertoire of  Medicianal Plants of Gadag by Yashpal Kshirasagar and Sonal Vrishni, Page No. 283
 3. [Cultivation]
 4. Indian Medicinal Plants by C.P.Khare
-5. "Karnataka Medicinal Plants Volume - 2" by Dr.M. R. Gurudeva, Page No.756, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 765.**
+   Holatulasi (Ocimum americanum/O. canum) essential oils show strong antifungal and antimicrobial activity against dermatophytes and pathogenic fungi. The seeds have been used for improving glucose tolerance in diabetics through long-term dietary supplementation. The plant's essential oils serve as na. Essential oil preparations used for antifungal applications. Seeds used as dietary supplement for diabetic management. Leaf decoction for fever and digestive complaints.

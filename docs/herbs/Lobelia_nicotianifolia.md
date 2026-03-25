@@ -106,4 +106,5 @@ Open localities on ridges, Often on grassy mountain slopes.
 2. [Morphology]
 3. [Cultivation]
 4. Indian Medicinal Plants by C.P.Khare
-5. Karnataka Medicinal Plants Volume - 2” by Dr.M. R. Gurudeva, Page No.187, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 187.**
+   The leaf juice is used for treating wounds on livestock and for healing maggot-infested wounds. The fresh leaf paste is applied on the scalp to treat dandruff and lice infestation. The plant also has anti-inflammatory and analgesic properties. Fresh leaf juice applied externally on wounds; leaf paste applied on scalp for 1-2 days for parasitic conditions.

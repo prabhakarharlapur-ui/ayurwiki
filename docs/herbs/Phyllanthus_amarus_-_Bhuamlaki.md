@@ -106,4 +106,5 @@ Tropical area, Subtropical area, Drained sandy-loam soil.
 1. [constituents](Chemical)(https://www.researchgate.net/publication/320104812_Chemical_constituents_and_antimicrobial_properties_of_Phyllanthus_amarus_Schum_Thonn)
 2. Kappatagudda - A Repertoire of  Medicianal Plants of Gadag by Yashpal Kshirasagar and Sonal Vrishni, Page No. 304
 3. [Details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Phyllanthus+amarus)
-4. "Karnataka Medicinal Plants Volume - 2" by Dr.M. R. Gurudeva, Page No.533, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 523.**
+   The whole plant is extensively used as a hepatoprotective agent, particularly for jaundice and hepatitis B. It has proven antiviral activity against Hepatitis B virus and shows contraceptive, antifertility, hypoglycemic, and hypotensive effects. It is also used for treating kidney stones, urinary di. Whole plant decoction taken twice daily for jaundice. Fresh plant juice 10-20 ml for liver disorders. Plant powder used in formulations for kidney stones and urinary problems.

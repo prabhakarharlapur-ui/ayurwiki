@@ -102,4 +102,5 @@ Sunny or lightly shaded conditions in rock crevices, In shallow soil pockets ove
 2. Kappathagudda - A Repertoire of Medicinal Plants of Gadag, Page no: 41
 3. [Morphology]
 4. [details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Actiniopteris+radiata)
-5. "Karnataka Medicinal Plants Volume - 2" by Dr.M. R. Gurudeva, Page No.549, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 547.**
+   The fern is used traditionally for treating burns, wounds, cough, and respiratory conditions. Research has confirmed antibacterial, antifungal, and nematicidal activities. The plant is also used in Ayurvedic formulations for blood disorders and as a general tonic. Leaf decoction used for cough and respiratory ailments. Root powder applied externally for wound healing. Plant used in compound Ayurvedic formulations for blood purification.

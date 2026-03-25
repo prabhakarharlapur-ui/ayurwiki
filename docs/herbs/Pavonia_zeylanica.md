@@ -93,4 +93,5 @@ Lowland forest.
 1. [composition](Chemical)(https://www.sciencedirect.com/science/article/pii/S1319562X17300013#:~:text=In%20this%20study%2C%20roots%20of,and%20terpenoids%20in%20its%20roots.)
 2. Kappatagudda - A Repertoire of  Medicianal Plants of Gadag by Yashpal Kshirasagar and Sonal Vrishni, Page No. 298
 3. [Details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Plumbago+zeylanica)
-4. Karnataka Medicinal Plants Volume - 2 by Dr.M. R. Gurudeva, Page No. 291
+4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 289.**
+   The root decoction is used for treating urinary tract infections and as a demulcent for soothing irritated mucous membranes. It is also used for treating leucorrhoea and menstrual disorders. The plant paste is applied on swellings and inflammatory conditions for relief. 10 grams of root boiled in water, decoction taken with honey and sugar; root paste applied on affected areas; decoction of 3 parts root with 1 part adjuvant taken for 40 days (200 ml).

@@ -111,6 +111,7 @@ Tall grasslands, Meadows, Borders of forests and fields.
 ## References
 
 1. [chemicals](Plant)(http://www.rain-tree.com/epazote.htm#.Wvv2sU1L_CI)
-2. "Karnataka Medicinal Plants Volume - 2" by Dr.M. R. Gurudeva, Page No.764, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+2. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 761.**
+   The essential oil of Chenopodium ambrosioides has antidermatophytic and antifungal properties and is used against ringworm. The plant extract shows pharmacological activity including anthelmintic effects. The whole plant is used in traditional medicine for treating intestinal worms and skin fungal i. Leaf and stem extract used externally for fungal skin infections. Essential oil applied topically for ringworm treatment. Research doses: 100-200 mg/gram concentrations for antifungal activity.
 3. [names](Common)(https://sites.google.com/site/indiannamesofplants/via-species/d/dysphania-ambrosioides)
 4. [and harvesting](Cultivation)(https://www.herbco.com/c-371-epazote.aspx)

@@ -95,4 +95,5 @@ Garden area.
 2. [machine](Wayback)(http://www.flowersofindia.net/catalog/slides/Indian%20Cork%20Tree.html)
 3. [names](Common)(https://sites.google.com/site/indiannamesofplants/via-names/kannada)
 4. [Cultivation](http://globalresearchonline.net/journalcontents/volume4issue2/Article%20020.pdf)
-5. "Karnataka Medicinal Plants Volume - 2" by Dr.M. R. Gurudeva, Page No.460, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 459.**
+   The bark has antipyretic and diuretic properties and is used as a lung tonic. The leaves contain hispidulin which has anti-inflammatory action. The flowers are dried and smoked as a substitute for tobacco to relieve sinusitis and asthma. Bark decoction 100 ml twice daily for fever; leaf extract applied for ringworm infections. Dried flowers smoked for respiratory congestion.

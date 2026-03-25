@@ -120,6 +120,6 @@ Mountains of eastern himalayas, East bengal, Wetland of Assam.
 
 1. [Sciencedirect](https://www.sciencedirect.com/science/article/pii/S0378874112006393?via%3Dihub)
 2. [description](Plant)(https://www.bimbima.com/ayurveda/medicinal-uses-of-nagkesarmesua/336/)
-3. "Karnataka Medicinal Plants Volume - 2" by Dr.M. R. Gurudeva, Page No.125, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+3. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 391.**
+   Mesua ferrea (Nagakesara/Iron Wood) flowers are astringent and used for bleeding piles, dysentery, and menorrhagia. The stamens yield an essential oil with antimicrobial and anthelmintic properties. The bark is used as an astringent. The seed oil is applied for skin diseases and rheumatism. It has a. Flower powder 2-3 grams with honey for bleeding disorders. Seed oil applied externally for skin diseases. Bark decoction used as an astringent.
 4. [details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Mesua+ferrea)
-5. Karnataka Medicinal Plants Volume - 2 by Dr.M. R. Gurudeva, Page No. 399

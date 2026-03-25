@@ -106,4 +106,5 @@ Tropical area, Sub tropical area
 1. [Uses](https://easyayurveda.com/2015/06/02/bayur-tree-pterospermum-acerifolium-muchakunda/)
 2. [description](Botonic)(http://keralaplants.in/flowering-plants-kerala-dvd.aspx)
 3. [names](Vernacular)(http://envis.frlht.org/bot_search)
-4. "Karnataka Medicinal Plants Volume - 2" by Dr.M. R. Gurudeva, Page No.602, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 601.**
+   The bark and flowers are used to treat chronic headaches through shirodhara therapy. The leaf decoction is applied externally for skin diseases and wounds, and the bark decoction is used to relieve inflammation. Research has shown efficacy of shirodhara treatment with this plant's preparations in ma. Shirodhara oil preparation applied daily for 25 patients over 30 minutes per session for 21 days showed relief from chronic headaches.

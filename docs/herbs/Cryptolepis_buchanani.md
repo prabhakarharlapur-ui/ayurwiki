@@ -94,5 +94,5 @@ The crop prefers well-drained sandy-loam acidic soils with abundant organic matt
 1. [Chemistry]
 2. Kappatagudda - A Repertoire of  Medicianal Plants of Gadag by Yashpal Kshirasagar and Sonal Vrishni, Page No. 146
 3. [Cultivation](https://vikaspedia.in/agriculture/crop-production/package-of-practices/medicinal-and-aromatic-plants/cryptolepis-buchananii-1)
-4. Karnataka Medicinal Plants Volume - 2 by Dr.M. R. Gurudeva, Page No. 587
-5. "Karnataka Medicinal Plants Volume - 2" by Dr.M. R. Gurudeva, Page No.590, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 587.**
+   The plant root and bark have antibacterial and antimicrobial properties. The latex is used traditionally for treating wounds and skin infections. The root decoction is used for treating inflammatory conditions and as a tonic.

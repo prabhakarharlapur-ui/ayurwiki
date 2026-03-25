@@ -107,7 +107,8 @@ A plant of the moist to wet tropics, where it is found at elevations up to 1,900
 3. [names](Common)(http://www.flowersofindia.net/catalog/slides/Ginger.html#:~:text=Zingiber%20officinale%20%2D%20Ginger&text=Common%20ginger%20is%20a%20herbaceous,two%20ranks%20on%20each%20stem.&text=The%20inflorescence%20grows%20on%20a,up%20to%203%20in%20tall.)
 4. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Zingiber+officinale)
 5. Indian Medicinal Plants by C.P.Khare
-6. "Karnataka Medicinal Plants Volume - 2" by Dr.M. R. Gurudeva, Page No.661, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+6. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 643.**
+   Ginger rhizome is used extensively in Ayurvedic medicine for digestive disorders, nausea, and cough. It has demonstrated anti-ulcer effects, cardiotonicproperties, inhibition of Aspergillus parasiticus growth, and cytotoxic-drug-induced vomiting suppression. The rhizome is also used in Dhanya Pancha. Fresh ginger juice or dried ginger (sonthi) powder used in various Ayurvedic formulations; commonly used in decoctions (kashaya) for cold, cough and digestive complaints.
 7. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, p. 39.**
    Listed among tuber-propagated plants in the plant classification system.
    > *As cited in: Vrksayurveda of Surapala, Section 6*

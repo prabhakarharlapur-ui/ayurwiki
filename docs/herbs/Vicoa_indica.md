@@ -91,4 +91,5 @@ Found primarily as a canopy or emergent tree in the west coastal evergreen fores
 2. Kappatagudda - A Repertoire of  Medicianal Plants of Gadag by Yashpal Kshirasagar and Sonal Vrishni, Page No. 384
 3. [Cultivation]
 4. Indian Medicinal Plants by C.P.Khare
-5. "Karnataka Medicinal Plants Volume - 2" by Dr.M. R. Gurudeva, Page No.580, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 577.**
+   The plant has anti-inflammatory, antipyretic, antifertility, and antibacterial properties. The root and flower extracts show significant antiviral activity. The plant is used traditionally for treating rheumatic conditions and as a mosquito repellent.

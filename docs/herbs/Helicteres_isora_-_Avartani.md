@@ -116,4 +116,5 @@ Tropical area
 3. [names](Vernacular)(http://envis.frlht.org/bot_search)
 4. [details](Cultivation)(https://uses.plantnet-project.org/en/Helicteres_isora_(PROSEA))
 5. Joural paper of Chemical and Pharmaceutical bulletin.
-6. ”Karnataka Medicinal Plants Volume - 2” by Dr.M. R. Gurudeva, Page No.103, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+6. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 101.**
+   Used for treating diarrhea, dysentery, and diabetes. Has anti-diarrhoeal, antispasmodic, and hypoglycemic properties. The fruit has antispasmodic activity and is used in Diarex formulation. Bark is used for treating stomach disorders and intestinal worms.

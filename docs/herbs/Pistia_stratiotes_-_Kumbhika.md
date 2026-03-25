@@ -113,4 +113,5 @@ Water fields.
 3. [names](Common)(https://sites.google.com/site/indiannamesofplants/via-species/p/pistia-stratiotes)
 4. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Pistia+stratiotes)
 5. Indian Medicinal Plants by C.P.Khare
-6. ”Karnataka Medicinal Plants Volume - 2” by Dr.M. R. Gurudeva, Page No.59, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+6. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 57.**
+   Used for treating goitre by applying the plant paste on the throat area. Also effective for piles (hemorrhoids) when used as a poultice. The whole plant is used in preparations for digestive disorders and as a cooling agent.

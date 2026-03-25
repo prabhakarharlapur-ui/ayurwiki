@@ -122,4 +122,5 @@ Temperate region, Waste fields.
 2. [description](Plant)(http://www.ecoindia.com/flora/trees/aloe-vera-plant.html)
 3. [palnts](Practical)(http://practicalplants.org/wiki/Agrimonia_eupatoria)
 4. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:309
-5. "Karnataka Medicinal Plants Volume - 2" by Dr.M. R. Gurudeva, Page No.619, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 619.**
+   Aloe vera gel is widely used for wound healing, anti-inflammatory effects, and treating burns. The gel has demonstrated immunomodulatory, anti-inflammatory, and wound healing properties in research studies. It is also used for skin protection, treating radiation injuries, and has shown hepatoprotect. Fresh gel applied topically for burns and wounds; juice taken internally for digestive ailments; also used in Aloe vera-based commercial gels for skin protection.

@@ -120,4 +120,5 @@ Ornamental plant in gardens, Under trees and bushes, Parks and cemeteries.
 1. [constituents](Chemical)(http://www.yourarticlelibrary.com/biology/alkaloid/vinca-sources-macroscopical-character-and-uses-with-diagram/49664)
 2. [desription](Plant)(https://gobotany.newenglandwild.org/species/vinca/major/)
 3. [to Grow Vinca](How)(http://www.gardenersnet.com/flower/vincaperiwinkle.htm)
-4. Karnataka Medicinal Plants Volume - 2” by Dr.M. R. Gurudeva, Page No.197, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 195.**
+   Catharanthus roseus is widely known for its anticancer alkaloids vincristine and vinblastine, used in treating leukemia and Hodgkin's disease. The plant also has hypoglycemic properties, and leaf extracts are used traditionally for diabetes management. It exhibits antibacterial, antifungal, and inse. Leaf extract or decoction used; alkaloids vincristine and vinblastine are extracted for pharmaceutical use in cancer chemotherapy.

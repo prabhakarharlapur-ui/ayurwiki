@@ -114,4 +114,5 @@ In open vegetation types, Often coastal areas, In swamps, Along rivers.
 3. [names](Common)(https://sites.google.com/site/indiannamesofplants/via-species/l/lagerstroemia-speciosa)
 4. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Lagerstroemia+speciosa)
 5. Indian Medicinal Plants by C.P.Khare
-6. "Karnataka Medicinal Plants Volume - 2" by Dr.M. R. Gurudeva, Page No.777, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+6. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 773.**
+   The tree, also known as Pride of India (Jarul), is used in traditional medicine. The bark and leaves are used for treating diarrhoea and dysentery due to their astringent properties. The plant is related to Lagerstroemia speciosa and L. flos-reginae, which are known for their antidiabetic properties. Bark decoction used for diarrhoea and dysentery; leaf preparations used as an astringent.

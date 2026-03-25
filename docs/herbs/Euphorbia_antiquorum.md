@@ -104,5 +104,5 @@ Dry forest, Open forest, Evergreen forest, Scrubby vegetation, Rocky limestone h
 1. [Chemistry]
 2. [Morphology]
 3. [Cultivation]
-4. Karnataka Medicinal Plants Volume - 2 by Dr.M. R. Gurudeva, Page No. 598
-5. "Karnataka Medicinal Plants Volume - 2" by Dr.M. R. Gurudeva, Page No.598, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 597.**
+   The latex has purgative and rubefacient properties and is used for treating warts, corns, and skin growths. The stem juice mixed with oil is used for ear infections and as a purgative. The plant has neuropharmacological properties and the latex contains ingenane-type diterpene esters with biological.

@@ -131,7 +131,8 @@ Ayurvedic texts describe four types of Tulsi: Rama/Sri/Lakshmi (Green Leaf), Kri
 
 1. [constituents](Chemical)(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3249909/)
 2. Kappatagudda - A Repertoire of  Medicianal Plants of Gadag by Yashpal Kshirasagar and Sonal Vrishni, Page No. 284
-3. "Karnataka Medicinal Plants Volume - 2" by Dr.M. R. Gurudeva, Page No.346, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+3. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 337.**
+   Tulsi (Holy Basil) is one of the most widely used medicinal plants with extensive pharmacological properties. It is used for treating cough, cold, bronchitis, fever, arthritis, hypertension, and as an adaptogenic (anti-stress) herb. It has demonstrated antimicrobial, anti-inflammatory, antioxidant, . Leaf juice 10-15 mL taken with honey for cough and cold; seed powder with water for urinary disorders; 0.1 g leaf powder for various conditions. Decoction and fresh juice preparations are common.
 4. [details](Cultivation)(https://www.pfaf.org/user/Plant.aspx?LatinName=Ocimum+tenuiflorum)
 5. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.120, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune
 6. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, p. 26.**

@@ -110,4 +110,5 @@ Tropical area, Sub tropical area
 1. [Description](Botanic)(http://keralaplants.in/)
 2. [names](Vernacular)(http://envis.frlht.org/bot_search)
 3. [Constituents](Chemical)(https://www.japsonline.com/admin/php/uploads/1122_pdf.pdf)
-4. "Karnataka Medicinal Plants Volume - 2" by Dr.M. R. Gurudeva, Page No.481, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 479.**
+   The fruit has CNS depressant properties and is used for treating diarrhea and dysentery. The bark and leaf extracts show antimicrobial activity. The ripe fruit juice is used as a cough remedy and for treating constipation. Fruit juice 1 cup taken morning and night for constipation. Bark decoction used as a wash for skin conditions. Fruit pulp 2 tablespoons mixed with sugar taken 2-3 times daily for diarrhea.

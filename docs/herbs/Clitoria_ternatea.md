@@ -103,4 +103,5 @@ Fruiting Throughout the year
 3. [Cultivation]
 4. Indian Medicinal Plants by C.P.Khare
 5. Planet Ayurveda
-6. Karnataka Medicinal Plants Volume - 2” by Dr.M. R. Gurudeva, Page No.252, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+6. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 247.**
+   The plant is a renowned brain tonic (Medhya Rasayana) in Ayurveda, used to improve memory and cognitive function. Root paste is used for treating alopecia and hair problems. The plant has demonstrated anti-diabetic properties, lowering serum sugar levels, and has cholinergic activity that enhances m. 3 grams root powder with half cup milk twice daily for memory; root paste applied externally for skin conditions; leaf decoction taken for 8-10 days for various conditions.

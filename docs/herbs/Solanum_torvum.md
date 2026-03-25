@@ -106,4 +106,5 @@ Woodland clearings, Thickets, Waste places, Naturalised on open and Moist ground
 1. [Chemistry]
 2. [Morphology]
 3. [Cultivation]
-4. "Karnataka Medicinal Plants Volume - 2" by Dr.M. R. Gurudeva, Page No.718, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 717.**
+   The plant's fruits are used in traditional medicine for cough, liver disorders, and as a digestive. The root decoction is used as an anthelmintic and for treating toothache. Solanum torvum belongs to the same family as S. indicum and contains steroidal saponins with antifertility properties. The unr. Fruit and root decoctions used in traditional preparations; unripe fruits consumed as vegetable for nutritional and medicinal benefits.

@@ -103,5 +103,6 @@ Tropical area.
 1. [science](Biological)(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4625419/)
 2. [Morphology](https://indiabiodiversity.org/species/show/30997)
 3. [Cultivation](http://www.worldagroforestry.org/treedb2/AFTPDFS/Acacia_ferruginea.PDF)
-4. Karnataka Medicinal Plants Volume - 2 by Dr.M. R. Gurudeva, Page No. 453
+4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 451.**
+   The bark and leaves are used to treat piles (hemorrhoids) and diarrhea. A decoction of the bark is used as a gargle for gum and teeth ailments. The gum exudate is used for digestive complaints. Bark decoction taken 2 times daily for 2 days for diarrhea; leaf paste applied externally for skin conditions. Bark powder 2-8 parts mixed with buttermilk for piles.
 5. ”Karnataka Medicinal Plants Volume-3” by Dr.M. R. Gurudeva, Page No.798, Published by Divyachandra Prakashana, #6/7, Kaalika Soudha, Balepete cross, Bengaluru

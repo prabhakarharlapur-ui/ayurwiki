@@ -101,4 +101,5 @@ Damp places, River-banks, Seasonal river-beds.
 3. [names](Common)(https://sites.google.com/site/indiannamesofplants/via-species/g/grangea-maderaspatana)
 4. [Cultivation]
 5. Indian Medicinal Plants by C.P.Khare
-6. "Karnataka Medicinal Plants Volume - 2" by Dr.M. R. Gurudeva, Page No.469, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+6. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 567.**
+   The plant is used traditionally for treating fevers, headaches, and stomach disorders. The herb has antispasmodic and menstrual regulation properties. It is used externally for treating swellings, joint pains, and ear infections. Fresh juice with honey and pepper for stomach ailments, 3 drops with oil for ear infections. Leaf paste warmed and applied for joint swelling. Plant decoction taken for menstrual disorders.

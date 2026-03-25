@@ -96,6 +96,7 @@ Dry country in forests in Sri Lanka.
 
 1. [Chemistry](https://pubmed.ncbi.nlm.nih.gov/19860383/#:~:text=Three%20new%20clerodane%2Dtype%20diterpenes,%2Doxo%2D2%2C11%2D)
 2. [Morphology]
-3. Karnataka Medicinal Plants Volume - 2” by Dr.M. R. Gurudeva, Page No.213, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+3. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 213.**
+   The tuber and leaf petiole are used to treat alopecia (hair loss) by applying warmed leaf preparations on affected areas for 1-2 months. The corm is used as a remedy for piles (hemorrhoids) and the leaf juice is applied to stop bleeding. The plant has cholesterol-lowering properties when consumed as. Leaf paste heated and applied for alopecia for 1-2 months; corm decoction taken internally for digestive disorders; leaves consumed as vegetable for nutritional benefits.
 4. [Cultivation]
 5. Indian Medicinal Plants by C.P.Khare

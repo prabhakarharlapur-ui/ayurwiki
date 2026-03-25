@@ -117,5 +117,5 @@ Grassy roadsides in china, Uncultivated land, Undergrowth in forest.
 1. [Phytochemistry](https://en.wikipedia.org/wiki/Sida_cordifolia)
 2. [description](Plant)(https://indiabiodiversity.org/species/show/231135)
 3. [and Cultivation](Care)(http://herbalistics.com.au/product/sida-cordifolia-bala-seed/)
-4. Karnataka Medicinal Plants Volume - 2 by Dr.M. R. Gurudeva, Page No. 475
-5. "Karnataka Medicinal Plants Volume - 2" by Dr.M. R. Gurudeva, Page No.478, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 475.**
+   The plant has immunological properties and is used traditionally for treating fevers, urinary disorders, and general debility. The root decoction is given for leucorrhoea and as a tonic. The leaves are used as a poultice for swellings and boils.

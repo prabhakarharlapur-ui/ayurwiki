@@ -111,4 +111,5 @@ Dry locations, Especially sandy, Rocky sites like roadsides, Waste places.
 3. [names](Common)(https://sites.google.com/site/indiannamesofplants/via-species/c/cannabis-sativa)
 4. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Tridax+procumbens)
 5. Indian Medicinal Plants by C.P.Khare
-6. ”Karnataka Medicinal Plants Volume - 2” by Dr.M. R. Gurudeva, Page No.44, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+6. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 39.**
+   Used for wound healing and as a hemostatic agent to stop bleeding. Has hepatoprotective activity, hair growth promoting properties, and antibiotic efficacy. The plant extract promotes wound healing and has antioxidant and anti-inflammatory activities. Fresh leaf juice is applied topically for wounds. Decoction of the whole plant is used internally.

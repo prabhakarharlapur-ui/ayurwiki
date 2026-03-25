@@ -102,6 +102,7 @@ Thinly forested plains, Hillsides, Coastal thickets.
 
 1. [constituents](Chemical)(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3551085/)
 2. [Morphology]
-3. "Karnataka Medicinal Plants Volume - 2" by Dr.M. R. Gurudeva, Page No.710, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+3. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 709.**
+   The bark and fruit pulp are used medicinally. The bark decoction mixed with 10 grams of jaggery and honey is taken in 100 ml doses for treating dysentery and diarrhoea. The fruit pulp is used for cooling and is rich in nutrients including proteins (19.9%), carbohydrates, calcium (337 mg/100g), and i. Bark decoction: 10 grams bark boiled with honey in 100 ml water, reduced to 50 ml; taken with jaggery for 5-10 days. Fruit pulp (5-10 grams) taken for digestive complaints.
 4. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Pithecellobium+dulce)
 5. Indian Medicinal Plants by C.P.Khare

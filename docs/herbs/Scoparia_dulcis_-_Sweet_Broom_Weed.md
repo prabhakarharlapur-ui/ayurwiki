@@ -111,5 +111,5 @@ Subtropical area, Tropical area.
 1. [constituents](Chemical)(http://www.vjs.ac.vn/index.php/vjchem/article/view/4660)
 2. [Morphology](https://indiabiodiversity.org/species/show/231128)
 3. [details](Cultivation)(https://www.pfaf.org/user/Plant.aspx?LatinName=Scoparia+dulcis)
-4. Karnataka Medicinal Plants Volume - 2 by Dr.M. R. Gurudeva, Page No.585
-5. "Karnataka Medicinal Plants Volume - 2" by Dr.M. R. Gurudeva, Page No.584, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 583.**
+   The plant has cytotoxic and antitumor activity due to scopadulcic acid. It shows analgesic, anti-inflammatory, sympathomimetic, and antiviral properties. Traditionally used for treating tumors, diabetes, and as a pain-relieving agent.

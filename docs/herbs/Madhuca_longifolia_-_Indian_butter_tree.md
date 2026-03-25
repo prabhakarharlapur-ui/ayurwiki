@@ -118,5 +118,6 @@ Deciduous forests, Dry plain forests, Cultivated fields.
 1. [constituents](Chemical)(http://www.apjtm.org/article.asp?issn=1995-7645;year=2018;volume=11;issue=1;spage=9;epage=14;aulast=Jha)
 2. [Morphology](https://indiabiodiversity.org/species/show/32002)
 3. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Madhuca+longifolia)
-4. ”Karnataka Medicinal Plants Volume - 2” by Dr.M. R. Gurudeva, Page No.73, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 67.**
+   The flowers are used to make alcoholic beverages and the oil from seeds is used for skin care. The bark has anti-inflammatory properties and is used in treating rheumatism. Seed oil (Mahua oil) is used for skin diseases and as a laxative. The tree has anti-nematocidal and bactericidal properties. Bark decoction for internal use. Seed oil applied externally for skin conditions. Flower extract used as a tonic.
 5. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.106, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune

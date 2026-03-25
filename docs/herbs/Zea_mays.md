@@ -107,4 +107,5 @@ Plants grow well in lowland tropical areas and can succeed at elevations up to 2
 2. [Morphology]
 3. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Zea+mays)
 4. Indian Medicinal Plants by C.P.Khare
-5. "Karnataka Medicinal Plants Volume - 2" by Dr.M. R. Gurudeva, Page No.571, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 571.**
+   Corn silk (style/stigma) has proven diuretic properties and is used for urinary tract infections and kidney stones. Maize bran helps control blood sugar and cholesterol in diabetic patients. The grain has wound-healing properties and the corn peptide facilitates alcohol metabolism.

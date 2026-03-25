@@ -100,5 +100,6 @@ Rain forests, Low woods, Thickets, Hedges, Mountains, Dry hillsides, Riversides,
 
 ## References
 
-1. "Karnataka Medicinal Plants Volume - 2" by Dr.M. R. Gurudeva, Page No.616, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+1. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 615.**
+   The plant is traditionally used as an anthelmintic (deworming agent). Research has confirmed the antigenotoxicity potential of Quisqualis indica against somatic cell genotoxicity. The fruit and seed are used to expel roundworms and threadworms in children, and the plant shows activity against intest. Roasted seeds given to children 3 times a day for 3-4 days to expel intestinal worms. Leaf poultice applied externally for skin conditions.
 2. "Useful Tropical Plants

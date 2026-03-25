@@ -125,5 +125,6 @@ Swamp forests, Sub-montane forests, Along rivers, On limestone.
 2. [names](Vernacular)(http://envis.frlht.org/bot_search)
 3. [Cultivation](https://ayurwiki.org/index.php?title=Leea_indica&action=edit)
 4. Uses of Leea indica - Indian Medicinal Plants by C.P.Khare
-5. ”Karnataka Medicinal Plants Volume - 2” by Dr.M. R. Gurudeva, Page No.66, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 65.**
+   Root decoctions are used for treating skin diseases and rheumatic pain. The plant is used to treat bleeding, diarrhea and dysentery. Root paste mixed with milk is given for body pain and joint inflammation. Root decoction of 5 grams in 100 ml water, reduced to half. Root paste with milk or honey given 1-2 times daily. External application of leaf paste for swellings.
 6. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.103, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune

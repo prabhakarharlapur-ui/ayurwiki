@@ -98,4 +98,5 @@ Onions are best grown in a Mediterranean climate, the hot dry summers ensuring t
 
 1. [constituents](Chemical)(https://www.sigmaaldrich.com/life-science/nutrition-research/learning-center/plant-profiler/allium-cepa.html)
 2. Useful Temperate plants
-3. ”Karnataka Medicinal Plants Volume - 2” by Dr.M. R. Gurudeva, Page No.94, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+3. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 87.**
+   Onion has hypolipidemic effects reducing cholesterol and blood lipids. It has antimicrobial activity against various pathogens including fungi. Used traditionally for treating respiratory conditions, earache, and as an anti-inflammatory agent. The essential oil has antifungal activity and the bulb e. Raw onion juice or cooked onion consumed regularly. Onion juice applied in ear for earache. Onion paste applied externally for boils and insect bites.

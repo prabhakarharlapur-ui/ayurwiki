@@ -90,4 +90,5 @@ Tropical regions.
 1. [composition](Chemical)(https://link.springer.com/article/10.1007/s10600-017-2227-5#:~:text=Twelve%20compounds%2C%20including%20four%20flavonoids,15%5D%2C%20two%20amides%2C%20N)
 2. [Morphology](https://en.wikipedia.org/wiki/Passiflora_edulis)
 3. [Details](Cultivation)(https://en.wikipedia.org/wiki/Passiflora_edulis)
-4. "Karnataka Medicinal Plants Volume - 2" by Dr.M. R. Gurudeva, Page No.443, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 443.**
+   Passiflora edulis (Passion Fruit) has sedative and hypnotic properties. The fruit rind extract is used as a natural sedative and sleep aid. The fruit juice is rich in vitamins, minerals, and antioxidants, beneficial for overall health. Studies have demonstrated its anxiolytic effects and ability to . Fruit rind kept for 40 days, then decoction prepared as a sedative. Fruit juice consumed fresh for nutritional benefits.

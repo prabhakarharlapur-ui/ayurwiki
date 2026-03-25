@@ -121,4 +121,5 @@ Trophical areas, Humid region.
 2. [Mmorphology](https://florafaunaweb.nparks.gov.sg/special-pages/plant-detail.aspx?id=1835)
 3. [names](Common)(https://sites.google.com/site/indiannamesofplants/via-species/c/colocasia-esculenta)
 4. [Details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=colocasia+esculenta)
-5. Karnataka Medicinal Plants Volume - 2” by Dr.M. R. Gurudeva, Page No.216, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 213.**
+   The tuber and leaf petiole are used to treat alopecia (hair loss) by applying warmed leaf preparations on affected areas for 1-2 months. The corm is used as a remedy for piles (hemorrhoids) and the leaf juice is applied to stop bleeding. The plant has cholesterol-lowering properties when consumed as. Leaf paste heated and applied for alopecia for 1-2 months; corm decoction taken internally for digestive disorders; leaves consumed as vegetable for nutritional benefits.

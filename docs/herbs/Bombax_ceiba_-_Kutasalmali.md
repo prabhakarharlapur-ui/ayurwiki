@@ -142,5 +142,6 @@ Hot region, At elevations below 1,400 metres, Humid lowland deciduous forests, D
 3. [Morphology](https://indiabiodiversity.org/species/show/31106)
 4. [Details](Cultivation)(https://pfaf.org/user/Plant.aspx?LatinName=Bombax+ceiba)
 5. [of soil needed](Kind)(https://pfaf.org/user/Plant.aspx?LatinName=Bombax+ceiba)
-6. Karnataka Medicinal Plants Volume - 2” by Dr.M. R. Gurudeva, Page No.234, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+6. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 231.**
+   The gum (Mocharasa) is used in traditional medicine for treating diarrhea and dysentery. Bark preparations are used for menorrhagia and other gynecological disorders. The plant has hypotensive and hypoglycemic properties, and the thorns are used in treating inflammatory conditions and rheumatoid art. Various Ayurvedic formulations including Raktarsha and Mocharasa yoga preparations; bark decoction and gum preparations used internally.
 7. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.30, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune

@@ -118,7 +118,8 @@ Tropical area, Dry deciduous forests.
 3. [details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Ziziphus+mauritiana)
 4. [names](Vernacular)(http://envis.frlht.org/bot_search)
 5. Referred by Library of National Medicine article.
-6. ”Karnataka Medicinal Plants Volume - 2” by Dr.M. R. Gurudeva, Page No.112, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+6. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 109.**
+   Used for treating dysentery, diarrhea, and stye (Hordeolum). The fruit has anxiolytic effects and the bark is used in antifungal preparations. Fruit decoctions are used to treat digestive disorders. Also has antifungal and antimicrobial properties against rice blast pathogen (Pyricularia grisea).
 7. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 29-30, 39, 54, 67, 98.**
    Listed among restricted campus trees that should not be planted in residential compounds. Recommended for directional planting in the southern direction. Propagated by seed. Bark-paste treatment: ghee, honey, ksara, lodhra, yava applied after bark scratching (Verse 139).
    > *As cited in: Vrksayurveda of Surapala, Verses 24-29, 139, 306; Sections 3, 6, 8, 13, 21*

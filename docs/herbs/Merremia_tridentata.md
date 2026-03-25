@@ -101,4 +101,5 @@ Grasslands.
 2. Kappatagudda - A Repertoire of  Medicianal Plants of Gadag by Yashpal Kshirasagar and Sonal Vrishni, Page No. 272
 3. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Xenostegia+tridentata&redir=Merremia+tridentata)
 4. [names](Verneculer)(http://www.flowersofindia.net/catalog/slides/Arrow-leaf%20Morning%20Glory.html)
-5. ”Karnataka Medicinal Plants Volume - 2” by Dr.M. R. Gurudeva, Page No.80, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 79.**
+   Used for treating constipation, piles (hemorrhoids), and skin diseases. The root decoction is useful for relieving joint pain and rheumatic conditions. Also applied externally as a poultice for swellings and inflammatory conditions.

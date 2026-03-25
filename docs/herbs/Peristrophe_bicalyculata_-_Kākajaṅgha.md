@@ -105,4 +105,5 @@ Deciduous forest
 1. [composition](Chemical)(https://www.ncbi.nlm.nih.gov/pubmed/21213989#:~:text=bicalyculata%2C%20beta%2Dcaryophyllene%20(33.9,p%2Dcymene%20(4.0%25).)
 2. [Morphology](http://www.efloraofgandhinagar.in/herb/peristrophe-bicalyculata)
 3. [Uses](https://pdfs.semanticscholar.org/50f7/dcd8cdc3ca1955076ba664a7ee66d8d6c216.pdf)
-4. "Karnataka Medicinal Plants Volume - 2" by Dr.M. R. Gurudeva, Page No.699, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 699.**
+   The whole plant is used to relieve cough and fever. It is applied as a poultice for boils and skin eruptions, taken 3 times daily for 3 days. The plant extract is used for cold and fever by mixing 20 grams of the fresh herb with 100 ml water, boiling to reduce to 50 ml, and taking with jaggery at be. Leaf and stem decoction: 20 grams boiled in 100 ml water reduced to 50 ml, taken with jaggery at bedtime for 8-10 days for respiratory ailments.

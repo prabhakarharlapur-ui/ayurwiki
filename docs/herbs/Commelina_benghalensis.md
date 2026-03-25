@@ -120,5 +120,6 @@ Common in disturbed areas, At forest edges, Home gardens, Secondary regrowth.
 2. [names](Common)(https://sites.google.com/site/indiannamesofplants/via-species/c/commelina-benghalensis)
 3. [Morphology]
 4. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Commelina+benghalensis)
-5. Karnataka Medicinal Plants Volume - 2 by Dr.M. R. Gurudeva, Page No. 159
+5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 157.**
+   Used for treating burns and skin inflammations. The plant juice applied on burns provides cooling relief. Also used for treating digestive complaints and as a laxative. The mucilaginous leaves are applied as poultice for inflammatory conditions. Fresh plant juice applied on burns for relief. For digestive issues, plant decoction taken daily for 40 days. The whole plant cooked as vegetable is consumed regularly for its nutritive value.
 6. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.60, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune

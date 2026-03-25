@@ -106,5 +106,5 @@ Moist evergreen and deciduous forests, Dry forests, Secondary forests, Pioneer s
 1. [Chemistry]
 2. [Morphology]
 3. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Ceiba+pentandra)
-4. Karnataka Medicinal Plants Volume - 2 by Dr.M. R. Gurudeva, Page No. 467
-5. "Karnataka Medicinal Plants Volume - 2" by Dr.M. R. Gurudeva, Page No.470, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 467.**
+   The gum of the tree is used for treating bleeding disorders and diarrhea. The bark decoction is used as an aphrodisiac and to treat impotency. The root bark is used for piles (hemorrhoids) treatment.

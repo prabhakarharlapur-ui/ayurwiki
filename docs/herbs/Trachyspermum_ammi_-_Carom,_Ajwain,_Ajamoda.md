@@ -120,5 +120,6 @@ Damp ground, Meadows, Borders of forests and fields.
 1. [constituents](Chemical)(http://gernot-katzers-spice-pages.com/engl/Trac_cop.html)
 2. [description](Plant)(https://www.flowersofindia.net/catalog/slides/Ajwain.html)
 3. [details](Cultivation)(https://www.pfaf.org/user/Plant.aspx?LatinName=Trachyspermum+ammi)
-4. ”Karnataka Medicinal Plants Volume - 2” by Dr.M. R. Gurudeva, Page No.25 and 33, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 25.**
+   Used for treating recurrent tympany in buffaloes, chronic gastritis, and as an anti-tympanic agent. The essential oil has antibacterial and antifungal properties, effective against various pathogens. Also used for managing lichen planus and as a digestive aid. The seeds are used in decoction or powder form. Essential oil is extracted and used in various preparations.
 5. The Flowers of India

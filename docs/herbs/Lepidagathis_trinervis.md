@@ -39,6 +39,7 @@ The hydro-distilled essential oil obtained from the flowering aerial parts of Le
 ## Common names
 | Language | Names |
 | --- | --- |
+| Kannada | ಗಂಟುಕಾಲು ಗಿಡ |
 | Hindi | Pathar-phor buti, Safed rasna |
 | Malayalam | Tran gha, Tran kantho |
 | MA | Thuigend |
@@ -100,4 +101,5 @@ Indroda Park
 1. [constituents](Chemical)(http://www.mpbd.info/plants/lepidagathis-trinervis.php)
 2. [Morpholgy](http://www.efloraofgandhinagar.in/herb/lepidagathis-trinervis)
 3. [details](Cultivation)(https://www.pfaf.org/user/Plant.aspx?LatinName=Lepidagathis+trinervis)
-4. "Karnataka Medicinal Plants Volume - 2" by Dr.M. R. Gurudeva, Page No.286, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 285.**
+   The whole plant is used for treating fever, wounds, and skin conditions. The plant paste is applied on boils and abscesses to draw out infection. The decoction mixed with other herbs is used for treating measles and chicken pox, and the root preparation is used for reducing inflammation and treating. Plant paste mixed with jaggery for 100 ml decoction taken with 25 ml sesame oil; applied externally with equal parts of plant and turmeric for 7 days for skin conditions.

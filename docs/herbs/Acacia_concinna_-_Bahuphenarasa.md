@@ -103,4 +103,5 @@ Tropical dry forests.
 2. [JCB](Herbarium)(http://florakarnataka.ces.iisc.ac.in/hjcb2/herbsheet.php?id=1850&cat=1)
 3. [details](Cultivation)(http://agritech.tnau.ac.in/forestry/forestry_nursery_acacia_concinna.ht)
 4. [JCB](Herbarium)(http://florakarnataka.ces.iisc.ac.in/hjcb2/herbsheet.php?id=1850&cat=1)
-5. "Karnataka Medicinal Plants Volume - 2" by Dr.M. R. Gurudeva, Page No.704, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 703.**
+   Shikakai pods are traditionally used for hair care and as a natural shampoo. The saponin-rich pods have spasmolytic, spermicidal, and molluscicidal activity. The pod paste is used externally for treating dandruff and promoting hair growth. An Ayurvedic hair care formulation combining Acacia sinuata . Pods soaked in water and used as hair wash; pod powder 500 grams mixed with other herbs (Albizea amara 100g, tulsi 100g, neem 50g, etc.) for polyherbal hair care formulation.

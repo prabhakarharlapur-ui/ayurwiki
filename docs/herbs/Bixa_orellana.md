@@ -117,4 +117,5 @@ Coastal thickets, Tropical forests.
 3. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Bixa+orellana)
 4. [names](Common)(http://www.flowersofindia.net/catalog/slides/Lipstick%20Tree.html#:~:text=Bixa%20orellana%20%2D%20Lipstick%20Tree&text=This%20plant%20stands%20alone%20in,prominently%20appear%20above%20the%20foliage.)
 5. [Ecosystem/Climate](Required)(https://uses.plantnet-project.org/en/Bixa_orellana_(PROTA))
-6. "Karnataka Medicinal Plants Volume - 2" by Dr.M. R. Gurudeva, Page No.609, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+6. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 609.**
+   The seed extract (containing maslinic acid and bixin) has demonstrated antimicrobial, antifungal, and antileishmanial properties. Root bark decoction is used as a gargle for sore throat, and the seed paste is applied externally for skin conditions. Seeds are used to treat dysentery, kidney diseases,. 25 grams of annatto seed powder mixed with 200 ml water, boiled to 50 ml decoction; 5 grams of dried root powder mixed with water for gargle; seed paste applied for 3-4 days for skin conditions.
