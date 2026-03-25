@@ -8,86 +8,86 @@ Recent content updates to Ayurwiki.
 
 | Article | Section | Change | Date |
 | --- | --- | --- | --- |
-| [Contributors](credits.md) | General | Update recent changes and credits after Vol 2 enrichment | 25 Mar 2026 |
-| [Acacia concinna - Bahuphenarasa](herbs/Acacia_concinna_-_Bahuphenarasa.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Acacia ferruginea - Arimedah](herbs/Acacia_ferruginea_-_Arimedah.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Acacia nilotica - Aaavartaki](herbs/Acacia_nilotica_-_Aaavartaki.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Actiniopteris radiata](herbs/Actiniopteris_radiata.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Allium cepa](herbs/Allium_cepa.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Allium sativum - Garlic](herbs/Allium_sativum_-_Garlic.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Aloe vera - Ghritakumari](herbs/Aloe_vera_-_Ghritakumari.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Ammania Baccifera - Blistering ammania](herbs/Ammania_Baccifera_-_Blistering_ammania.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Anacardium occidentale - Vrikkaphala](herbs/Anacardium_occidentale_-_Vrikkaphala.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Artabotrys hexapetalus - Harachampaka](herbs/Artabotrys_hexapetalus_-_Harachampaka.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Bacopa monnieri - Brahmi](herbs/Bacopa_monnieri_-_Brahmi.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Barleria buxifolia](herbs/Barleria_buxifolia.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Bixa orellana](herbs/Bixa_orellana.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Bombax ceiba - Kutasalmali](herbs/Bombax_ceiba_-_Kutasalmali.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Capparis zeylanica](herbs/Capparis_zeylanica.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Casuarina equisetifolia](herbs/Casuarina_equisetifolia.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Catharanthus roseus - Sada Bahar](herbs/Catharanthus_roseus_-_Sada_Bahar.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Ceiba pentandra](herbs/Ceiba_pentandra.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Centella asiatica - Mandooka Parni](herbs/Centella_asiatica_-_Mandooka_Parni.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Cestrum nocturnum - Raat ki rani](herbs/Cestrum_nocturnum_-_Raat_ki_rani.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Chlorophytum tuberosum](herbs/Chlorophytum_tuberosum.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Clitoria ternatea](herbs/Clitoria_ternatea.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Colocasia esculenta - Aaluki, Green Taro](herbs/Colocasia_esculenta_-_Aaluki,_Green_Taro.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Commelina benghalensis](herbs/Commelina_benghalensis.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Costus speciosus](herbs/Costus_speciosus.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Crotalaria pallida](herbs/Crotalaria_pallida.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Cryptolepis buchanani](herbs/Cryptolepis_buchanani.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Curcuma zedoaria](herbs/Curcuma_zedoaria.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Cycas circinalis - Hintala](herbs/Cycas_circinalis_-_Hintala.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Dillenia indica - Bhavya](herbs/Dillenia_indica_-_Bhavya.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Drynaria quercifolia](herbs/Drynaria_quercifolia.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Dysphania ambrosioides - Epazote](herbs/Dysphania_ambrosioides_-_Epazote.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Elettaria cardamomum - Ela, Cardamom](herbs/Elettaria_cardamomum_-_Ela,_Cardamom.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Emilia sonchifolia - Sasasruti](herbs/Emilia_sonchifolia_-_Sasasruti.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Eryngium foetidum - Culantro](herbs/Eryngium_foetidum_-_Culantro.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Euphorbia antiquorum](herbs/Euphorbia_antiquorum.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Grangea maderaspatana](herbs/Grangea_maderaspatana.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Helicteres isora - Avartani](herbs/Helicteres_isora_-_Avartani.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Lagerstroemia speciosa](herbs/Lagerstroemia_speciosa.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Leea indica](herbs/Leea_indica.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Lepidagathis trinervis](herbs/Lepidagathis_trinervis.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Lobelia nicotianifolia](herbs/Lobelia_nicotianifolia.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Madhuca longifolia - Indian butter tree](herbs/Madhuca_longifolia_-_Indian_butter_tree.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Magnolia champaca - Champaka](herbs/Magnolia_champaca_-_Champaka.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Malpighia emarginata - Acerola](herbs/Malpighia_emarginata_-_Acerola.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Mangifera Indica - Mango](herbs/Mangifera_Indica_-_Mango.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Merremia tridentata](herbs/Merremia_tridentata.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Mesua ferrea linn - Nagapushpa](herbs/Mesua_ferrea_linn_-_Nagapushpa.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Millingtonia hortensis](herbs/Millingtonia_hortensis.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Ocimum canum](herbs/Ocimum_canum.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Ocimum tenuiflorum - Tulsi plant](herbs/Ocimum_tenuiflorum_-_Tulsi_plant.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Passiflora edulis](herbs/Passiflora_edulis.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Pavonia zeylanica](herbs/Pavonia_zeylanica.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Phyllanthus amarus - Bhuamlaki](herbs/Phyllanthus_amarus_-_Bhuamlaki.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Pistia stratiotes - Kumbhika](herbs/Pistia_stratiotes_-_Kumbhika.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Pithecellobium dulce](herbs/Pithecellobium_dulce.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Plumbago Auriculata](herbs/Plumbago_Auriculata.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Polyalthia longifolia](herbs/Polyalthia_longifolia.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Portulaca quadrifida](herbs/Portulaca_quadrifida.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Pterospermum acerifolium - Karnikara](herbs/Pterospermum_acerifolium_-_Karnikara.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Quisqualis indica](herbs/Quisqualis_indica.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Rauwolfia tetraphylla](herbs/Rauwolfia_tetraphylla.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Ricinus communis - Gandharvataila](herbs/Ricinus_communis_-_Gandharvataila.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Ruta chalepensis](herbs/Ruta_chalepensis.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Scoparia dulcis - Sweet Broom Weed](herbs/Scoparia_dulcis_-_Sweet_Broom_Weed.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Securinega Leucopyrus](herbs/Securinega_Leucopyrus.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Semecarpus anacardium - Agnimukh, Marking nut](herbs/Semecarpus_anacardium_-_Agnimukh,_Marking_nut.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Sida cordata - Bhumibala](herbs/Sida_cordata_-_Bhumibala.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Solanum torvum](herbs/Solanum_torvum.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Trachyspermum ammi - Carom, Ajwain, Ajamoda](herbs/Trachyspermum_ammi_-_Carom,_Ajwain,_Ajamoda.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Trichodesma indicum - Adhapuspi, Indian Borage](herbs/Trichodesma_indicum_-_Adhapuspi,_Indian_Borage.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Trichodesma zeylanicum](herbs/Trichodesma_zeylanicum.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Tridax procumbens](herbs/Tridax_procumbens.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Urginea indica](herbs/Urginea_indica.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Vicoa indica](herbs/Vicoa_indica.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Zalea Decandra](herbs/Zalea_Decandra.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Zea mays](herbs/Zea_mays.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Zingiber officinale](herbs/Zingiber_officinale.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Ziziphus mauritiana - Common jujube](herbs/Ziziphus_mauritiana_-_Common_jujube.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
+| [Contributors](credits.md) | General | Update recent changes and credits | 25 Mar 2026 |
+| [Acacia concinna - Bahuphenarasa](herbs/Acacia_concinna_-_Bahuphenarasa.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Acacia ferruginea - Arimedah](herbs/Acacia_ferruginea_-_Arimedah.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Acacia nilotica - Aaavartaki](herbs/Acacia_nilotica_-_Aaavartaki.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Actiniopteris radiata](herbs/Actiniopteris_radiata.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Allium cepa](herbs/Allium_cepa.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Allium sativum - Garlic](herbs/Allium_sativum_-_Garlic.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Aloe vera - Ghritakumari](herbs/Aloe_vera_-_Ghritakumari.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Ammania Baccifera - Blistering ammania](herbs/Ammania_Baccifera_-_Blistering_ammania.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Anacardium occidentale - Vrikkaphala](herbs/Anacardium_occidentale_-_Vrikkaphala.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Artabotrys hexapetalus - Harachampaka](herbs/Artabotrys_hexapetalus_-_Harachampaka.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Bacopa monnieri - Brahmi](herbs/Bacopa_monnieri_-_Brahmi.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Barleria buxifolia](herbs/Barleria_buxifolia.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Bixa orellana](herbs/Bixa_orellana.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Bombax ceiba - Kutasalmali](herbs/Bombax_ceiba_-_Kutasalmali.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Capparis zeylanica](herbs/Capparis_zeylanica.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Casuarina equisetifolia](herbs/Casuarina_equisetifolia.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Catharanthus roseus - Sada Bahar](herbs/Catharanthus_roseus_-_Sada_Bahar.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Ceiba pentandra](herbs/Ceiba_pentandra.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Centella asiatica - Mandooka Parni](herbs/Centella_asiatica_-_Mandooka_Parni.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Cestrum nocturnum - Raat ki rani](herbs/Cestrum_nocturnum_-_Raat_ki_rani.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Chlorophytum tuberosum](herbs/Chlorophytum_tuberosum.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Clitoria ternatea](herbs/Clitoria_ternatea.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Colocasia esculenta - Aaluki, Green Taro](herbs/Colocasia_esculenta_-_Aaluki,_Green_Taro.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Commelina benghalensis](herbs/Commelina_benghalensis.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Costus speciosus](herbs/Costus_speciosus.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Crotalaria pallida](herbs/Crotalaria_pallida.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Cryptolepis buchanani](herbs/Cryptolepis_buchanani.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Curcuma zedoaria](herbs/Curcuma_zedoaria.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Cycas circinalis - Hintala](herbs/Cycas_circinalis_-_Hintala.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Dillenia indica - Bhavya](herbs/Dillenia_indica_-_Bhavya.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Drynaria quercifolia](herbs/Drynaria_quercifolia.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Dysphania ambrosioides - Epazote](herbs/Dysphania_ambrosioides_-_Epazote.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Elettaria cardamomum - Ela, Cardamom](herbs/Elettaria_cardamomum_-_Ela,_Cardamom.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Emilia sonchifolia - Sasasruti](herbs/Emilia_sonchifolia_-_Sasasruti.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Eryngium foetidum - Culantro](herbs/Eryngium_foetidum_-_Culantro.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Euphorbia antiquorum](herbs/Euphorbia_antiquorum.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Grangea maderaspatana](herbs/Grangea_maderaspatana.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Helicteres isora - Avartani](herbs/Helicteres_isora_-_Avartani.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Lagerstroemia speciosa](herbs/Lagerstroemia_speciosa.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Leea indica](herbs/Leea_indica.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Lepidagathis trinervis](herbs/Lepidagathis_trinervis.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Lobelia nicotianifolia](herbs/Lobelia_nicotianifolia.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Madhuca longifolia - Indian butter tree](herbs/Madhuca_longifolia_-_Indian_butter_tree.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Magnolia champaca - Champaka](herbs/Magnolia_champaca_-_Champaka.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Malpighia emarginata - Acerola](herbs/Malpighia_emarginata_-_Acerola.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Mangifera Indica - Mango](herbs/Mangifera_Indica_-_Mango.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Merremia tridentata](herbs/Merremia_tridentata.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Mesua ferrea linn - Nagapushpa](herbs/Mesua_ferrea_linn_-_Nagapushpa.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Millingtonia hortensis](herbs/Millingtonia_hortensis.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Ocimum canum](herbs/Ocimum_canum.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Ocimum tenuiflorum - Tulsi plant](herbs/Ocimum_tenuiflorum_-_Tulsi_plant.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Passiflora edulis](herbs/Passiflora_edulis.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Pavonia zeylanica](herbs/Pavonia_zeylanica.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Phyllanthus amarus - Bhuamlaki](herbs/Phyllanthus_amarus_-_Bhuamlaki.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Pistia stratiotes - Kumbhika](herbs/Pistia_stratiotes_-_Kumbhika.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Pithecellobium dulce](herbs/Pithecellobium_dulce.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Plumbago Auriculata](herbs/Plumbago_Auriculata.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Polyalthia longifolia](herbs/Polyalthia_longifolia.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Portulaca quadrifida](herbs/Portulaca_quadrifida.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Pterospermum acerifolium - Karnikara](herbs/Pterospermum_acerifolium_-_Karnikara.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Quisqualis indica](herbs/Quisqualis_indica.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Rauwolfia tetraphylla](herbs/Rauwolfia_tetraphylla.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Ricinus communis - Gandharvataila](herbs/Ricinus_communis_-_Gandharvataila.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Ruta chalepensis](herbs/Ruta_chalepensis.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Scoparia dulcis - Sweet Broom Weed](herbs/Scoparia_dulcis_-_Sweet_Broom_Weed.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Securinega Leucopyrus](herbs/Securinega_Leucopyrus.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Semecarpus anacardium - Agnimukh, Marking nut](herbs/Semecarpus_anacardium_-_Agnimukh,_Marking_nut.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Sida cordata - Bhumibala](herbs/Sida_cordata_-_Bhumibala.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Solanum torvum](herbs/Solanum_torvum.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Trachyspermum ammi - Carom, Ajwain, Ajamoda](herbs/Trachyspermum_ammi_-_Carom,_Ajwain,_Ajamoda.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Trichodesma indicum - Adhapuspi, Indian Borage](herbs/Trichodesma_indicum_-_Adhapuspi,_Indian_Borage.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Trichodesma zeylanicum](herbs/Trichodesma_zeylanicum.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Tridax procumbens](herbs/Tridax_procumbens.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Urginea indica](herbs/Urginea_indica.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Vicoa indica](herbs/Vicoa_indica.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Zalea Decandra](herbs/Zalea_Decandra.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Zea mays](herbs/Zea_mays.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Zingiber officinale](herbs/Zingiber_officinale.md) | Herbs | Added information and citations | 25 Mar 2026 |
+| [Ziziphus mauritiana - Common jujube](herbs/Ziziphus_mauritiana_-_Common_jujube.md) | Herbs | Added information and citations | 25 Mar 2026 |
 | [A](A.md) | General | Apply edit suggestion: update A.md glossary description | 24 Mar 2026 |
 | [Abrus precatorius - Gunja](herbs/Abrus_precatorius_-_Gunja.md) | Herbs | Additions and citations | 24 Mar 2026 |
 | [Abutilon indicum - Atibala](herbs/Abutilon_indicum_-_Atibala.md) | Herbs | Additions and citations | 24 Mar 2026 |

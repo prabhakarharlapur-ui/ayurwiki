@@ -22,6 +22,7 @@ BULK_THRESHOLD = 200
 # Rewrite verbose commit messages to shorter display labels
 MESSAGE_REWRITES = {
     "Enrich 79 herb pages from Karnataka Medicinal Plants book": "Additions and citations",
+    "Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2": "Added information and citations",
     "Add Vrksayurveda of Surapala references to 70 herb pages": "Additions and citations",
     "Add NE Indian tribal medicine references to 14 herb pages": "Additions and citations",
     "Add Hindu text significance sections to 8 herb pages": "New section added",
