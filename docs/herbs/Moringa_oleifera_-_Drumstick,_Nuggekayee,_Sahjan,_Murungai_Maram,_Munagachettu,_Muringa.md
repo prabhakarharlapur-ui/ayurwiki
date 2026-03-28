@@ -97,6 +97,9 @@ Seeds, Cuttings.
 ## How to plant/cultivate
 Moringa seeds can be planted directly where intended to be grown. No pretreatment is required. Cuttings take root very easily and even large branches can be planted and they will sprout.
 
+Medium-sized tree (10-15 m) suited for dry to semi-arid areas with all soil types. Sandy loam soils are most suitable; well-drained soils preferred. Propagated through **grafted seedlings** or **stem cuttings**. Apply 25 tonnes FYM per hectare. Plant at 3.25 x 5 m spacing. Grafted trees start fruiting at 8 months. Irrigate every 15 days in summer; fairly drought-tolerant when established. Weed 2-3 times in first year. Pests: sap-sucking lice, stem borers, pod borers. Diseases: root rot, leaf spot. Use neem-based sprays. Grafted varieties produce 200-250 pods per tree from second year. Each tree yields 40-50 kg leaves/year. Varieties: Jaffna, Chavakad Murungi, JKMK-1, Bhagya (KDM-01) -- 350-1000 pods/tree from second year. Economics: leaves Rs. 80-100/kg, pods Rs. 40-120/kg; net profit Rs. 1,00,000-2,00,000 per hectare.
+
+
 ## Commonly seen growing in areas
 Tropical area, Subtropical area, Equatorial climate areas.
 
@@ -125,3 +128,6 @@ Tropical area, Subtropical area, Equatorial climate areas.
 6. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, p. 33.**
    Classified as a Jangala-adapted (arid/xerophytic region) tree, suited for warmer and drier climatic conditions.
    > *As cited in: Vrksayurveda of Surapala, Section 5*
+
+7. **[KAMPA - ಔಷಧಿ ಸಸ್ಯಗಳ ಕೃಷಿ ಕೈಪಿಡಿ (Medicinal Plants Cultivation Handbook)](../resources/books/KAMPA_Medicinal_Plants_Cultivation_Handbook.md)**. Karnataka Medicinal Plants Authority (KAMPA), Bengaluru, 2024, pp. 48-52.
+   Cultivation details including soil requirements, propagation methods, planting, irrigation, harvest timing, yield estimates, and economics.

@@ -51,7 +51,7 @@ Seed contain high level of colchicines. Cornigerine, 3-demethyl-N-formyl-N-deace
 ## Common names
 | Language | Names |
 | --- | --- |
-| Kannada | Agnisikhe  ಅಗ್ನಿಶಿಖಾ, Karadikanninagadde, Kolikutumana gadde, Akshatangi balli, Kolikutukana gadde, Langulike, Nangulike |
+| Kannada | Agnisikhe  ಅಗ್ನಿಶಿಖಾ, ಗೌರಿ ಹೂವು Gauri Hoovu, ಅಕ್ಕ ತಂಗಿ ಬಳ್ಳಿ Akka Tangi Balli, ಜಗಳ ಗಂಟಿ ಗಿಡ Jagala Ganti Gida, Karadikanninagadde, Kolikutumana gadde, Akshatangi balli, Kolikutukana gadde, Langulike, Nangulike |
 | Malayalam | Kithonni, Mendoni |
 | Sanskrit | Agnimukhi, Agnishikha, Kalikari, Garbhagatini, Languli |
 | Tamil | Kallappai kilangu, Akshanichalam, Kargikkelang |
@@ -100,6 +100,8 @@ Seeds, Cuttings.
 ## How to plant/cultivate
 A plant of the lowland tropics and subtropics, where it can be found at elevations up to 600 metres, the plant has a clear preference for seasonal, monsoon climates with a pronounced dry season..
 
+Grows in warm, humid tropical/subtropical areas with 300-400 cm annual rainfall. Red or loamy soils with good drainage and organic matter are ideal. pH 6-7. Propagated through **V-shaped tubers** (50-60 g each) planted at 10 cm depth. Seeds can be used but germination is slow. Requires support structures (trellis/stakes) for climbing. Irrigate at 4-day intervals after sprouting; avoid overwatering to prevent tuber rot. Perform 4-5 weedings during the crop period. Pests: lily bulb borer, hairy caterpillars. Diseases: leaf spot, tuber rot. Treat seed tubers with fungicide. Harvest tubers after 5-6 months when aerial parts dry. Collect seeds from ripe red-orange fruits at 7-8 months. Yield: 200-300 kg tubers and 150-180 kg seeds per hectare. Economics: seeds at Rs. 2,000-2,500/kg, tubers at Rs. 400-500/kg; net profit Rs. 15,00,000-20,00,000 over 4 years.
+
 ## Commonly seen growing in areas
 Tropical area, Subtropical area, Warmer temperate region.
 
@@ -130,3 +132,5 @@ Tropical area, Subtropical area, Warmer temperate region.
 6. Heritage Amruth, February 1999, Page no.25
 7. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 73.**
    1. Tuber (gadde) paste applied externally and taken internally in controlled doses helps treat snake bites and venomous stings. 2. Preparations from the plant help in treating skin conditions and various inflammatory diseases. 3. The tuber is used in specific quantities to induce labor and address g.
+8. **[KAMPA - ಔಷಧಿ ಸಸ್ಯಗಳ ಕೃಷಿ ಕೈಪಿಡಿ (Medicinal Plants Cultivation Handbook)](../resources/books/KAMPA_Medicinal_Plants_Cultivation_Handbook.md)**. Karnataka Medicinal Plants Authority (KAMPA), Bengaluru, 2024, pp. 27-29.
+   Cultivation details including soil requirements, propagation methods, planting, irrigation, harvest timing, yield estimates, and economics.

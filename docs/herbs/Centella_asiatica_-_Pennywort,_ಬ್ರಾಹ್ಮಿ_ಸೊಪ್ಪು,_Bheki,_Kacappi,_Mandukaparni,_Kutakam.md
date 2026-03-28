@@ -105,6 +105,10 @@ Seeds, Cuttings.
 ## Cultivation Details
 Centella asiatica, more commonly known as gotu kola, has enjoyed a long history as a medicinal herb in the Orient. Centella asiatica is available through May to November
 
+## How to plant/cultivate
+
+Perennial creeping herb found in moist, shady habitats along streams and marshy areas. Requires consistent moisture and partial shade. Soil should be rich in organic matter. Propagated through **stolons/runners** with 2-3 nodes each. Plant at 30 x 30 cm spacing. Irrigate every 3-4 days; maintain soil moisture at all times but avoid waterlogging. Pests: leaf-eating caterpillars and leaf spot diseases; manage with neem-based pesticides. Harvest leaves and stems at 3-4 month intervals. Multiple cuttings per year. Yield: 30-50 quintals fresh leaves per hectare per year (15-20 quintals dried). Economics: Rs. 60-70/kg; net profit Rs. 75,000-90,000 per hectare. Improved varieties: Arka Prabhavi (CA-13), Arka Divya (CA-1), Vallabha Medha.
+
 ## Commonly seen growing in areas
 Along ditches, Wet areas, Marshy and open areas.
 
@@ -134,3 +138,6 @@ Along ditches, Wet areas, Marshy and open areas.
 6. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.45, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune
 7. **Ningombam, Sanjeev Kumar and Hazarika, Rituparna. "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes." *The International Journal of Bharatiya Knowledge System, Vol. 1, pp. 67-78*, 2024, p. 71.**
    Recognized among Northeast Indian tribes for wound healing, anti-inflammatory, and cognitive-enhancing properties. Applied for skin conditions, memory improvement, and anxiety reduction.
+
+8. **[KAMPA - ಔಷಧಿ ಸಸ್ಯಗಳ ಕೃಷಿ ಕೈಪಿಡಿ (Medicinal Plants Cultivation Handbook)](../resources/books/KAMPA_Medicinal_Plants_Cultivation_Handbook.md)**. Karnataka Medicinal Plants Authority (KAMPA), Bengaluru, 2024, pp. 23-26.
+   Cultivation details including soil requirements, propagation methods, planting, irrigation, harvest timing, yield estimates, and economics.

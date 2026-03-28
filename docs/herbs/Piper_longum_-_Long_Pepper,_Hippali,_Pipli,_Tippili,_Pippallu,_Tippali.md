@@ -103,6 +103,9 @@ Seeds, Cuttings.
 ## How to plant/cultivate
 Long pepper is propagated through stem/vine cuttings at the beginning of rainy season. However, it can be easily propagated through the terminal stem cuttings obtained from one year old growth and 3-5 internodes.
 
+Perennial climbing vine of the Piperaceae family, related to black pepper. Requires well-drained, fertile loamy soil rich in organic matter. Warm, humid climate with good rainfall. Propagated through **stem cuttings** and **root suckers** (5-10 cm with 2 nodes). Root cuttings in nursery beds with vermicompost. Rooted plants ready in 40-50 days. Provide shade during initial stages. Drip irrigation preferred; water every 15 days. Weed monthly. Pests: aphids. Diseases: leaf rot, yellowing. Use neem oil spray and Bordeaux mixture. Apply Trichoderma (5 kg/hectare) and Pseudomonas for biological pest control. Fruits start at **6 months**. Harvest green fruits before they turn reddish-brown. 10 kg fresh fruits yield 1.5 kg dried Hippali. Shade-dry for 15 days then sun-dry. First year: ~160 kg/hectare; third year onwards: ~400 kg/hectare. Roots also harvestable after 3 years. Economics: fruit Rs. 200-250/kg, roots Rs. 80-100/kg; net profit Rs. 1,60,000-2,10,000 over 3 years.
+
+
 ## Commonly seen growing in areas
 Tall grasslands, At meadows, Borders of forests and fields.
 
@@ -125,3 +128,6 @@ Tall grasslands, At meadows, Borders of forests and fields.
 2. [description"]("Plant)(http://www.flowersofindia.net/catalog/slides/Long%20Pepper.html)
 3. [preparations"](https://easyayurveda.com/2014/11/24/pippali-long-pepper-fruit-uses-dose-side-effects/"Ayurvedic)
 4. [details"]("Cultivation)(http://vikaspedia.in/agriculture/crop-production/package-of-practices/medicinal-and-aromatic-plants/piper-longum-1)
+
+5. **[KAMPA - ಔಷಧಿ ಸಸ್ಯಗಳ ಕೃಷಿ ಕೈಪಿಡಿ (Medicinal Plants Cultivation Handbook)](../resources/books/KAMPA_Medicinal_Plants_Cultivation_Handbook.md)**. Karnataka Medicinal Plants Authority (KAMPA), Bengaluru, 2024, pp. 93-96+.
+   Cultivation details including soil requirements, propagation methods, planting, irrigation, harvest timing, yield estimates, and economics.

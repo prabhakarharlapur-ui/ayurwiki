@@ -105,6 +105,9 @@ Seeds, Cuttings.
 ## How to plant/cultivate
 A fairly easily grown plant, it requires a warm sheltered position in full sun and a well-drained moderately fertile soil
 
+Drought-resistant plant suited for semi-arid regions. Ideal soil pH 7.5-8, sandy loam or light red soil. Annual rainfall of 150-600 mm is ideal. Propagated through **seeds** (5 kg per hectare). Sow at 1-2 cm depth in nursery beds of 10 x 1 m. Transplant after 24 days of germination at 60 x 90 cm spacing. Apply FYM at 10 tonnes/hectare. Generally rainfed; 3-4 irrigations during dry spells if needed. 1-2 weedings at 30-day intervals. Crop matures in **150-170 days**. Harvest when leaves yellow and berries turn red by uprooting. Yield: 3-4 quintals dried roots per hectare. Economics: Rs. 120-180/kg; net profit Rs. 75,000-1,00,000 per hectare. Improved varieties: CIM-Pushti, Jawahar Asgandh-20, Jawahar Asgandh-134, Arka Ashwagandha, Poshita, Nimidha.
+
+
 ## Commonly seen growing in areas
 Open places, Cold areas.
 
@@ -131,3 +134,6 @@ Open places, Cold areas.
 3. [description](Plant)(http://pza.sanbi.org/withania-somnifera)
 4. [preparations](Ayurvedic)(https://easyayurveda.com/2014/06/22/ashwagandha-withania-somnifera-benefits-dose-side-effects/)
 5. [details](Cultivation)(https://www.pfaf.org/user/Plant.aspx?LatinName=Withania+somnifera)
+
+6. **[KAMPA - ಔಷಧಿ ಸಸ್ಯಗಳ ಕೃಷಿ ಕೈಪಿಡಿ (Medicinal Plants Cultivation Handbook)](../resources/books/KAMPA_Medicinal_Plants_Cultivation_Handbook.md)**. Karnataka Medicinal Plants Authority (KAMPA), Bengaluru, 2024, pp. 13-16.
+   Cultivation details including soil requirements, propagation methods, planting, irrigation, harvest timing, yield estimates, and economics.

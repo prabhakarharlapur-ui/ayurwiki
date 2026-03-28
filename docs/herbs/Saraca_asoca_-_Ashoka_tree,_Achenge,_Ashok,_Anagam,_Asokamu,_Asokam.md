@@ -104,6 +104,9 @@ Seeds.
 ## How to plant/cultivate
 Land preparation and fertilizer application Pits of size 45 cm × 45 cm × 45 cm are prepared at a spacing of 3 m × 3 m. The pits are weathered and refilled with topsoil after mixing with 10 kg FYM per pit. An additional 10 kg manure should be applied as the follow-up dose during October–November.
 
+Medium-sized evergreen tree (up to 9 m) with compound pinnate leaves and orange flower clusters. Grows in humid subtropical regions, preferring shade and well-drained soil. Found naturally in Western Ghats, Sri Lanka, Orissa, and Assam at up to 750 m elevation. Propagated through **seeds** sown in nursery bags at 25 x 20 cm spacing. Germination in ~15 days. Transplant 12-month seedlings at 3 x 3 m or 3 x 6 m spacing during monsoon (June-July). About 550 plants per hectare. Apply 10 tonnes FYM per hectare. Water young plants regularly for 2 years; drought-tolerant once established. Pests: aphids. Diseases: leaf-yellowing fungal infections. Bark is the main harvested part. Trees start producing harvestable bark from **6-8 years**. Bark should be harvested sustainably, allowing regeneration. Economics: bark Rs. 150/kg.
+
+
 ## Commonly seen growing in areas
 Tropical area, Subtropical area, Himalayas
 
@@ -144,3 +147,6 @@ The Varah Purana describes the importance of planting and maintaining trees, inc
 6. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 33, 54, 72, 91.**
    Classified as Jangala-adapted (arid region) and part of the auspicious pentad (pancavrksa) of trees. In Dohada tradition, when a beautiful young woman adorned with anklet ornaments and painted with lac-dye touches the tree with her lotus-like feet, it instantaneously responds with pleasure and blooms profusely.
    > *As cited in: Vrksayurveda of Surapala, Verses 153, 226; Sections 5, 8, 14, 19*
+
+7. **[KAMPA - ಔಷಧಿ ಸಸ್ಯಗಳ ಕೃಷಿ ಕೈಪಿಡಿ (Medicinal Plants Cultivation Handbook)](../resources/books/KAMPA_Medicinal_Plants_Cultivation_Handbook.md)**. Karnataka Medicinal Plants Authority (KAMPA), Bengaluru, 2024, pp. 85-88.
+   Cultivation details including soil requirements, propagation methods, planting, irrigation, harvest timing, yield estimates, and economics.

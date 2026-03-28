@@ -98,6 +98,9 @@ Seeds, Cuttings.
 ## How to plant/cultivate
 It can be easily raised through seed and vegetative methods. But in commercial cultivation, propagation through seed is easy and economical. In India, it is cultivated as rainy season (Kharif) crop. Any soil having fair amount of organic matter is suitable for commercial cultivation of this crop. About 400 gms. seed are sufficient for one hectare
 
+Annual herb growing 1-2 feet tall in fields, gardens, and wastelands. Grows in sandy and clayey mixed soils with 750-1500 mm rainfall. Propagated through **seeds**. Prepare seedbed in March-April. Sow in nursery at 10 tonnes FYM per hectare. Transplant 30-day-old seedlings at 30 x 30 cm spacing in June-July. Irrigate as needed (approximately every 5 cm daily). Weed at 30 days after planting. Harvest at flowering stage, approximately **2-3 months** after transplanting. Remove entire plant, dry in shade. Yield: 40-50 quintals per hectare (dried leaf and whole plant). Economics: net profit Rs. 60,000-1,00,000 per hectare. Improved variety: CIM-Megha.
+
+
 ## Commonly seen growing in areas
 Village groves, Roadsides, Waste places.
 
@@ -123,3 +126,6 @@ Village groves, Roadsides, Waste places.
 3. [Cultivation](http://vikaspedia.in/agriculture/crop-production/package-of-practices/medicinal-and-aromatic-plants/andrographis-paniculata)
 4. **Ningombam, Sanjeev Kumar and Hazarika, Rituparna. "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes." *The International Journal of Bharatiya Knowledge System, Vol. 1, pp. 67-78*, 2024, pp. 71-72.**
    Used in Northeast Indian tribal medicine for its strong anti-inflammatory, antiviral, and antibacterial properties. Employed to treat infections, boost the immune system, and improve liver function.
+
+5. **[KAMPA - ಔಷಧಿ ಸಸ್ಯಗಳ ಕೃಷಿ ಕೈಪಿಡಿ (Medicinal Plants Cultivation Handbook)](../resources/books/KAMPA_Medicinal_Plants_Cultivation_Handbook.md)**. Karnataka Medicinal Plants Authority (KAMPA), Bengaluru, 2024, pp. 56-58.
+   Cultivation details including soil requirements, propagation methods, planting, irrigation, harvest timing, yield estimates, and economics.

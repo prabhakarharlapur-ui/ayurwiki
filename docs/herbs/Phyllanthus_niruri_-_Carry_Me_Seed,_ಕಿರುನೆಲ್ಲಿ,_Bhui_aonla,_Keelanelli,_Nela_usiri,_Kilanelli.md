@@ -74,6 +74,9 @@ Seeds.
 ## How to plant/cultivate
 Drip irrigation permitted successful cultivation during the dry season. Plastic mulch was used to control weeds.
 
+Small seasonal herb (10-50 cm) that resembles the amla plant. Grows in various soils in the Deccan plateau; propagates naturally through seeds with onset of rains. Can be cultivated as both rainy season and summer crop. Seeds: 400 g per acre. Apply 4 tonnes FYM per acre. Harvest entire three-month-old plants by pulling from the ground. Wash and dry in shade. Yield: 15-20 quintals dried herb per hectare. Economics: Rs. 70/kg; net profit Rs. 1,00,000-1,20,000 per hectare. Improved varieties: CIM Jeevan (Phyllanthin 0.77%).
+
+
 ## Commonly seen growing in areas
 Lowland forest.
 
@@ -92,3 +95,6 @@ Lowland forest.
 1. [composition](Chemical)(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6222918/#:~:text=Chemical%20Components,major%20constituents%20of%20Phyllanthus%20plants.)
 2. [Morphology](http://www.flowersofindia.net/catalog/slides/Carry%20Me%20Seed.html)
 3. [Details](Cultivation)(https://link.springer.com/article/10.1007/BF02862208#:~:text=Drip%20irrigation%20permitted%20successful%20cultivation,5%E2%80%937%20months%20after%20sowing.&text=amarus%20was%20produced%20when%20seeds,winter%20for%20a%20summer%20harvest.)
+
+4. **[KAMPA - ಔಷಧಿ ಸಸ್ಯಗಳ ಕೃಷಿ ಕೈಪಿಡಿ (Medicinal Plants Cultivation Handbook)](../resources/books/KAMPA_Medicinal_Plants_Cultivation_Handbook.md)**. Karnataka Medicinal Plants Authority (KAMPA), Bengaluru, 2024, pp. 53-55.
+   Cultivation details including soil requirements, propagation methods, planting, irrigation, harvest timing, yield estimates, and economics.

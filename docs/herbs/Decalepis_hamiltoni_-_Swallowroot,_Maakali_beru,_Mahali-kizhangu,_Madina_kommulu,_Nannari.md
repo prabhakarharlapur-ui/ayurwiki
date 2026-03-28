@@ -80,6 +80,8 @@ Follicles, 5.5 × 3 cm, Follicle oblong or lanceolate, cylindric 5.5 × 3 cm; ep
 Seeds, Cuttings
 
 ## How to plant/cultivate
+Perennial woody climber found in Western Ghats forests. Roots are thick, fragrant, up to 150 cm long. Endangered species with high commercial value. Sandy loam soil with good drainage and organic matter. Annual rainfall 800-1200 mm. Propagated through **seeds** (sow in February-March in nursery bags) and **stem cuttings** (2-3 node cuttings treated with 10 ppm IBA rooting hormone). Prepare pits of 45 x 45 x 45 cm at 3 x 3 m spacing. Add 10 kg FYM per pit. Plant in October-November. Provide trellis support. Irrigate every 4-7 days in dry season. Weed every 2-3 months. Harvest roots after **18-24 months**. Wash, shade-dry, and peel. Yield: 7,000-8,000 kg dried roots per hectare. Economics: fresh roots Rs. 250-350/kg; net profit Rs. 18,00,000-19,00,000 per hectare.
+
 ## Commonly seen growing in areas
 Dry Deciduous forests, Stony areas
 
@@ -107,3 +109,5 @@ Dry Deciduous forests, Stony areas
 4. [names](Common)(http://envis.frlht.org/index.php/bot_search)
 5. ”Karnataka Medicinal Plants Volume-3” by Dr.M. R. Gurudeva, Page No.1047, Published by Divyachandra Prakashana, #6/7, Kaalika Soudha, Balepete cross, Bengaluru
 6. "Essential oil constituents and in vitro antimicrobial activity of Decalepis hamiltonii roots against foodborne pathogens" Article by National Library of Medicine
+7. **[KAMPA - ಔಷಧಿ ಸಸ್ಯಗಳ ಕೃಷಿ ಕೈಪಿಡಿ (Medicinal Plants Cultivation Handbook)](../resources/books/KAMPA_Medicinal_Plants_Cultivation_Handbook.md)**. Karnataka Medicinal Plants Authority (KAMPA), Bengaluru, 2024, pp. 74-77.
+   Cultivation details including soil requirements, propagation methods, planting, irrigation, harvest timing, yield estimates, and economics.

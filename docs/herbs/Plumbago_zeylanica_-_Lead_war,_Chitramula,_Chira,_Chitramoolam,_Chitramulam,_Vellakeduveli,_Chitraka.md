@@ -115,6 +115,9 @@ Seeds, Stem cuttings.
 ## How to plant/cultivate
 This plant is cultivated in sandy-loam soils. Seeds are sown in nursery beds in the month of March-April.
 
+Two varieties: white (*P. zeylanica*) and red (*P. indica*). Grows in sandy soil with good drainage. Perennial shrub reaching 1.5-2 m height. Propagated through **stem cuttings** of 10-15 cm with 2-3 nodes from previous year's growth. Plant in March-April at 60 x 40 cm or 45 x 30 cm spacing. Apply 10 tonnes FYM per hectare. Irrigate 4-5 times during dry months. Weed monthly during initial growth. No major pest or disease problems; use neem oil formulation if needed. Harvest roots after **10-12 months**. Clean and dry roots to 5-7.5 cm size. Yield: approximately 7,000 kg fresh roots per hectare. Economics: Rs. 90-100/kg; net profit Rs. 5,00,000 per hectare.
+
+
 ## Commonly seen growing in areas
 Subtropical region, At Gardens, Warm temperate region, Cool climates, At thickets, Palm groves, Shandy hummocks, Shell mounds, Rocky places, At open areas.
 
@@ -141,3 +144,5 @@ Subtropical region, At Gardens, Warm temperate region, Cool climates, At thicket
 4. THE AYURVEDIC PHARMACOPOEIA OF INDIA, PART-I, VOLUME-1, page no 39.
 5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 253.**
    1. Chitramula root paste mixed with equal parts of Barleria (Gokarna) leaf is applied to affected areas for treating skin ailments and swellings. 2. Chitramula root decoction taken orally helps improve digestion and cures abdominal conditions. 3. Chitramula root is an important ingredient in many tr.
+6. **[KAMPA - ಔಷಧಿ ಸಸ್ಯಗಳ ಕೃಷಿ ಕೈಪಿಡಿ (Medicinal Plants Cultivation Handbook)](../resources/books/KAMPA_Medicinal_Plants_Cultivation_Handbook.md)**. Karnataka Medicinal Plants Authority (KAMPA), Bengaluru, 2024, pp. 30-32.
+   Cultivation details including soil requirements, propagation methods, planting, irrigation, harvest timing, yield estimates, and economics.

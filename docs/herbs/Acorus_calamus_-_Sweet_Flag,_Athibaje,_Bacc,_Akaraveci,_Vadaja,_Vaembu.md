@@ -82,6 +82,9 @@ Rhizomes.
 ## How to plant/cultivate
 Grows best in tropical/subtropical conditions. Field is prepared similar to paddy, with waterlogging and farmyard manure and the rhizomes are planted.
 
+Semi-aquatic plant with aromatic rhizomes, suited for hot humid tropical/subtropical regions. Grows in marshy areas and well-irrigated soil with adequate moisture. Propagated through **rhizome pieces** of 2-3 inches with well-developed buds. Plow field 4 times, apply 10 tonnes FYM per hectare. Plant at 30 x 30 cm spacing at 5 cm depth in June-July. Water regularly to maintain moisture but avoid waterlogging. Weed at 30 days after planting. No significant pest or disease problems. Harvest after **10-12 months**. Cut leaves, dig up rhizomes, clean and sun-dry. Yield: approximately 2,500 kg fresh rhizome per acre. Economics: Rs. 60-70/kg; net profit Rs. 90,000 per hectare.
+
+
 ## Commonly seen growing in areas
 North temperate hemisphere, Tropical asia, Himalayas.
 
@@ -112,3 +115,6 @@ North temperate hemisphere, Tropical asia, Himalayas.
    > *As cited in: Vrksayurveda of Surapala, Verses 242-244; Sections 17, 19*
 7. **Ningombam, Sanjeev Kumar and Hazarika, Rituparna. "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes." *The International Journal of Bharatiya Knowledge System, Vol. 1, pp. 67-78*, 2024, p. 71.**
    Valued in Northeast Indian tribal medicine for its sedative, analgesic, and antispasmodic properties. Employed to treat digestive disorders, fever, and respiratory conditions.
+
+8. **[KAMPA - ಔಷಧಿ ಸಸ್ಯಗಳ ಕೃಷಿ ಕೈಪಿಡಿ (Medicinal Plants Cultivation Handbook)](../resources/books/KAMPA_Medicinal_Plants_Cultivation_Handbook.md)**. Karnataka Medicinal Plants Authority (KAMPA), Bengaluru, 2024, pp. 59-61.
+   Cultivation details including soil requirements, propagation methods, planting, irrigation, harvest timing, yield estimates, and economics.

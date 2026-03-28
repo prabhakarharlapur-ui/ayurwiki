@@ -99,6 +99,9 @@ Seeds, Cuttings.
 ## How to plant/cultivate
 A plant of the moist to wet, lowland tropics, where it is found at elevations up to 1,000 metres. Can be easily grown from seed. Ocimum tenuiflorum is available through September to February.
 
+Grows in almost all soil types; loamy, laterite, and well-drained soils are most suitable. Six varieties: Rama Tulasi (green, broad leaves), Krishna Tulasi (dark, reddish stems), Vana Tulasi (*O. gratissimum*), Karpura Tulasi, Nimbe Tulasi (*O. africanum*), Kasturi Tulasi (*O. basilicum*). Propagated through **seeds** (300 g mixed with sand per hectare). Sow in June in seedbeds. Seedlings emerge in 5 days; transplant at 4-6 weeks at 60 x 40 cm spacing. Irrigate 4-5 times after monsoon during dry months. Weed monthly. No major pest or disease problems. Harvest above-ground parts at 10-12 months and subsequently. Multiple harvests per year. Dried leaf yield: approximately 500 kg per hectare; essential oil content about 0.5%. Economics: leaves at Rs. 100-120/kg; net profit Rs. 2,00,000-2,50,000 per hectare. Improved varieties: CIM-Angna, CIM-Ayu, CIM-Kanchan, CIM-Soumya, CIM-Jyoti.
+
+
 ## Commonly seen growing in areas
 Tropical area, Subtropical area, Warm fields.
 
@@ -140,3 +143,6 @@ Ayurvedic texts describe four types of Tulsi: Rama/Sri/Lakshmi (Green Leaf), Kri
    > *As cited in: Vrksayurveda of Surapala, Verse 1*
 7. **Ningombam, Sanjeev Kumar and Hazarika, Rituparna. "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes." *The International Journal of Bharatiya Knowledge System, Vol. 1, pp. 67-78*, 2024, p. 71.**
    Valued in Northeast Indian tribal medicine for its antimicrobial, adaptogenic, and anti-inflammatory properties. Used to boost immunity, manage stress, and treat respiratory infections.
+
+8. **[KAMPA - ಔಷಧಿ ಸಸ್ಯಗಳ ಕೃಷಿ ಕೈಪಿಡಿ (Medicinal Plants Cultivation Handbook)](../resources/books/KAMPA_Medicinal_Plants_Cultivation_Handbook.md)**. Karnataka Medicinal Plants Authority (KAMPA), Bengaluru, 2024, pp. 33-36.
+   Cultivation details including soil requirements, propagation methods, planting, irrigation, harvest timing, yield estimates, and economics.

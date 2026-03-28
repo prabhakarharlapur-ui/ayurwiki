@@ -101,6 +101,9 @@ Seeds, Cuttings.
 ## How to plant/cultivate
 A plant of the drier to wet, lowland tropics, where it is found at elevations up to 1,300 metres
 
+Thrives in fertile, well-drained loamy soils with 700-1700 mm annual rainfall and 12-32°C temperature range. Propagated through **semi-hardwood stem cuttings** of 15-20 cm with 3-4 nodes. Plant during June-July in nursery beds of 10 x 1 m. Transplant at 60 x 90 cm or 1 x 1 m spacing. Irrigate at 3-4 day intervals during establishment, then reduce. Pest-resistant due to bitter alkaloid content (vasicine). Harvest leaves **2 years** after planting. Perennial crop with 2-3 cuttings per year. Yield: 2,500-4,500 kg fresh leaves per hectare per year.
+
+
 ## Commonly seen growing in areas
 Himalayas, Tropical area, At cold forest.
 
@@ -130,3 +133,6 @@ Himalayas, Tropical area, At cold forest.
 6. Kappathagudda - A Repertoire of Medicinal Plants of Gadag, Page no: 42
 7. **Ningombam, Sanjeev Kumar and Hazarika, Rituparna. "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes." *The International Journal of Bharatiya Knowledge System, Vol. 1, pp. 67-78*, 2024, p. 72.**
    Known in Northeast Indian tribal medicine for bronchodilator and expectorant properties. Used to treat respiratory ailments including asthma, bronchitis, cough, and other respiratory disorders.
+
+8. **[KAMPA - ಔಷಧಿ ಸಸ್ಯಗಳ ಕೃಷಿ ಕೈಪಿಡಿ (Medicinal Plants Cultivation Handbook)](../resources/books/KAMPA_Medicinal_Plants_Cultivation_Handbook.md)**. Karnataka Medicinal Plants Authority (KAMPA), Bengaluru, 2024, pp. 17-19.
+   Cultivation details including soil requirements, propagation methods, planting, irrigation, harvest timing, yield estimates, and economics.

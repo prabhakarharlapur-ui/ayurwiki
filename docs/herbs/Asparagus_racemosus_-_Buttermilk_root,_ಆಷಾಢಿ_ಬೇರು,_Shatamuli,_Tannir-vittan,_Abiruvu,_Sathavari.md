@@ -113,6 +113,10 @@ Seeds, Root division.
 ## Cultivation Details
 Both seeds and crown rhizomes can be used for propagation. However, seeds are preferable on account of high production that makes up for low germination percentage in cultivation. Seeds may be collected from March to May when their colour changes from red to black. Seeds are sown in farm yard manure enriched soil. Shatavari is available through June to October.
 
+## How to plant/cultivate
+
+Perennial climbing herb with 15-40 cm long fleshy tuberous roots, 60-80 tubers per cluster. Grows in tropical/subtropical regions up to 1500 m. Sandy loam soil, pH 4.6-6.5. Annual rainfall 800-1200 mm; tolerates partial shade. Propagated through **seeds** (7 kg per hectare). Soak seeds for 2-3 days before sowing in October-November. Transplant 40-50 day seedlings at 45 x 30 cm spacing in May-June. Apply 10 tonnes FYM per hectare. Provide 4-6 feet support structures for climbing. Irrigate twice monthly in summer. Weed regularly after 30 days. Pests: stem borer, cluster bugs, mites. Diseases: leaf rot, powdery mildew. Harvest tuberous roots after **2-3 years**. Roots are 0.5-1 m long. Yield: approximately 3,300 kg dried roots per hectare; 6-10 kg dried roots per plant. Economics: Rs. 800-900/kg; net profit Rs. 14,70,000 per hectare. Variety: RS-1.
+
 ## Commonly seen growing in areas
 Forests, Thickets, Moisty soil area, Himalayas, Eastwards from Kashmir.
 
@@ -140,3 +144,6 @@ Forests, Thickets, Moisty soil area, Himalayas, Eastwards from Kashmir.
 5. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.1022, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune
 6. ”Karnataka Medicinal Plants Volume-3” by Dr.M. R. Gurudeva, Page No.1183, Published by Divyachandra Prakashana, #6/7, Kaalika Soudha, Balepete cross, Bengaluru
 7. Referred by an article from Easy Ayurveda Website
+
+8. **[KAMPA - ಔಷಧಿ ಸಸ್ಯಗಳ ಕೃಷಿ ಕೈಪಿಡಿ (Medicinal Plants Cultivation Handbook)](../resources/books/KAMPA_Medicinal_Plants_Cultivation_Handbook.md)**. Karnataka Medicinal Plants Authority (KAMPA), Bengaluru, 2024, pp. 78-80.
+   Cultivation details including soil requirements, propagation methods, planting, irrigation, harvest timing, yield estimates, and economics.

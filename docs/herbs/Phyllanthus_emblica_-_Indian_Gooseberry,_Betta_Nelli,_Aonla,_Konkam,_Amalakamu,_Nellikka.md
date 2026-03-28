@@ -101,6 +101,9 @@ Seeds, Cuttings.
 ## How to plant/cultivate
 A plant mainly of the hot, tropical lowlands, succeeding in both humid and semi-arid areas.
 
+Small to medium deciduous tree (8-10 m) grown in forests and orchards. Fruit contains 200 mg Vitamin C per 100 g, one of the richest natural sources. Sandy loam to medium black soils with good drainage; pH 6.5-9.5; 250-1500 mm rainfall. Propagated through **seeds** and **budding** (shield budding at 60° angle). Prepare pits of 2.5 x 1.8 m at 0.5 m depth in March-April. Plant during June-July. About 900 plants per acre. Irrigate every 3-6 days during dry season and flowering. Weed in initial years; apply mulch around base. Pests: bark borers, shootfly, fruit borers. Diseases: leaf blight, leaf spot. Use Bordeaux mixture and neem sprays. Trees bear fruit after **4-5 years**. Fruits mature in November, harvested by hand. Yield: 50-70 kg fruit per tree per year; 10,000-15,000 kg green fruit per hectare. Trees produce 20+ years. Varieties: Banarasi, Krishna, Chakaiya, Kanchan, Narendra Amla-6, 7, 9, 10. Economics: fruit Rs. 20-30/kg, powder Rs. 80-120/kg.
+
+
 ## Commonly seen growing in areas
 Mixed forests, Drier forests, Dry open sparse forests or scrub.
 
@@ -123,3 +126,6 @@ Mixed forests, Drier forests, Dry open sparse forests or scrub.
 1. [constituents](Chemical)(https://www.ncbi.nlm.nih.gov/pubmed/26415402)
 2. [Morphology](https://indiabiodiversity.org/species/show/31625)
 3. [details](Cultivation)(https://www.pfaf.org/user/Plant.aspx?LatinName=Phyllanthus+emblica)
+
+4. **[KAMPA - ಔಷಧಿ ಸಸ್ಯಗಳ ಕೃಷಿ ಕೈಪಿಡಿ (Medicinal Plants Cultivation Handbook)](../resources/books/KAMPA_Medicinal_Plants_Cultivation_Handbook.md)**. Karnataka Medicinal Plants Authority (KAMPA), Bengaluru, 2024, pp. 65-69.
+   Cultivation details including soil requirements, propagation methods, planting, irrigation, harvest timing, yield estimates, and economics.

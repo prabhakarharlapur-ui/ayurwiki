@@ -109,6 +109,10 @@ Seeds
 ## Cultivation Details
 Development of seedlings is very slow, and need to be in the nursery for at least a year. Bilva's availability period is from March to June
 
+## How to plant/cultivate
+
+Hardy deciduous tree (6-10 m) growing in light to heavy soils. Tolerates alkaline soils (pH 6.5-9.5), 250-1500 mm rainfall, and extreme temperatures. Propagated through **seeds** collected from ripe fruits. Seeds germinate in 10-12 days in nursery. Raise seedlings in polythene bags; transplant to main field at 10-12 m spacing. Moderate watering during first season and dry periods; drought-tolerant when established. No major pest or disease problems commercially. Weed around tree base regularly. Trees start bearing fruit at **7-8 years**. One tree yields 300-400 fruits per season. Varieties: Panta Aparna, Panta Shivani, Panta Sujata, Narendra Bael-5, 6, 9, 16, 17. Economics: fruit Rs. 40-60/kg, bark Rs. 50-70/kg, root Rs. 70-100/kg.
+
 ## Commonly seen growing in areas
 Tropical area, Temperate area.
 
@@ -147,3 +151,6 @@ The Atharvaveda (20.136.15) states: "A great person is good and benevolent like 
 7. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 26-27, 33, 67, 82.**
    Planting Bilva confers the grace of Lord Siva and the blessings of goddess Laksmi, ensuring prosperity for future generations. Classified as a Jangala-adapted (arid-region) tree. Used as a component of Pancamula in treating Kapha diseases of plants. Fruit-enhancement recipe: solution of guda (jaggery), ghee, milk, and honey applied as irrigation to bilva and kapittha trees (Verse 140).
    > *As cited in: Vrksayurveda of Surapala, Verses 1, 80, 140; Section 17 (Disease Treatment)*
+
+8. **[KAMPA - ಔಷಧಿ ಸಸ್ಯಗಳ ಕೃಷಿ ಕೈಪಿಡಿ (Medicinal Plants Cultivation Handbook)](../resources/books/KAMPA_Medicinal_Plants_Cultivation_Handbook.md)**. Karnataka Medicinal Plants Authority (KAMPA), Bengaluru, 2024, pp. 62-64.
+   Cultivation details including soil requirements, propagation methods, planting, irrigation, harvest timing, yield estimates, and economics.

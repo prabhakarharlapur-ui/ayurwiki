@@ -99,6 +99,9 @@ Seeds, Cuttings.
 ## How to plant/cultivate
 Its grows spontaneous in tropical forests (temp,10°C to 40°C) which are humid in summer at an altitude up to about 1200 metres.
 
+Important endangered perennial shrub (15-45 cm tall) with thick tuberous roots. Well-drained loamy to sandy loam soil, pH 4.6-6.5. Temperature 10-30°C. Prefers partial shade. Propagated through **seeds**, **root cuttings**, and **stem cuttings** (10-12 cm with nodes). Sow seeds in December-January in nursery bags at 25 x 20 cm spacing. Seeds germinate in ~15 days. Transplant after 3 months. Main field spacing 3 x 6 m; about 550 plants per hectare. Maintain moist conditions; irrigate during dry periods. Weed monthly. Naturally pest-resistant; no major diseases. Harvest roots after plant matures. Contains reserpine and serpentine alkaloids for treating hypertension. Economics: bark Rs. 150/kg.
+
+
 ## Commonly seen growing in areas
 Trophical region, Borders of forests and fields.
 
@@ -126,3 +129,6 @@ Trophical region, Borders of forests and fields.
 3. [Cultivation](http://www.yourarticlelibrary.com/biology/alkaloid/rauwolfia-sources-cultivation-and-uses-with-diagram/49643)
 4. **Ningombam, Sanjeev Kumar and Hazarika, Rituparna. "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes." *The International Journal of Bharatiya Knowledge System, Vol. 1, pp. 67-78*, 2024, p. 72.**
    Known in Northeast Indian tribal medicine for antihypertensive and sedative properties. Used to treat high blood pressure, anxiety, and insomnia.
+
+5. **[KAMPA - ಔಷಧಿ ಸಸ್ಯಗಳ ಕೃಷಿ ಕೈಪಿಡಿ (Medicinal Plants Cultivation Handbook)](../resources/books/KAMPA_Medicinal_Plants_Cultivation_Handbook.md)**. Karnataka Medicinal Plants Authority (KAMPA), Bengaluru, 2024, pp. 81-84.
+   Cultivation details including soil requirements, propagation methods, planting, irrigation, harvest timing, yield estimates, and economics.

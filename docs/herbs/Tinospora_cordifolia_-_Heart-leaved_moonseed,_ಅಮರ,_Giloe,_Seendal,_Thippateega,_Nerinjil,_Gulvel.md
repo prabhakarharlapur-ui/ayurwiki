@@ -109,6 +109,9 @@ Seeds, Stem Cuttings.
 ## How to plant/cultivate
 The land is ploughed, harrowed, and made weed-free.A basal dose of FYM (farmyard manure) @ 10 tonnes per hectare and half dose of nitrogen (75 kg) are applied at the time of land preparation.About 2500 cuttings are required for plantation in 1 hectare of land.No specific treatment is required before sowing.
 
+Grows in all types of soil, including sandy soil. Found across India in moist deciduous forests. Propagated primarily through **stem cuttings** of about 15 cm length; seed germination is low. Plant at 1 x 1 m spacing in the main field with support trees for climbing. Irrigate regularly through drip system during summer. Weed once every 30 days. No major pest or disease problems. Harvest mature stems of 2.5 cm diameter by cutting from the base. Yield: approximately 1,500 kg fresh stems per hectare, yielding about 300 kg dried material. Economics: Rs. 30-40/kg; net profit Rs. 60,000-90,000 per hectare.
+
+
 ## Commonly seen growing in areas
 Subtropical and tropical climate area, Sandy loam soil.
 
@@ -137,3 +140,6 @@ Subtropical and tropical climate area, Sandy loam soil.
 6. [names](Common)(http://www.flowersofindia.net/catalog/slides/Gulbel.html)
 7. **Ningombam, Sanjeev Kumar and Hazarika, Rituparna. "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes." *The International Journal of Bharatiya Knowledge System, Vol. 1, pp. 67-78*, 2024, p. 72.**
    Recognized in Northeast Indian tribal medicine for immunomodulatory, anti-inflammatory, and antipyretic properties. Used to boost immunity, treat fever, and manage diabetes.
+
+8. **[KAMPA - ಔಷಧಿ ಸಸ್ಯಗಳ ಕೃಷಿ ಕೈಪಿಡಿ (Medicinal Plants Cultivation Handbook)](../resources/books/KAMPA_Medicinal_Plants_Cultivation_Handbook.md)**. Karnataka Medicinal Plants Authority (KAMPA), Bengaluru, 2024, pp. 09-12.
+   Cultivation details including soil requirements, propagation methods, planting, irrigation, harvest timing, yield estimates, and economics.

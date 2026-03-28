@@ -73,6 +73,9 @@ Seeds
 
 ## How to plant/cultivate
 
+Grows in tropical and subtropical forest regions. Found naturally in the Western Ghats. A woody climbing shrub with red/orange fruits containing 1-4 seeds. Propagated from **seeds** and **stem cuttings**. Plant at 6 x 7 m spacing for commercial cultivation. Irrigate at 3-4 day intervals during summer; maintain soil moisture. Minimal weeding after first year. Harvest roots and stems after **3-4 years** of maturity. Yield: approximately 18 tonnes dried material per hectare per harvest cycle. Economics: roots at Rs. 100-125/kg; net profit Rs. 1,50,000 in first year.
+
+
 ## Commonly seen growing in areas
 Forests along sea-shores, Sandy river banks, Lowland primary forest.
 
@@ -92,3 +95,6 @@ Forests along sea-shores, Sandy river banks, Lowland primary forest.
 3. [names](Common)(https://sites.google.com/site/indiannamesofplants/via-species/s/salacia-chinensis)
 4. [Cultivation]
 5. Indian Medicinal Plants by C.P.Khare
+
+6. **[KAMPA - ಔಷಧಿ ಸಸ್ಯಗಳ ಕೃಷಿ ಕೈಪಿಡಿ (Medicinal Plants Cultivation Handbook)](../resources/books/KAMPA_Medicinal_Plants_Cultivation_Handbook.md)**. Karnataka Medicinal Plants Authority (KAMPA), Bengaluru, 2024, pp. 20-22.
+   Cultivation details including soil requirements, propagation methods, planting, irrigation, harvest timing, yield estimates, and economics.

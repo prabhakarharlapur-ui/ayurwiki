@@ -96,6 +96,9 @@ Seeds, Cuttings.
 The plant grows best in areas with a well-distributed rainfall of 600 - 1,000mm annually.
 The plant can be multiplied either by seeds or by stem cuttings.
 
+Woody climbing vine that suppresses sweet taste when chewed (hence 'Madhunashini' -- destroyer of sugar). Found in Western and Eastern Ghats at 100-1000 m elevation. Needs support structures for climbing. Two varieties: small-leaved (1.5-2.5 cm, hilly regions) and large-leaved (3.5-5 cm, plains). Propagated through **seeds** and **stem cuttings**. Plant at 25 x 25 cm spacing in nursery; transplant during June-July in pits of 2.5 x 1.8 m at 0.5 m depth. About 900 plants per acre. Provide trellis/Y-shaped supports at 1 m intervals. Irrigate every 3-6 days; increase in summer. Weed regularly; mulch around base. Pests: leaf-eating caterpillars. Diseases: leaf blight, leaf spot. Use neem spray and Bordeaux mixture. First leaf harvest after **2 years**. Harvest leaves by hand once/year; dry in shade. Yield: 10,000-15,000 kg fresh leaves per hectare. Economics: dried leaf Rs. 50-80/kg; net profit Rs. 4,00,000-5,00,000 per hectare.
+
+
 ## Commonly seen growing in areas
 Tropical forests, Southeast Asia, Plentiful moisture.
 
@@ -123,3 +126,6 @@ Tropical forests, Southeast Asia, Plentiful moisture.
 3. [preparations](Ayurvedic)(https://easyayurveda.com/2016/12/13/madhunashini-gudmar-gymnema-sylvestre/)
 4. [details](Cultivation)(http://agritech.tnau.ac.in/horticulture/horti_medicinal%20crops_gymnema.html)
 5. ”Karnataka Medicinal Plants Volume-3” by Dr.M. R. Gurudeva, Page No.299, Published by Divyachandra Prakashana, #6/7, Kaalika Soudha, Balepete cross, Bengaluru
+
+6. **[KAMPA - ಔಷಧಿ ಸಸ್ಯಗಳ ಕೃಷಿ ಕೈಪಿಡಿ (Medicinal Plants Cultivation Handbook)](../resources/books/KAMPA_Medicinal_Plants_Cultivation_Handbook.md)**. Karnataka Medicinal Plants Authority (KAMPA), Bengaluru, 2024, pp. 70-73.
+   Cultivation details including soil requirements, propagation methods, planting, irrigation, harvest timing, yield estimates, and economics.

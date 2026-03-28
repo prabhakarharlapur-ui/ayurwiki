@@ -102,6 +102,9 @@ Seeds, Cuttings.
 ## How to plant/cultivate
 Mucuna is a popular kharif crop in India. Seeds are sown at rate of 50 kg/ha between 15 June to 15th July with plant spacing of 60 × 60 cm. Delayed sowing may result in infestation of aphids (Aphis craccivora) (Oudhia 2001a ). Mucuna pruriens is available through August to January.
 
+Annual climbing legume suited for humid tropical and coastal areas. Grows in sandy loam to clay loam soils at 28-32°C with 60-65% humidity. Propagated through **seeds** (12 kg per acre). Sow directly in June-July at 30 x 30 cm spacing. Apply 10 tonnes FYM per hectare. Good drainage essential; no waterlogging. Irrigate every 15-20 days in November-December. Weed 2-3 times during growing season. Pests: grasshoppers and leaf-eating caterpillars; use neem oil spray. Harvest pods at **3-4 months** when mature but before opening. Handle carefully (pod hairs cause irritation). Yield: 1,500-1,750 kg dried seeds per hectare. Store at 10°C with <10% moisture. Economics: Rs. 60-80/kg; net profit Rs. 80,000-1,00,000 per hectare.
+
+
 ## Commonly seen growing in areas
 Tall grasslands, Meadows, Borders of forests and fields.
 
@@ -128,3 +131,6 @@ Tall grasslands, Meadows, Borders of forests and fields.
 4. [Cultivation](https://hort.purdue.edu/newcrop/CropFactSheets/mucuna.html)
 5. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.91, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune
 6. ”Karnataka Medicinal Plants Volume-3” by Dr.M. R. Gurudeva, Page No.629, Published by Divyachandra Prakashana, #6/7, Kaalika Soudha, Balepete cross, Bengaluru
+
+7. **[KAMPA - ಔಷಧಿ ಸಸ್ಯಗಳ ಕೃಷಿ ಕೈಪಿಡಿ (Medicinal Plants Cultivation Handbook)](../resources/books/KAMPA_Medicinal_Plants_Cultivation_Handbook.md)**. Karnataka Medicinal Plants Authority (KAMPA), Bengaluru, 2024, pp. 40-43.
+   Cultivation details including soil requirements, propagation methods, planting, irrigation, harvest timing, yield estimates, and economics.

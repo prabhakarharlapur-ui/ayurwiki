@@ -105,6 +105,9 @@ Seeds, Cuttings.
 ## How to plant/cultivate
 The plant is propagated by soft herbaceous cuttings. For mass propagation, whole plant is cut into small divisions and planted directly in the sunken beds. About 62,500 nos. of cuttings required for planting one hectare area.
 
+Perennial creeping herb growing in wet, marshy areas and waterlogged soils. Requires warm humid conditions (28-32°C, 60-65% humidity). Propagated through **stem cuttings** of 15 cm with at least one node. Plant at 15-30 cm spacing within rows. Apply 10 tonnes FYM per hectare. Requires consistent high moisture; irrigate every 3-4 days in summer. Weed 2-3 times at 30-day intervals. No major diseases; use neem oil for minor fungal issues. Harvest whole plant by cutting above crown level. First harvest at 3 months; subsequent every 2-3 months. Yield: 10 tonnes fresh herb per hectare annually; 3,000-3,500 kg dried. Economics: Rs. 60-80/quintal; net profit Rs. 55,000 per hectare. Improved varieties: CIM-Jagriti (1.94-2.07% Bacoside-A), Pragutshe, Subodhak.
+
+
 ## Season to grow
 It prefers part to full sun and It prefers Summer season.
 
@@ -144,3 +147,5 @@ Moist and wet places, Irrigated fields, Borders of water, Bank of channels.
 5. [monnier on vikaspedia.in](Bacopa)(https://vikaspedia.in/agriculture/crop-production/package-of-practices/medicinal-and-aromatic-plants/bacopa-monnieri)
 6. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 421.**
    Bacopa monnieri (Brahmi) is one of the most important nootropic (brain tonic) herbs in Ayurveda. It is extensively used for improving memory, learning, and cognitive function, especially in mentally retarded children and elderly with memory loss. It has anti-anxiety, anti-inflammatory, anticonvulsan. Brahmi ghrita and Brahmi rasayana are classical Ayurvedic preparations. Fresh juice or powder preparations used for cognitive enhancement.
+7. **[KAMPA - ಔಷಧಿ ಸಸ್ಯಗಳ ಕೃಷಿ ಕೈಪಿಡಿ (Medicinal Plants Cultivation Handbook)](../resources/books/KAMPA_Medicinal_Plants_Cultivation_Handbook.md)**. Karnataka Medicinal Plants Authority (KAMPA), Bengaluru, 2024, pp. 44-47.
+   Cultivation details including soil requirements, propagation methods, planting, irrigation, harvest timing, yield estimates, and economics.
