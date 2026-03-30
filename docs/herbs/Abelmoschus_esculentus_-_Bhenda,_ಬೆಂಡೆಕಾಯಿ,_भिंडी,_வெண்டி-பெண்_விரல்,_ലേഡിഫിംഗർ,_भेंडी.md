@@ -51,10 +51,10 @@ The ripe fruits contain quercetin, Hyperin (hyperoside), Hydrolysate of precipit
 ## Common names
 | Language | Names |
 | --- | --- |
-| Sanskrit | Bbhenda, Darvika |
+| Sanskrit | Bhenda, Darvika |
 | English | Okra ladies Finger |
 | Hindi | Bhendi, Bhindi |
-| Kannada | Bendekaayi, |
+| Kannada | Bendekaayi |
 | Malayalam | Venda, Venta |
 | Marathi | Benda, Bhajichi-bhendi |
 | Tamil | Ventai, Vendai |
