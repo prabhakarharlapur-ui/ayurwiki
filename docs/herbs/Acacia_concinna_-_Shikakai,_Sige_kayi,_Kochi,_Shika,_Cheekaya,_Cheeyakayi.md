@@ -53,6 +53,16 @@ In commercial extracts, when the plant is hydrolyzed it yields lupeol, spinaster
 | Hindi | Kochi, Reetha |
 | English | Shikakai, Soap-pod |
 
+## Properties
+Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
+### Dravya
+### Rasa
+### Guna
+### Veerya
+### Vipaka
+### Karma
+### Prabhava
+
 ## Habit
 A large prickly climbing shrub
 
