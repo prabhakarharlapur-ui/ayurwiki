@@ -101,3 +101,4 @@ Tropical area
 1. [description](Botanic)(http://keralaplants.in/)
 2. [names](Vernacular)(http://www.flowersofindia.net/risearch/search.php?query=abutilon+persicum&stpos=0&stype=AND)
 3. Kappathagudda - A Repertoire of Medicinal Plants of Gadag, Page no: 31
+4. [Properties] Ask Ayurveda - Ethnobotanical and regional traditional medicine documentation
